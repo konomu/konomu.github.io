@@ -70,7 +70,7 @@ There are many different factors to consider at this stage, which I will summari
 
 ## Cases That Are Always Topic Sentences
 
-Let's look at the cases where the sentence/clause **must** have a topic. As you can see in our table, the first of these cases is when the **predicate describes a permanent or repetitive state not directly observable to the speaker**. In practice, this means that almost all sentences/clauses with a noun as its predicate will be topic sentences since most nouns don't imply a temporary state[^1]. Predicates that are adjectives like 高い or verbs like すぐれている which don't imply a temporary state also commonly lead to topic sentences. Example (1) is a topic sentence with an adjective predicate that expresses a permanent state.
+Let's look at the cases where the sentence/clause **must** have a topic. As you can see in our table, the first of these cases is when the **predicate describes a permanent state not directly observable to the speaker**. In practice, this means that almost all sentences/clauses with a noun as its predicate will be topic sentences since most nouns don't imply a temporary state[^1]. Predicates that are adjectives like 高い or verbs like すぐれている which don't imply a temporary state also commonly lead to topic sentences. Example (1) is a topic sentence with an adjective predicate that expresses a permanent state.
 
 [^1]: For exceptions, see [the addendum](wa-ga-addendum).
 
@@ -78,7 +78,7 @@ Let's look at the cases where the sentence/clause **must** have a topic. As you 
 
 When the predicate expresses some action or temporary state, the sentence might still have a topic if it's some action done **habitually**. This is effectively a permanent state.
 
->2\. <u>ゴリラは</u>、<ruby>毎日<rp>(</rp><rt>まいにち</rt><rp>)</rp></ruby><ruby>昼<rp>(</rp><rt>ひる</rt><rp>)</rp></ruby>と<ruby>夜<rp>(</rp><rt>よる</rt><rp>)</rp></ruby>の<ruby>二<rp>(</rp><rt>に</rt><rp>)</rp></ruby><ruby>回<rp>(</rp><rt>かい</rt><rp>)</rp></ruby><ruby>寝床<rp>(</rp><rt>ねどこ</rt><rp>)</rp></ruby>をつくって<ruby>寝<rp>(</rp><rt>ね</rt><rp>)</rp></ruby>る。<br>*Gorillas build their nests and sleep twice a day, once at noon and once at night.*
+>2\. <u>ゴリラは</u>、<ruby>毎日<rp>(</rp><rt>まいにち</rt><rp>)</rp></ruby><ruby>昼<rp>(</rp><rt>ひる</rt><rp>)</rp></ruby>と<ruby>夜<rp>(</rp><rt>よる</rt><rp>)</rp></ruby>の<ruby>二回<rp>(</rp><rt>にかい</rt><rp>)</rp></ruby><ruby>寝床<rp>(</rp><rt>ねどこ</rt><rp>)</rp></ruby>をつくって<ruby>寝<rp>(</rp><rt>ね</rt><rp>)</rp></ruby>る。<br>*Gorillas build their nests and sleep twice a day, once at noon and once at night.*
 
 The other case that necessitates that the sentence/clause has a topic covers questions that contain an **interrogative word**, like 誰, どれ, どこ, and 何. When the interrogative word is the subject of the sentence, it is typically marked by exclusive が, which makes it a specificational sentence. Remember that specificational sentences count as topic sentences, because the topic is contained in the predicate.
 
@@ -90,7 +90,7 @@ Apart from these cases, there are also situations where a topic is more likely t
 
 - Sentences are likely to be have a topic if the predicate is a **transitive verb**.
 
->4\. <ruby>陸上競技場<rp>(</rp><rt>りくじょうきょうぎじょう</rt><rp>)</rp></ruby>の<ruby>下<rp>(</rp><rt>した</rt><rp>)</rp></ruby>はでっかい<ruby>浄水場<rp>(</rp><rt>じょうすいじょう</rt><rp>)</rp></ruby>に⸺ <u><ruby>大阪府<rp>(</rp><rt>おおさかふ</rt><rp>)</rp></ruby><ruby>水道<rp>(</rp><rt>すいどう</rt><rp>)</rp></ruby><ruby>部<rp>(</rp><rt>ぶ</rt><rp>)</rp></ruby>は</u><ruby>二<rp>(</rp><rt>に</rt><rp>)</rp></ruby><ruby>十<rp>(</rp><rt>じゅう</rt><rp>)</rp></ruby><ruby>三<rp>(</rp><rt>さん</rt><rp>)</rp></ruby><ruby>日<rp>(</rp><rt>にち</rt><rp>)</rp></ruby>、こんな<ruby>新<rp>(</rp><rt>しん</rt><rp>)</rp></ruby>浄水場の<ruby>建設計画<rp>(</rp><rt>けんせつけいかく</rt><rp>)</rp></ruby>を<ruby>発表<rp>(</rp><rt>はっぴょう</rt><rp>)</rp></ruby>しました。<br>*An enormous water purification plant under the track and field! The Osaka Water Supply Authority announced its plans for such a construction project on the 23rd.*
+>4\. <ruby>陸上競技場<rp>(</rp><rt>りくじょうきょうぎじょう</rt><rp>)</rp></ruby>の<ruby>下<rp>(</rp><rt>した</rt><rp>)</rp></ruby>はでっかい<ruby>浄水場<rp>(</rp><rt>じょうすいじょう</rt><rp>)</rp></ruby>に⸺ <u><ruby>大阪府<rp>(</rp><rt>おおさかふ</rt><rp>)</rp></ruby><ruby>水道部<rp>(</rp><rt>すいどうぶ</rt><rp>)</rp></ruby>は</u><ruby>二十三日<rp>(</rp><rt>にじゅうさんにち</rt><rp>)</rp></ruby>、こんな<ruby>新<rp>(</rp><rt>しん</rt><rp>)</rp></ruby>浄水場の<ruby>建設計画<rp>(</rp><rt>けんせつけいかく</rt><rp>)</rp></ruby>を<ruby>発表<rp>(</rp><rt>はっぴょう</rt><rp>)</rp></ruby>しました。<br>*An enormous water purification plant under the track and field! The Osaka Water Supply Authority announced its plans for such a construction project on the 23rd.*
 
 - Sentences are likely to be have a topic if the subject/topic is **familiar information**.
 
@@ -183,7 +183,7 @@ a. The predicate is some **permanent state**.
 
 b. The topic is **familiar information**. It is something the listener knows about or has been previously mentioned.
 
->21\. <ruby>姉<rp>(</rp><rt>あね</rt><rp>)</rp></ruby>と<ruby>2人<rp>(</rp><rt>ふたり</rt><rp>)</rp></ruby>でパンを<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べていた。<u><ruby>姉<rp>(</rp><rt>あね</rt><rp>)</rp></ruby>は</u> ｢<ruby>真夏<rp>(</rp><rt>まなつ</rt><rp>)</rp></ruby>もおわりね｣ と<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>った。<br>*I was eating bread with my sister. My sister said, "So the peak of summer is over, huh?"*
+>21\. <ruby>姉<rp>(</rp><rt>あね</rt><rp>)</rp></ruby>と<ruby>2人<rp>(</rp><rt>ふたり</rt><rp>)</rp></ruby>でパンを<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べていた。<u>姉は</u> ｢<ruby>真夏<rp>(</rp><rt>まなつ</rt><rp>)</rp></ruby>もおわりね｣ と<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>った。<br>*I was eating bread with my sister. My sister said, "So the peak of summer is over, huh?"*
 
 Of these two reasons, the one that takes priority is (a). In other words, even if something is not familiar information, it may still become a topic if the statement has a predicate expressing a permanent state. This is a useful mental shortcut and it will cover most sentences, but it is not 100% accurate for predicting は/が usage because not all familiar information is topicalized.
 

@@ -18,7 +18,7 @@ hidden: true
 
 # <a name="how-emph" style="text-decoration: none; pointer-events: none;">How is it Emphasized?
 
-Contrastive は and exclusive が are both considered emphasis markers, and the first stage of our flowchart that isn't a simple yes/no question is the **principle of emphasis**. Its purpose is to catch the **usages of contrastive は and exclusive が that don't mark any type of subject or topic**. But in this section, we will discuss all sorts of usages of contrastive は and exclusive が, so you have an idea of when to use them at other points of the chart.
+Contrastive は and exclusive が are **emphasis markers**, and the first stage of our flowchart that isn't a simple yes/no question is the **principle of emphasis**. Its purpose in the flowchart is to catch the usages of contrastive は and exclusive が that don't mark any type of subject or topic, but in this chapter, I'll discuss all usages of contrastive は and exclusive が so you have an idea of when to use them at other points of the chart.
 
 It's possible to view both は and が as a spectrum. On the **spectrum of は**, we have topical は on one end, and contrastive は on the other end. On the **spectrum of が**, we have descriptive が on one end, and exclusive が on the other. Between topical は and descriptive が, we have a **spectrum of topicality**, indicating how topical the word is. Between contrastive は and exclusive が, we have a **spectrum of emphasis**, indicating in which way the word is emphasized.
 
@@ -76,7 +76,7 @@ All usages of contrastive は have one of two forms of contrast: **explicit** or
 
 Explicit contrast occurs when two explicit things are being contrasted.
 
->7\. <ruby>子供<rp>(</rp><rt>こども</rt><rp>)</rp></ruby>たちはカレー<u>は</u><ruby>作<rp>(</rp><rt>つく</rt><rp>)</rp></ruby>っているが、ごはん<u>は</u>まだ<ruby>炊<rp>(</rp><rt>た</rt><rp>)</rp></ruby>いていない。<br>*The kids are making curry, but the rice is not even cooked yet.*
+>7\. <ruby>子供<rp>(</rp><rt>こども</rt><rp>)</rp></ruby>たちは<u>カレーは</u><ruby>作<rp>(</rp><rt>つく</rt><rp>)</rp></ruby>っているが、<u>ごはんは</u>まだ<ruby>炊<rp>(</rp><rt>た</rt><rp>)</rp></ruby>いていない。<br>*The kids are making curry, but the rice is not cooked yet.*
 
 It often appears with multiple contrastive は, but it is possible with just one contrastive は as well. 
 
@@ -95,13 +95,13 @@ In the following examples, (9) shows opposite contrast, and (10) shows adjacent 
 
 >10\. 私は<u>肉は</u>スーパーで<ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>い、<u>魚は</u><ruby>市場<rp>(</rp><rt>いちば</rt><rp>)</rp></ruby>で買う。<br>*I buy meat at the supermarket, but I buy fish at the street market.*
 
-In sentences with **opposite** contrast, the predicates of the contrasted elements are usually positive and negative forms of the same predicate. They may also be predicates with opposite meanings. This is illustrated in example (9), with the predicates "好き" (like) and "好きではない" (don't like). 
+In sentences with **opposite** contrast, the predicates of the contrasted elements are usually positive and negative forms of the same predicate. They may also be predicates with opposite meanings. This is illustrated in example (9), with the predicates "好き" (*like*) and "好きではない" (*don't like*). 
 
 In sentences with **adjacent** contrast, the predicates of the contrasted elements are similar but express some subtle differences. This is illustrated in example (10), where the predicates are both "買う" (buy), but the location where the food is bought is different.
 
 Both of these usages of contrastive は are often connected with 〜が or 〜けど clauses. 
 
-Both (9) and (10) show contrastive は marking objects, while the topic of the sentence is "私" (I). None of the contrastive は in (9) and (10) following the topic "私は" mark the topic, so they are examples of type (c) は.
+Both (9) and (10) show contrastive は marking objects, while the topic of the sentence is "私" (*I*). None of the contrastive は in (9) and (10) following the topic "私は" mark the topic, so they are examples of type (c) は.
 
 
 ### Misfortunate Contrast
@@ -118,7 +118,7 @@ Misfortunate contrast is a relatively minor usage of explicit contrastive は th
 
 >14\. ｢<u><ruby>風<rp>(</rp><rt>かぜ</rt><rp>)</rp></ruby>は</u><ruby>冷<rp>(</rp><rt>つめ</rt><rp>)</rp></ruby>たいけど、ええ<ruby>天気<rp>(</rp><rt>てんき</rt><rp>)</rp></ruby>や。｣<br>*"The wind is cold, but it's nice out."*
 
-Although there is only one instance of contrastive は in (14), it still has explicit contrast, because "風は冷たい" (the wind is cold) and "ええ天気" (nice weather) are approximately opposite in meaning.
+Although there is only one instance of contrastive は in (14), it still has explicit contrast, because "風は冷たい" (*the wind is cold*) and "ええ天気" (*nice weather*) are approximately opposite in meaning.
 
 >15\. <u><ruby>雨<rp>(</rp><rt>あめ</rt><rp>)</rp></ruby>は</u><ruby>降<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby>っているが、<u><ruby>雪<rp>(</rp><rt>ゆき</rt><rp>)</rp></ruby>は</u>降っていない。<br>*It's raining, but not snowing.*
 
@@ -130,7 +130,7 @@ Although there is only one instance of contrastive は in (14), it still has exp
 
 Implicit contrast occurs when something being contrasted against isn't explicitly mentioned, only implied.
 
->18\. <ruby>子供<rp>(</rp><rt>こども</rt><rp>)</rp></ruby>たちはカレー<u>は</u><ruby>作<rp>(</rp><rt>つく</rt><rp>)</rp></ruby>っている。<br>*The kids are making curry. (But...)*
+>18\. <ruby>子供<rp>(</rp><rt>こども</rt><rp>)</rp></ruby>たちは<u>カレーは</u><ruby>作<rp>(</rp><rt>つく</rt><rp>)</rp></ruby>っている。<br>*The kids are making curry. (But...)*
 
 In (18), even though the making of curry is not explicitly being compared against something else, the contrastive は here implies that there is some other thing that hasn't been cooked yet.
 
@@ -175,7 +175,7 @@ However, we are not always strongly conscious of this implicitly contrasted stat
 
 >27\. <ruby>人間<rp>(</rp><rt>にんげん</rt><rp>)</rp></ruby>の<ruby>麻薬<rp>(</rp><rt>まやく</rt><rp>)</rp></ruby>には<ruby>中毒<rp>(</rp><rt>ちゅうどく</rt><rp>)</rp></ruby>がつきものだが、<ruby>猫<rp>(</rp><rt>ねこ</rt><rp>)</rp></ruby>のマタタビには<u>中毒は</u>ない。<br>*Human drugs are addictive, but there is no addictiveness in silver vine for cats.*
 
-In example (27), there is explicit contrast between "人間の麻薬には" (in human drugs) and "猫のマタタビには" (in silver vine for cats). However, it's hard to imagine something that can be explicitly contrasted with "中毒は" (addictiveness). Thus, when contrastive は is used with negative statements, the nuance of contrast is often weaker than that of positive statements, or completely absent, as is the case in (27). 
+In example (27), there is explicit contrast between "人間の麻薬には" (*in human drugs*) and "猫のマタタビには" (*in silver vine for cats*). However, it's hard to imagine something that can be explicitly contrasted with "中毒は" (*addictiveness*). Thus, when contrastive は is used with negative statements, the nuance of contrast is often weaker than that of positive statements, or completely absent, as is the case in (27). 
 
 You may also be familiar with the set phrase ではない/ではありません. The は in this phrase is also thought to be implicit contrastive は, but it has almost entirely lost its contrastive nuance.
 
@@ -207,7 +207,7 @@ If we were to use は in this statement instead, it would change the implied con
 
 A speaker might use this sentence as an answer to someone else asking「ホタルはいますか？」(Are there fireflies there?). Since ホタルがいる is being negated, we can rephrase this entire sentence to ｢ホタルがいるというわけではない。｣ (It is not true that there are fireflies.)
 
-(29) also follows the same principle, where contrastive は does not appear because ない is strongly bound to the predicate 知られている (known). Whether or not "this detail" (この点) is known has not been called into question, and the point of the sentence is not to confirm or deny whether or not "this detail" is well known, but to specify that it is "this detail" that is not well known.
+(29) also follows the same principle, where contrastive は does not appear because ない is strongly bound to the predicate 知られている (*known*). Whether or not "this detail" (*この点*) is known has not been called into question, and the point of the sentence is not to confirm or deny whether or not "this detail" is well known, but to specify that it is "this detail" that is not well known.
 
 This is the same concept acting through the addition of は in example (25).
 
@@ -219,7 +219,7 @@ The second point listed in the table at the beginning of this section, where the
 
 >30\. <ruby>野上<rp>(</rp><rt>のがみ</rt><rp>)</rp></ruby>は、<ruby>学生<rp>(</rp><rt>がくせい</rt><rp>)</rp></ruby>の<ruby>頃<rp>(</rp><rt>ころ</rt><rp>)</rp></ruby>から、<u><ruby>女<rp>(</rp><rt>おんな</rt><rp>)</rp></ruby>がいないことが</u>なかった...それも、いつも<ruby>複数<rp>(</rp><rt>ふくすう</rt><rp>)</rp></ruby>で...<br>*Nogami's never been without a girl, ever since we were students... and it's always been at least two at the same time...*
 
-The portion "女がいない" (without a girl) takes が because it's a strongly subordinate clause (see [Levels of Subordination](wa-ga-subordination#levels)). The が after こと, however, is present because it belongs to the set phrase ことがない. Usually, you can tell that something is a set phrase if it appears as one entry in a dictionary. If it appears with が, it is less likely to be expressed with contrastive は.
+The portion "女がいない" (*without a girl*) takes が because it's a strongly subordinate clause (see [Levels of Subordination](wa-ga-subordination#levels)). The が after こと, however, is present because it belongs to the set phrase ことがない. Usually, you can tell that something is a set phrase if it appears as one entry in a dictionary. If it appears with が, it is less likely to be expressed with contrastive は.
 
 # <a name="contrast-words" style="text-decoration: none; pointer-events: none;">Types of Words Contrastive は Can Mark
 
@@ -333,7 +333,7 @@ Another case where weak exclusion appears is in commands where the subject is ex
 
 # <a name="exclusion-words" style="text-decoration: none; pointer-events: none;">Types of Words Exclusive が Can Mark
 
-We already know that exclusive が can mark a subject, but there also exists another form of exclusive が called **subjectivizing exclusive が** that may mark non-subjects, turning them into subjects. This is the "exclusive が" that appears after the "Principle of Subordination" on the flowchart. Subjectivising esxclusive が is always strongly exclusive (but not all strongly exclusive が are subjectivising).
+We already know that exclusive が can mark a subject, but there also exists another form of exclusive が called **subjectivizing exclusive が** that may mark non-subjects, turning them into subjects. This is the "exclusive が" that appears after the "Principle of Subordination" on the flowchart. Subjectivizing esxclusive が is always strongly exclusive (but not all strongly exclusive が are subjectivizing).
 
 Unlike contrastive は, the set of case-marked nouns that subjectivizing exclusive が can mark is much more limited. For example, it may not mark objects.
 
@@ -363,7 +363,7 @@ The following table details the markers of case-marked nouns that subjectivizing
 
 >63\. <u>この<ruby>店<rp>(</rp><rt>みせ</rt><rp>)</rp></ruby>が</u>つけで<ruby>買物<rp>(</rp><rt>かいもの</rt><rp>)</rp></ruby>できる。<br>*You can shop on credit here.*
 
-This subjectivising function of exclusive が allows for the formation of sentences with multiple subjects. Example (60) and (62) are double-subject sentences, and the first clause of (61) is a triple-subject structure. Double-subject sentences can also be formed with topical は, which I explain in [Additional は Structures](wa-ga-other#additional).
+This subjectivizing function of exclusive が allows for the formation of sentences with multiple subjects. Example (60) and (62) are double-subject sentences, and the first clause of (61) is a triple-subject structure. Double-subject sentences can also be formed with topical は, which I explain in [Additional は Structures](wa-ga-other#additional).
 
 The set of adverbs that subjectivizing exclusive が can mark is also narrower than that of contrastive は. Generally, only adverbs that express **tense**, such as 今 or ことし, may be marked.
 
@@ -395,7 +395,7 @@ Notice that exclusive が makes an implication about other people (that they are
 <div class="footnotes" role="doc-endnotes">
   <ol>
     <li id="fn:1" role="doc-endnote">
-      <p>In the full flowchart, the "contrastive は" that comes after "Topic is Not the Predicate" refers to (b), while all other "contrastive は" on the chart refer to (c). The "exclusive が" after the "Principle of Emphasis" refers to (f). The "exclusive が" after the "Principle of Topic Position" refers to (e). In the simplified flowchart, all usages of は with contrastive nuance (b and c) are labeled contrastive は, and all usages of が with exclusive nuance (e and f) are labeled exclusive が.&nbsp;<a href="#fnref:1" class="reversefootnote" role="doc-backlink">↩</a></p>
+      <p>In the full flowchart, the "contrastive は" that comes after "Topic is Not the Predicate" refers to (b), while all other "contrastive は" on the chart refer to (c). The "exclusive が" after the "Principle of Emphasis" refers to (f), and the "exclusive が" after the "Principle of Topic Position" refers to (e). In the simplified flowchart, all usages of は with contrastive nuance (b and c) are labeled contrastive は, and all usages of が with exclusive nuance (e and f) are labeled exclusive が.&nbsp;<a href="#fnref:1" class="reversefootnote" role="doc-backlink">↩</a></p>
     </li>
   </ol>
 </div>

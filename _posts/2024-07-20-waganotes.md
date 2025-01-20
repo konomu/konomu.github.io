@@ -21,7 +21,7 @@ Sometimes, this structure can be used even if there is little exclusive nuance, 
 
 TODO: Maybe change example formatting so it uses one blockquote.
 change title and desc
-fix error example on basics
+finish exclusive が in basics
 
 # [は and が: An In-Depth Guide](https://konomu.github.io/wa-ga-basics)
 

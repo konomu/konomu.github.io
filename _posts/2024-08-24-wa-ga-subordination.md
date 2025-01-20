@@ -44,17 +44,17 @@ This general rule works because **が is most commonly used in subordinate claus
 
 Consider the following sentences (庵功雄, 2012). Example (1) uses は, and example (2) uses が.
 
->1\. <ruby>太郎<rp>(</rp><rt>たろう</rt><rp>)</rp></ruby><u><b>は</b></u><ruby>部屋<rp>(</rp><rt>へや</rt><rp>)</rp></ruby>に<ruby>入<rp>(</rp><rt>はい</rt><rp>)</rp></ruby>ると、すぐに<ruby>電気<rp>(</rp><rt>でんき</rt><rp>)</rp></ruby>をつけた。<br>2\. 太郎<u><b>が</b></u>部屋に入ると、すぐに電気をつけた。
+>1\. <u><ruby>太郎<rp>(</rp><rt>たろう</rt><rp>)</rp></ruby><b>は</b></u><ruby>部屋<rp>(</rp><rt>へや</rt><rp>)</rp></ruby>に<ruby>入<rp>(</rp><rt>はい</rt><rp>)</rp></ruby>ると、すぐに<ruby>電気<rp>(</rp><rt>でんき</rt><rp>)</rp></ruby>をつけた。<br>2\. <u>太郎<b>が</b></u>部屋に入ると、すぐに電気をつけた。
 
-Highlighting the clauses gives us the following diagram.
+Highlighting the clauses gives us the following diagrams.
 
 ![太郎は部屋に入ると、すぐに電気をつけた。and 太郎が部屋に入ると、すぐに電気をつけた。](assets/img/subord1.png)
 
 Here are the correct interpretations of these sentences. 
 
->1\. <ruby>太郎<rp>(</rp><rt>たろう</rt><rp>)</rp></ruby><u><b>は</b></u><ruby>部屋<rp>(</rp><rt>へや</rt><rp>)</rp></ruby>に<ruby>入<rp>(</rp><rt>はい</rt><rp>)</rp></ruby>ると、すぐに<ruby>電気<rp>(</rp><rt>でんき</rt><rp>)</rp></ruby>をつけた。<br>*After Taro entered the room, <b><u>he</u></b> turned on the light.*
+>1\. <u><ruby>太郎<rp>(</rp><rt>たろう</rt><rp>)</rp></ruby><b>は</b></u><ruby>部屋<rp>(</rp><rt>へや</rt><rp>)</rp></ruby>に<ruby>入<rp>(</rp><rt>はい</rt><rp>)</rp></ruby>ると、すぐに<ruby>電気<rp>(</rp><rt>でんき</rt><rp>)</rp></ruby>をつけた。<br>*After Taro entered the room, <b><u>he</u></b> turned on the light.*
 
->2\. 太郎<u><b>が</b></u>部屋に入ると、すぐに電気をつけた。<br>*After Taro entered the room, <b><u>I</u></b> turned on the light.*
+>2\. <u>太郎<b>が</b></u>部屋に入ると、すぐに電気をつけた。<br>*After Taro entered the room, <b><u>I</u></b> turned on the light.*
 
 We change our interpretation of who turns on the light depending on whether は or が is used. In example (1) with は, the subject/topic "太郎" (Taro) **cannot** be a part of the subordinate clause "部屋に入ると" (after × entered the room). This is only possible when "太郎" is not a topic and marked by が. 
 

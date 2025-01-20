@@ -150,11 +150,11 @@ The reason why "これ" in (13) is marked with exclusive が is because the noun
 
 # <a name="where-placed" style="text-decoration: none; pointer-events: none;">Where is the Topic Placed?
 
-In typical sentences with a topic, the topic is placed at the front of the sentence, and the comment is placed after it. Recall chapter 1, when we saw the topicalization of "この本" (this book) in the case structure "父がこの本を買ってくれた(こと)".
+In typical sentences with a topic, the topic is placed at the front of the sentence, and the comment is placed after it. Recall chapter 1, when we saw the topicalization of "この本" (this book) in the case relation "父がこの本を買ってくれた(こと)".
 
 >14\. <u>この<ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby></u><b>は</b><ruby>父<rp>(</rp><rt>ちち</rt><rp>)</rp></ruby>が<ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>ってくれた。
 
-Likewise, we can topicalize the clause "この本を買ってくれた" (bought this book for me) in the case structure "父がこの本を買ってくれた(こと)", so that it's placed at the front.[^5] The result is shown in (15). Notice that when we topicalize the verb predicate, it has to be **nominalized** first (made into a noun). We do this by adding a nominalizer like の, もの, こと, 人, ところ, or some other noun that the verb can modify. This is why の is added to the end of "この本を買ってくれた".
+Likewise, we can topicalize the clause "この本を買ってくれた" (bought this book for me) in the case relation "父がこの本を買ってくれた(こと)", so that it's placed at the front.[^5] The result is shown in (15). Notice that when we topicalize the verb predicate, it has to be **nominalized** first (made into a noun). We do this by adding a nominalizer like の, もの, こと, 人, ところ, or some other noun that the verb can modify. This is why の is added to the end of "この本を買ってくれた".
 
 [^5]:This sentence fits into [the ｢花が咲くのは7月ごろだ。｣ structure](wa-ga-other#hana).
 

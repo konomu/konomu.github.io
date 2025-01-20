@@ -36,13 +36,13 @@ Notice that not all sentences that follow the pattern 〜は〜が... count as d
 
 The sentence ｢象は鼻が長い。｣ is famous in discussions of Japanese grammar because of linguist Akira Mikami. In 1960, Mikami published『象ハ鼻ガ長イナア！』, in which he proposed that this sentence has no subject and advocated for the dismissal of the idea of the subject in Japanese. We'll subscribe to Mikami's interpretation of the sentence but keep the idea of the subject intact.
 
-According to Mikami's view, ｢象は鼻が長い。｣ is a sentence formed from the case structure "象の鼻が長い(こと)" by topicalizing the modifier "象の" (of elephants). A **modifier** is anything that modifies the meaning of something in the sentence. It can be an い-adjective, a な-adjective, or something marked by の.[^2]  But in this structure, the modifier will always be a `noun` + `の`. 
+According to Mikami's view, ｢象は鼻が長い。｣ is a sentence formed from the case relation "象の鼻が長い(こと)" by topicalizing the modifier "象の" (of elephants). A **modifier** is anything that modifies the meaning of something in the sentence. It can be an い-adjective, a な-adjective, or something marked by の.[^2]  But in this structure, the modifier will always be a `noun` + `の`. 
 
-Thus, the ｢象は鼻が長い。｣ structure is just another way of topicalizing a part of existing case structures. The noun being topicalized in this structure is **the modifier of a case-marked noun**.
+Thus, the ｢象は鼻が長い。｣ structure is just another way of topicalizing a part of existing case relations. The noun being topicalized in this structure is **the modifier of a case-marked noun**.
 
 [^2]: There are other types of modifiers in Japanese, but these are the only types that fit in our structures.
 
-![Diagram showing topicalization of 象 in the case structure 象の鼻が長い(こと)](assets/img/zou.png)
+![Diagram showing topicalization of 象 in the case relation 象の鼻が長い(こと)](assets/img/zou.png)
 
 Notice that the が in this structure is just a descriptive が with no exclusive nuance. We are simply stating that elephants "have long trunks," not specifying what part of elephants is long.
 
@@ -66,7 +66,7 @@ If we try anyway, we get <span style="color: #ff0040">"×かき料理の広島�
 
 ｢かき料理は広島が本場だ。｣ is actually derived from ｢広島がかき料理の本場(であること)｣. In this structure, the noun being topicalized is the **modifier of the predicate**. [^3] The predicate of this structure is always a noun.
 
-![Diagram showing topicalization of かき料理 in the case structure 広島がかき料理の本場(であること)](assets/img/kaki.png)
+![Diagram showing topicalization of かき料理 in the case relation 広島がかき料理の本場(であること)](assets/img/kaki.png)
 
 [^3]: Although it is technically possible to construe the topic in this structure as a subject, in practice this is somewhat irrelevant. In the model of generative grammar that Noda accepts, ｢かき料理は広島が本場だ。｣ passes through the stage ｢かき料理が広島が本場(であること)｣, and ｢辞書は新しいのがいい。｣ passes through the stage ｢辞書が新しいのがいい(こと)｣, but Noda says that these are highly unstable stages compared to the double-subject stages in the other structures. They are awkward and you probably won't see them often.
 
@@ -86,9 +86,9 @@ The が in this structure is a strongly exclusive が. This is a major differenc
 
 > <ruby>辞書<rp>(</rp><rt>じしょ</rt><rp>)</rp></ruby>は<ruby>新<rp>(</rp><rt>あたら</rt><rp>)</rp></ruby>しいのがいい。<br>*When it comes to dictionaries, new ones are better.*
 
-Here's another structure with the ｢～は～が...｣ pattern. In the sentence ｢辞書は新しいのがいい。｣, the modifier is "新しい" (new), and the noun that was topicalized is "辞書" (dictionary). To derive this sentence from its original case structure, we topicalize some **modified case-marked noun**, and the modifier of that element becomes the subject in the comment.
+Here's another structure with the ｢～は～が...｣ pattern. In the sentence ｢辞書は新しいのがいい。｣, the modifier is "新しい" (new), and the noun that was topicalized is "辞書" (dictionary). To derive this sentence from its original case relation, we topicalize some **modified case-marked noun**, and the modifier of that element becomes the subject in the comment.
 
-![Diagram showing topicalization of 辞書 in the case structure 新しい辞書がいい(こと)](assets/img/jisho.png)
+![Diagram showing topicalization of 辞書 in the case relation 新しい辞書がいい(こと)](assets/img/jisho.png)
 
 Sentences of this structure can be categorized into two types: the selective type and the parallel type.
 
@@ -118,7 +118,7 @@ The parallel-type sentence of this structure, on the other hand, **use descripti
 
 In this structure, the topicalized element is **inside of a subordinate clause**. This structure is similar to the basic topic sentence structure ｢父はこの本を買ってくれた。｣, in that the order of the elements does not necessarily change during the process of topicalization. However, notice that whatever becomes topicalized becomes a subject, similar to the topicalization process in the other double-subject structures.
 
-![Diagram showing topicalization of この問題 in the case structure この問題を解くのが難しい。(こと)](assets/img/mondai.png)
+![Diagram showing topicalization of この問題 in the case relation この問題を解くのが難しい。(こと)](assets/img/mondai.png)
 
 In this structure, が is descriptive, not exclusive.
 
@@ -134,9 +134,9 @@ In this structure, が is descriptive, not exclusive.
 
 > <ruby>花<rp>(</rp><rt>はな</rt><rp>)</rp></ruby>が<ruby>咲<rp>(</rp><rt>さ</rt><rp>)</rp></ruby>くのは<ruby>7月<rp>(</rp><rt>しちがつ</rt><rp>)</rp></ruby>ごろだ。<br>*The flowers bloom in July.*
 
-This structure is not a double-subject structure, and it is constructed by topicalizing a whole **clause** containing the main predicate of the case structure. Formally, this structure is known as a は-cleft sentence.
+This structure is not a double-subject structure, and it is constructed by topicalizing a whole **clause** containing the main predicate of the case relation. Formally, this structure is known as a は-cleft sentence.
 
-![Diagram showing topicalization of 花が咲く in the case structure 7月ごろ花が咲く(こと)](assets/img/hana.png)
+![Diagram showing topicalization of 花が咲く in the case relation 7月ごろ花が咲く(こと)](assets/img/hana.png)
 
 The function of this sentence is that the predicate "7月ごろ" (around July) is emphasized like something marked by exclusive が would be, but we are still stating something about the topic "花が咲く" (flowers bloom) without using exclusive が. In other words, there is exclusive nuance on "7月ごろ."
 
@@ -160,9 +160,9 @@ Notice that because we can't put は directly after "花が咲く," we have to n
 
 This structure is rarely seen in written language. Some linguists even consider it ungrammatical, but it has legitimate functions. It covers sentences like ｢このにおいはガスが漏れてるよ。｣
 
-If we try to work backward to uncover the case structure of this sentence, we find ourselves at a dead end. It makes little sense to accept <span style="color: #ff0040">"×このにおいがガスが漏れている(こと)"</span> as the case structure.
+If we try to work backward to uncover the case relation of this sentence, we find ourselves at a dead end. It makes little sense to accept <span style="color: #ff0040">"×このにおいがガスが漏れている(こと)"</span> as the case relation.
 
-The reason we can't find the case structure for these kinds of sentences is because something about the final spoken sentence has been altered. Formally, this structure is known as an anacoluthon. We can't construct a topicalization chart for this structure, so instead, we'll look at three major types of this structure you will encounter.
+The reason we can't find the case relation for these kinds of sentences is because something about the final spoken sentence has been altered. Formally, this structure is known as an anacoluthon. We can't construct a topicalization chart for this structure, so instead, we'll look at three major types of this structure you will encounter.
 
 ### The Redundant-Type
 
@@ -180,7 +180,7 @@ By repeating a portion of this sentence, we can tell that the speaker may have b
 
 ### The Omissive-Type
 
-Another reason we might not be able to reduce a sentence to its case structure is because some portion of the sentence has been left out.
+Another reason we might not be able to reduce a sentence to its case relation is because some portion of the sentence has been left out.
 
 >27\. <u>いまのうちの<ruby>会社<rp>(</rp><rt>かいしゃ</rt><rp>)</rp></ruby>のいいところは</u>、<ruby>雰囲気<rp>(</rp><rt>ふんいき</rt><rp>)</rp></ruby>が<ruby>自由<rp>(</rp><rt>じゆう</rt><rp>)</rp></ruby>なんですね。<br>*What's great about our company is it's easygoing.*
 
@@ -214,7 +214,7 @@ From all of the double-subject structures I described above and the examples dis
 
 > `Topic(Subject)` + `は` + `Comment(Subject + が + Predicate)`
 
-I explained four different double-subject structures, but all of them primarily lead to the same generic ｢～は～が...｣ structure above, even though the information contained in them is derived differently from their case structures.
+I explained four different double-subject structures, but all of them primarily lead to the same generic ｢～は～が...｣ structure above, even though the information contained in them is derived differently from their case relations.
 
 There is also a set of ｢～は～が...｣ sentences that come from the [Basic Topic Sentence](wa-ga-basics#topic-sentences) structures, where the element marked by は is not necessarily a subject, but may be some other case-marked noun or adverb.
 
@@ -222,13 +222,13 @@ There is also a set of ｢～は～が...｣ sentences that come from the [Basic
 
 > `Topic(Adverb)` + `は` + `Comment(Subject + が + Predicate)`
 
-All of these structures are very similar, only differing in the case of the topic. This is why some textbooks introduce ｢～は～が...｣ as a single structure. From a standpoint of teaching beginners, this is completely fine. It's probably easier for most learners to get used to the idea of a は-marked topic and the many forms it takes first, without having them think about the underlying case structure. The only problem with this is that they also tend to talk about the topic as if it were on the same layer as other grammatical features like the subject and the object. Unfortunately, this may mislead learners into thinking they are mutually exclusive, such that a given word in a sentence can't be a topic and subject at the same time.
+All of these structures are very similar, only differing in the case of the topic. This is why some textbooks introduce ｢～は～が...｣ as a single structure. From a standpoint of teaching beginners, this is completely fine. It's probably easier for most learners to get used to the idea of a は-marked topic and the many forms it takes first, without having them think about the underlying case relation. The only problem with this is that they also tend to talk about the topic as if it were on the same layer as other grammatical features like the subject and the object. Unfortunately, this may mislead learners into thinking they are mutually exclusive, such that a given word in a sentence can't be a topic and subject at the same time.
 
 # <a name="object-ga" style="text-decoration: none; pointer-events: none;">が as an Object Marker for Adjectives
 
 This usage was introduced by Kuno (1973), where he proposed that が may mark objects of some adjectives.[^5] The following examples are all borrowed from this source. These adjectives fall into three categories:
 
-[^5]: Kuno also proposed that が could be an object marker for certain transitive verbs. But in the grammar that Noda teaches, these sentences don't need to be described as such. For example, Kuno brings up the example ｢あなたは日本語が分かりますか？｣ (Do you understand Japanese?) where he describes "日本語" (Japanese) as an object and "あなた" (you) as a subject for the predicate "分かる" (understand). However, we can still recognize "日本語" as a subject if we recognize "あなた" as a topicalized に-element expressing an agent (where に has been deleted). The case structure would then be ｢あなたに日本語が分かる(こと)｣
+[^5]: Kuno also proposed that が could be an object marker for certain transitive verbs. But in the grammar that Noda teaches, these sentences don't need to be described as such. For example, Kuno brings up the example ｢あなたは日本語が分かりますか？｣ (Do you understand Japanese?) where he describes "日本語" (Japanese) as an object and "あなた" (you) as a subject for the predicate "分かる" (understand). However, we can still recognize "日本語" as a subject if we recognize "あなた" as a topicalized に-element expressing an agent (where に has been deleted). The case relation would then be ｢あなたに日本語が分かる(こと)｣
 
 <ol type="a">
   <li>Competence: adjectives like 上手, 苦手, 下手, 得意, うまい, etc.</li>
