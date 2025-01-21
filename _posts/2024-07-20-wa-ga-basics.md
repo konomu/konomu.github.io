@@ -79,7 +79,7 @@ In example (1), the topic of the sentence is "子供たち" (*kids*), marked by 
 
 Example (2) is a sentence with only one contrastive は. Even though the making of curry is not explicitly being contrasted with something else, the contrastive は here implies that there is some other thing that the kids have not cooked yet.
 
-You will learn more about contrastive は in [chapter 3: Principle of Emphasis](/wa-ga-emphasis).
+You will learn more about contrastive は in [Chapter 3: Principle of Emphasis](/wa-ga-emphasis).
 
 ## <a name="xga" style="text-decoration: none; pointer-events: none;">Exclusive が
 
@@ -119,7 +119,7 @@ All sentences in Japanese that use は or が can be categorized into one of nin
 
 The first seven structures (i through vii) are called **は structures** because they all contain topical は. The last two structures (viii and ix) are called **が structures** because they only contain が. **viii** uses descriptive が, and **ix** uses exclusive が. In the following chapter, we will learn about the three structures in bold (**i**, **viii**, and **ix**), as these are the most basic and common sentence structures in Japanese. The rest of the structures will be introduced in [Additional は Structures](wa-ga-other#additional).
 
-By familiarizing yourself with the prototypical sentence structures of Japanese grammar, my hope is that you'll be able to read a sentence and figure out *what* は or が is doing in that sentence. In chapters 2 through 6 of this series, you'll learn *why* one particle is used over the other, and how we can use that knowledge to choose between using は and が.
+By familiarizing yourself with the prototypical sentence structures of Japanese grammar, my hope is that you'll be able to read a sentence and figure out *what* は or が is doing in that sentence. In Chapters 2 through 6 of this series, you'll learn *why* one particle is preferred over the other and how to choose between using は and が.
 
 # <a name="topic-sentences" style="text-decoration: none; pointer-events: none;">｢父はこの本を買ってくれた。｣: Basic Topic Sentences
 
@@ -230,7 +230,7 @@ A sentence fits into this category when it describes something that will happen 
 
 >23\. ボタンを<ruby>押<rp>(</rp><rt>お</rt><rp>)</rp></ruby>すと、<u><ruby>音<rp>(</rp><rt>おと</rt><rp>)</rp></ruby>が</u><ruby>出<rp>(</rp><rt>で</rt><rp>)</rp></ruby>る。<br>*A sound will play when you press the button.*
 
-There is a caveat to this categorization system: **just because a sentence fits into one of these categories, doesn't necessarily mean the subject will always be marked by が.** If some portion of the sentence has been topicalized, it will feature は and fit into one of the は structures. If the subject has been topicalized, が will be dropped completely and be replaced by topical は. We'll learn more about when to use topical は versus descriptive が in [chapter 4](wa-ga-subordination) and [chapter 5](wa-ga-topic-presence).
+There is a caveat to this categorization system: **just because a sentence fits into one of these categories, doesn't necessarily mean the subject will always be marked by が.** If some portion of the sentence has been topicalized, it will feature は and fit into one of the は structures. If the subject has been topicalized, が will be dropped completely and be replaced by topical は. We'll learn more about when to use topical は versus descriptive が in [Chapter 4](wa-ga-subordination) and [Chapter 5](wa-ga-topic-presence).
 
 ### Examples of Topicless Sentences
 

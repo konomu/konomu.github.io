@@ -36,7 +36,7 @@ Notice that not all sentences that follow the pattern 〜は〜が... count as d
 
 The sentence ｢象は鼻が長い。｣ is famous in discussions of Japanese grammar because of linguist Akira Mikami. In 1960, Mikami published『象ハ鼻ガ長イナア！』, in which he proposed that this sentence has no subject and advocated for the dismissal of the idea of the subject in Japanese. We'll subscribe to Mikami's interpretation of the sentence but keep the idea of the subject intact.
 
-According to Mikami's view, ｢象は鼻が長い。｣ is a sentence formed from the case relation "象の鼻が長い(こと)" by topicalizing the modifier "象の" (of elephants). A **modifier** is anything that modifies the meaning of something in the sentence. It can be an い-adjective, a な-adjective, or something marked by の.[^2]  But in this structure, the modifier will always be a `noun` + `の`. 
+According to Mikami's view, ｢象は鼻が長い。｣ is a sentence formed from the case relation "象の鼻が長い(こと)" by topicalizing the modifier "象の". A **modifier** is anything that modifies the meaning of something in the sentence. It can be an い-adjective, a な-adjective, or something marked by の.[^2]  But in this structure, the modifier will always be a `noun` + `の`. 
 
 Thus, the ｢象は鼻が長い。｣ structure is just another way of topicalizing a part of existing case relations. The noun being topicalized in this structure is **the modifier of a case-marked noun**.
 
@@ -86,7 +86,7 @@ The が in this structure is a strongly exclusive が. This is a major differenc
 
 > <ruby>辞書<rp>(</rp><rt>じしょ</rt><rp>)</rp></ruby>は<ruby>新<rp>(</rp><rt>あたら</rt><rp>)</rp></ruby>しいのがいい。<br>*When it comes to dictionaries, new ones are better.*
 
-Here's another structure with the ｢～は～が...｣ pattern. In the sentence ｢辞書は新しいのがいい。｣, the modifier is "新しい" (new), and the noun that was topicalized is "辞書" (dictionary). To derive this sentence from its original case relation, we topicalize some **modified case-marked noun**, and the modifier of that element becomes the subject in the comment.
+Here's another structure with the ｢～は～が...｣ pattern. In the sentence ｢辞書は新しいのがいい。｣, the modifier is "新しい" (*new*), and the noun that was topicalized is "辞書" (*dictionary*). To derive this sentence from its original case relation, we topicalize some **modified case-marked noun**, and the modifier of that element becomes the subject in the comment.
 
 ![Diagram showing topicalization of 辞書 in the case relation 新しい辞書がいい(こと)](assets/img/jisho.png)
 
@@ -138,7 +138,7 @@ This structure is not a double-subject structure, and it is constructed by topic
 
 ![Diagram showing topicalization of 花が咲く in the case relation 7月ごろ花が咲く(こと)](assets/img/hana.png)
 
-The function of this sentence is that the predicate "7月ごろ" (around July) is emphasized like something marked by exclusive が would be, but we are still stating something about the topic "花が咲く" (flowers bloom) without using exclusive が. In other words, there is exclusive nuance on "7月ごろ."
+The function of this sentence is that the predicate "7月ごろ" (*around July*) is emphasized like something marked by exclusive が would be, but we are still stating something about the topic "花が咲く" (*flowers bloom*) without using exclusive が. In other words, there is exclusive nuance on "7月ごろ."
 
 The "Adverb or Case-Marked Noun" in this structure is often some word/phrase that expresses the reason or time for whatever is in the clause. 
 
@@ -170,7 +170,7 @@ Sometimes, we cannot reduce a sentence to its basic case marker structure becaus
 
 >24\. <u><ruby>500円硬貨<rp>(</rp><rt>ごひゃくえんこうか</rt><rp>)</rp></ruby>の<ruby>両替<rp>(</rp><rt>りょうがえ</rt><rp>)</rp></ruby>は</u>、<ruby>左側<rp>(</rp><rt>ひだりがわ</rt><rp>)</rp></ruby><ruby>5番<rp>(</rp><rt>ごばん</rt><rp>)</rp></ruby>の<ruby>機械<rp>(</rp><rt>きかい</rt><rp>)</rp></ruby>で<ruby>両替<rp>(</rp><rt>りょうがえ</rt><rp>)</rp></ruby>してください。<br>*To exchange 500 yen coins, please exchange them at machine number 5 to your left.*
 
-The redundant portion of (24) is "両替" (exchange). This sentence is an overlapping of (25) and (26).
+The redundant portion of (24) is "両替" (*exchange*). This sentence is an overlapping of (25) and (26).
 
 >25\. <u>500円硬貨両替は</u>、左側5番の機械でしてください。<br>*To exchange 500 yen coins, please refer to machine number 5 to your left.*
 
@@ -188,13 +188,13 @@ Another reason we might not be able to reduce a sentence to its case relation is
 
 >28\. <u>いまのうちの会社のいいところは</u>、雰囲気が自由なことなんですね。<br>*What's great about our company is that it's easygoing.*
 
-You may have heard of the so-called "うなぎ文" (eel sentences) before when discussing topical は. These sentences get their name from the prototypical sentence (29).
+You may have heard of the so-called うなぎ文 (*eel sentences*) before when discussing topical は. These sentences get their name from the prototypical sentence (29).
 
 >29\. ｢<u><ruby>僕<rp>(</rp><rt>ぼく</rt><rp>)</rp></ruby>は</u>うなぎだ。｣<br>*"I'm eating eel."*
 
-The context is that someone says this in response when a waiter asks who ordered eel. It makes no sense to assume that "僕" (I) is the strict subject of this sentence, because then the sentence would literally mean, "I am an eel." 
+If you were at a restaurant with a friend, and she turns to you and asks you what you're getting, this sentence would work completely fine to clarify that you want to order eel. It makes no sense to interpret the sentence to literally mean, "I am an eel." 
 
-We can say that eel sentences are omissive-type sentences of this structure. (29) in particular is constructed by omitting "を食べている" (am eating) from the end of the sentence, as in (30).
+Sentences with this kind of usage of は are called eel sentences. There have been many hypotheses about why these kinds of sentences are allowed in Japanese, but Noda's view is that these are omissive-type sentences. (29) in particular is constructed by omitting "を食べている" from the end of the sentence, as in (30).
 
 >30\. ｢<u>僕は</u>うなぎを<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べている。｣<br>*"I'm eating eel."*
 
@@ -206,7 +206,7 @@ Sentences with a topic that has an unclear case relation with the comment fall i
 
 >32\. <u><ruby>練習<rp>(</rp><rt>れんしゅう</rt><rp>)</rp></ruby>は</u>、<ruby>聞<rp>(</rp><rt>き</rt><rp>)</rp></ruby>きだす<ruby>回数<rp>(</rp><rt>かいすう</rt><rp>)</rp></ruby>を<ruby>徐々<rp>(</rp><rt>じょじょ</rt><rp>)</rp></ruby>に<ruby>減<rp>(</rp><rt>へ</rt><rp>)</rp></ruby>らしていきましょう。<br>*As you practice, try gradually reducing the amount of questions you ask.*
 
-The topics in (31) and (32), "作り方" (recipe) and "練習" (practice), only serve as a rough "headline" for the entire sentence that follows it.
+The topics in (31) and (32), "作り方" (*recipe*) and "練習" (*practice*), only serve as a rough "headline" for the entire sentence that follows it.
 
 # EXTRA: The Generic ｢～は～が...｣ Structure
 
@@ -222,13 +222,13 @@ There is also a set of ｢～は～が...｣ sentences that come from the [Basic
 
 > `Topic(Adverb)` + `は` + `Comment(Subject + が + Predicate)`
 
-All of these structures are very similar, only differing in the case of the topic. This is why some textbooks introduce ｢～は～が...｣ as a single structure. From a standpoint of teaching beginners, this is completely fine. It's probably easier for most learners to get used to the idea of a は-marked topic and the many forms it takes first, without having them think about the underlying case relation. The only problem with this is that they also tend to talk about the topic as if it were on the same layer as other grammatical features like the subject and the object. Unfortunately, this may mislead learners into thinking they are mutually exclusive, such that a given word in a sentence can't be a topic and subject at the same time.
+All of these structures are very similar and only differ in the case of the topic, so some learning resources introduce ｢～は～が...｣ as a single structure. From a standpoint of teaching beginners, this is completely fine. It's probably easier for most learners to get used to the idea of a は-marked topic and the many forms it takes first, without having them think about the underlying case relation. The only problem with this is that they also tend to talk about the topic as if it were on the same layer as other grammatical features like the subject and the object. Unfortunately, this may mislead learners into thinking they are mutually exclusive, such that a given word in a sentence can't be a topic and subject at the same time.
 
 # <a name="object-ga" style="text-decoration: none; pointer-events: none;">が as an Object Marker for Adjectives
 
 This usage was introduced by Kuno (1973), where he proposed that が may mark objects of some adjectives.[^5] The following examples are all borrowed from this source. These adjectives fall into three categories:
 
-[^5]: Kuno also proposed that が could be an object marker for certain transitive verbs. But in the grammar that Noda teaches, these sentences don't need to be described as such. For example, Kuno brings up the example ｢あなたは日本語が分かりますか？｣ (Do you understand Japanese?) where he describes "日本語" (Japanese) as an object and "あなた" (you) as a subject for the predicate "分かる" (understand). However, we can still recognize "日本語" as a subject if we recognize "あなた" as a topicalized に-element expressing an agent (where に has been deleted). The case relation would then be ｢あなたに日本語が分かる(こと)｣
+[^5]: Kuno also proposed that が could be an object marker for certain transitive verbs. But in the grammar that Noda teaches, these sentences don't need to be described as such. For example, Kuno brings up the example ｢あなたは日本語が分かりますか？｣ (Do you understand Japanese?) where he describes "日本語" (Japanese) as an object and "あなた" (*you*) as a subject for the predicate "分かる" (*understand*). However, we can still recognize "日本語" as a subject if we recognize "あなた" as a topicalized に-element expressing an agent (where に has been deleted). The case relation would then be ｢あなたに日本語が分かる(こと)｣
 
 <ol type="a">
   <li>Competence: adjectives like 上手, 苦手, 下手, 得意, うまい, etc.</li>
@@ -258,7 +258,7 @@ This usage was introduced by Kuno (1973), where he proposed that が may mark ob
   <p>40. きみは<u><ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby><ruby>語<rp>(</rp><rt>ご</rt><rp>)</rp></ruby>が</u><ruby>得意<rp>(</rp><rt>とくい</rt><rp>)</rp></ruby>ですか？<br><em>What language are you good at?</em></p>
   </blockquote>
   <blockquote>
-  <p>41. 僕は<ruby>泳<rt>およ</rt></ruby>ぐことが好きだ。<br><em>I like swimming.</em></p>
+  <p>41. 僕は<u><ruby>泳<rt>およ</rt></ruby>ぐことが</u>好きだ。<br><em>I like swimming.</em></p>
   </blockquote>
   <li>〜たい Derivatives: adjectives like 読みたい, 食べたい, etc.</li>
   <blockquote>
@@ -278,11 +278,11 @@ The information in this section is from 久野 (1973), ch. 25.
 
 >44a\. <u><ruby>太郎<rp>(</rp><rt>たろう</rt><rp>)</rp></ruby>は</u><ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>ましたか。<br>*Has Taro come?*<br><br>44b\. <span style="color: #ff0040">×<u>太郎が</u>来ましたか。</span><br><span style="color: #ff0040">*Taro has come?*</span>
 
-However, it is nonetheless possible for these topicless questions to exist if the descriptive nuance fits inside of them. In example (45), the speaker is not asking about Tarou and whether or not he has come, but confirming that "Tarou has come." with the listener.
+However, it is nonetheless possible for these topicless questions to exist if the descriptive nuance fits inside of them. In example (45), the speaker is not asking about Taro and whether or not he has come, but confirming that "Taro has come," with the listener.
 
 >45\. ああ、そうですか。<u>太郎が</u>来ましたか。<br>*Ah, I see. So Taro has come?*
 
-In other words, **descriptive が can appear in questions if the subject it marks is not the topic of the question.** It is unnatural to mark "雨" with が like in (46b), but the sentence is completely natural if we just add a topic like "外(で)" (outside), which is shown in 47.
+In other words, **descriptive が can appear in questions if the subject it marks is not the topic of the question.** It is unnatural to mark "雨" with が like in (46b), but the sentence is completely natural if we just add a topic like "外(で)" (*outside*), which is shown in 47.
 
 >46a\. <u><ruby>雨<rp>(</rp><rt>あめ</rt><rp>)</rp></ruby>は</u><ruby>降<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby>っていますか。<br>*Is it raining?*<br><br>46b\. <span style="color: #ff0040">×<u>雨が</u>降っていますか。</span><br><span style="color: #ff0040">*It is raining?*</span>
 
@@ -294,11 +294,11 @@ Examples (48a-b) and (49a-b) are perfectly natural sentences which contain descr
 
 >49a\. どこに、<u>太郎が</u><ruby>立<rp>(</rp><rt>た</rt><rp>)</rp></ruby>っていますか？<br>49b. <u>太郎が</u>立っているのは、どこですか？<br>*Where is Taro standing?*
 
-In example (48a), "太郎" (Taro) is marked by が because he is not the topic of the question. The topic is the clause "太郎が来ました," and this is an example of a topic which is not explicitly marked by は. The question is not about Taro the person, but the action of "coming" by Taro. 
+In example (48a), "太郎" (*Taro*) is marked by が because he is not the topic of the question. The topic is the clause "太郎が来ました," and this is an example of a topic which is not explicitly marked by は. The question is not about Taro the person, but the action of "coming" by Taro. 
 
 The same idea applies in (49a). The topic is not Taro, but the action of "standing" by Taro. 
 
-Descriptive が is allowed in (48a) and (49a) because the clauses they belong to have some subordinate character. These examples can be rephrased as (48b) and (49b), so that the descriptive が resides in strongly subordinate clauses.
+Descriptive が is allowed in (48a) and (49a) because the clauses they belong to have some subordinate character. These examples can be rephrased as (48b) and (49b), so that the descriptive が resides in strongly subordinate clauses. (48b) and (49b) belong to the [｢花が咲くのは7月ごろだ。｣](wa-ga-other#hana) structure.
 
 
 <h1 style="text-align:right;">

@@ -14,7 +14,7 @@ hidden: true
         <a href="wa-ga-topic-presence.html" class="nav-arrow">5. Principle of Topic Presence →</a>
 </div>
 
-![Location of page content in flowchart](assets/img/flowchart_subordination.png)
+<img src="assets/img/flowchart-subordination.png" alt="Location of page content in flowchart" style="width:700px;"/>
 
 # Can the Clause Have a Topic?
 
@@ -237,7 +237,7 @@ The subject of successive clauses is **not** the same as the the subject of the 
 
 >30\. なぜ<ruby>猫<rp>(</rp><rt>ねこ</rt><rp>)</rp></ruby>には、こんなに<ruby>派手<rp>(</rp><rt>はで</rt><rp>)</rp></ruby>に<ruby>変化<rp>(</rp><rt>へんか</rt><rp>)</rp></ruby>する<ruby>瞳孔<rp>(</rp><rt>どうこう</rt><rp>)</rp></ruby>があるのだろう。それは、<span style="color: #b2ffff">[<u>猫が</u><ruby>優<rp>(</rp><rt>すぐ</rt><rp>)</rp></ruby>れた<ruby>夜<rp>(</rp><rt>よる</rt><rp>)</rp></ruby>のハンターだから]</span>だ。<br>*Why do cats' pupils narrow and widen like so? It is because they are top-notch night hunters.*
 
-〜から, 〜ので, and 〜のに clauses are weakly subordinate (may take は or が) if it does not have this function. The method for choosing between は or が in this case is the same as it is for the main clause (covered in chapter 5 and 6).
+〜から, 〜ので, and 〜のに clauses are weakly subordinate (may take は or が) if it does not have this function. The method for choosing between は or が in this case is the same as it is for the main clause (covered in Chapter 5 and 6).
 
 >31\. <span style="color: #b2ffff">[この<ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby>は<ruby>面白<rp>(</rp><rt>おもしろ</rt><rp>)</rp></ruby>いので、]</span><ruby>読<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>んでみてください。<br>*This book is very interesting, so please read it.*
 

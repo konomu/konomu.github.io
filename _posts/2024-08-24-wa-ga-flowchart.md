@@ -35,7 +35,7 @@ Further research into the role of は and が in Japanese syntax structures has 
 
 Here's the resulting flowchart:
 
-![Flowchart](assets/img/flowchart.png)
+<img src="assets/img/flowchart.png" alt="Flowchart" style="width:700px;"/>
 
 The names of all of these new principles might sound daunting, but you can actually think of them as simple questions.
 
@@ -46,17 +46,17 @@ The names of all of these new principles might sound daunting, but you can actua
 | Topic Presence → | "Is There a Topic?" |
 | Topic Position → | "Which Part is The Topic?" and "Where is it Placed?" |
 
-We'll take a look at the rules that govern these principles in chapters 2 through 6.
+We'll take a look at the rules that govern these principles in Chapters 3 through 6.
 
-# <a name="simplified" style="text-decoration: none; pointer-events: none;">A Simplified Flowchart
+The "Object-Marking が" function in the flowchart above is explained in [Chapter 7](wa-ga-other#object-ga).
 
-The following flowchart is an heavily simplified version that is adapted from the system above.[^1]
+## <a name="simplified" style="text-decoration: none; pointer-events: none;"> EXTRA: Alternate Flowchart
 
-[^1]: It's just a coincidence that these two charts have roughly the same shape. Each node of the simplified chart doesn't correspond to the same node in the full chart. If you are using this flowchart to analyze existing sentences, it requires you to immediately recognize exclusive usages of が and contrastive usages of は. It also doesn't cover object-marking が.
+This flowchart is one based off of the full flowchart adapted from Noda's book that contains more yes/no questions. This is approximately my thought process when I want to think about why は/が is used in a sentence.
 
 ![Simplified flowchart](assets/img/simple-flowchart.png)
 
-Because of all of the shortcuts we've made here, I can't guarantee that this chart will always lead to the actual usage of は/が. This is partly because it doesn't account for some rules that you'll read about in the next sections, and partly because usage of は/が is **mostly, but not entirely predictable**. Even with the full flowchart model, this is unavoidable since it's not always clear which path to take.
+This chart doesn't always lead to the actual usage of は/が. This is partly because it doesn't account for some rules that you'll read about in the next sections, and partly because usage of は/が is **mostly, but not entirely predictable**. Even with the full flowchart model, this is unavoidable since it's not always clear which path to take.
 
 ## EXTRA: The Unpredictability of は and が
 
@@ -77,5 +77,3 @@ In our flowchart, this unpredictability in the examples above stems from the "Pr
 <h1 style="text-align:right;">
   <a href="/wa-ga-emphasis">Continued in 3. The Principle of Emphasis...</a>
 </h1>
-
-# Notes

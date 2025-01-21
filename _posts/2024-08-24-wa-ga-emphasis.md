@@ -14,11 +14,11 @@ hidden: true
         <a href="wa-ga-subordination.html" class="nav-arrow">4. Principle of Subordination →</a>
 </div>
 
-![Location of page content in flowchart](assets/img/flowchart_emphasis.png)
+<img src="assets/img/flowchart-emphasis.png" alt="Location of page content in flowchart" style="width:700px;"/>
 
 # <a name="how-emph" style="text-decoration: none; pointer-events: none;">How is it Emphasized?
 
-Contrastive は and exclusive が are **emphasis markers**, and the first stage of our flowchart that isn't a simple yes/no question is the **principle of emphasis**. Its purpose in the flowchart is to catch the usages of contrastive は and exclusive が that don't mark any type of subject or topic, but in this chapter, I'll discuss all usages of contrastive は and exclusive が so you have an idea of when to use them at other points of the chart.
+Contrastive は and exclusive が are **emphasis markers**, and the first stage of our flowchart is the **principle of emphasis**. In this chapter, I'll discuss all usages of both contrastive は and exclusive が.
 
 It's possible to view both は and が as a spectrum. On the **spectrum of は**, we have topical は on one end, and contrastive は on the other end. On the **spectrum of が**, we have descriptive が on one end, and exclusive が on the other. Between topical は and descriptive が, we have a **spectrum of topicality**, indicating how topical the word is. Between contrastive は and exclusive が, we have a **spectrum of emphasis**, indicating in which way the word is emphasized.
 
@@ -167,11 +167,11 @@ Implicit contrastive は is extremely common when the predicate is negative. The
 
 >25\. 日本の老人は<u>シャワーでは</u>がまんできん。<br>*The elderly of Japan can't stand just showering.*
 
-The reasoning for this is that a positive predicate is assumed to be the default state. When something is expressed to go against that default, we are **implicitly contrasting** it with something with the predicate's positive state. If we were to explicitly contrast the example above with this positive state (i.e. make the contrastive は explicit), it would look like (26).
+This happens because a positive predicate is typically considered to be the default state. When something is expressed to go against that default, we are **implicitly contrasting** it with something with the predicate's positive state. If we were to explicitly contrast the example above with this positive state (i.e. make the contrastive は explicit), it would look like (26).
 
 >26\. <ruby>日本<rp>(</rp><rt>にほん</rt><rp>)</rp></ruby>の<ruby>老人<rp>(</rp><rt>ろうじん</rt><rp>)</rp></ruby>は<ruby>入浴<rp>(</rp><rt>にゅうよく</rt><rp>)</rp></ruby>なら<ruby>週2回<rp>(</rp><rt>しゅうにかい</rt><rp>)</rp></ruby>でもがまんできるけど、<u>シャワーでは</u>がまんできん。<br>*The elderly of Japan can get by with bathing as long as it's at least twice a week, but they can't stand just showering.* 
 
-However, we are not always strongly conscious of this implicitly contrasted state, and with some negative statements, it's not easy to imagine such contrast. 
+However, we are not always strongly conscious of this implicitly contrasted state, and with some negative statements, it's not easy to imagine something that is contrasted against. 
 
 >27\. <ruby>人間<rp>(</rp><rt>にんげん</rt><rp>)</rp></ruby>の<ruby>麻薬<rp>(</rp><rt>まやく</rt><rp>)</rp></ruby>には<ruby>中毒<rp>(</rp><rt>ちゅうどく</rt><rp>)</rp></ruby>がつきものだが、<ruby>猫<rp>(</rp><rt>ねこ</rt><rp>)</rp></ruby>のマタタビには<u>中毒は</u>ない。<br>*Human drugs are addictive, but there is no addictiveness in silver vine for cats.*
 
@@ -191,9 +191,9 @@ Some statements will not contain contrastive は even if they are negative. Such
 
 >28\. <b><ruby>杉矢<rp>(</rp><rt>すぎや</rt><rp>)</rp></ruby>、ボー<ruby>然<rp>(</rp><rt>ぜん</rt><rp>)</rp></ruby>としている。</b><br><b>杉矢</b>｢...<u>ホタルが</u>いない...｣<br>*<b>*Sugiya stares into the distance*</b><br><b>Sugiya:</b> "I don't see a single firefly..."*
 
->29\. ウイルスのプログラムは、<ruby>単<rp>(</rp><rt>たん</rt><rp>)</rp></ruby>に<ruby>行動<rp>(</rp><rt>こうどう</rt><rp>)</rp></ruby><ruby>形態<rp>(</rp><rt>けいたい</rt><rp>)</rp></ruby>がウイルスに<ruby>似<rp>(</rp><rt>に</rt><rp>)</rp></ruby>ているから、そう<ruby>名付<rp>(</rp><rt>なづ</rt><rp>)</rp></ruby>けられているだけで、あらかじめプログラムの<ruby>上<rp>(</rp><rt>うえ</rt><rp>)</rp></ruby>で<ruby>決<rp>(</rp><rt>き</rt><rp>)</rp></ruby>められた行動をする<ruby>以外<rp>(</rp><rt>いがい</rt><rp>)</rp></ruby>の<ruby>何者<rp>(</rp><rt>なにもの</rt><rp>)</rp></ruby>でもない。そして、<ruby>自然界<rp>(</rp><rt>しぜんかい</rt><rp>)</rp></ruby>に<ruby>存在<rp>(</rp><rt>そんざい</rt><rp>)</rp></ruby>するウイルスと<ruby>違<rp>(</rp><rt>ちが</rt><rp>)</rp></ruby>って、<ruby>人間<rp>(</rp><rt>にんげん</rt><rp>)</rp></ruby>が<ruby>作<rp>(</rp><rt>つく</rt><rp>)</rp></ruby>ったものだということである。<u>この<ruby>点<rp>(</rp><rt>てん</rt><rp>)</rp></ruby>が</u>、<ruby>意外<rp>(</rp><rt>いがい</rt><rp>)</rp></ruby>と<ruby>知<rp>(</rp><rt>し</rt><rp>)</rp></ruby>られていない。<br>*Computer viruses are named so simply because their behavior resembles that of a virus, but they are nothing more than programs that carry out predetermined actions. And unlike viruses that exist in nature, these viruses are man-made. This detail is, surprisingly, not widely known.*
+>29\. ウイルスのプログラムは、<ruby>単<rp>(</rp><rt>たん</rt><rp>)</rp></ruby>に<ruby>行動<rp>(</rp><rt>こうどう</rt><rp>)</rp></ruby><ruby>形態<rp>(</rp><rt>けいたい</rt><rp>)</rp></ruby>がウイルスに<ruby>似<rp>(</rp><rt>に</rt><rp>)</rp></ruby>ているから、そう<ruby>名付<rp>(</rp><rt>なづ</rt><rp>)</rp></ruby>けられているだけで、あらかじめプログラムの<ruby>上<rp>(</rp><rt>うえ</rt><rp>)</rp></ruby>で<ruby>決<rp>(</rp><rt>き</rt><rp>)</rp></ruby>められた行動をする<ruby>以外<rp>(</rp><rt>いがい</rt><rp>)</rp></ruby>の<ruby>何者<rp>(</rp><rt>なにもの</rt><rp>)</rp></ruby>でもない。そして、<ruby>自然界<rp>(</rp><rt>しぜんかい</rt><rp>)</rp></ruby>に<ruby>存在<rp>(</rp><rt>そんざい</rt><rp>)</rp></ruby>するウイルスと<ruby>違<rp>(</rp><rt>ちが</rt><rp>)</rp></ruby>って、<ruby>人間<rp>(</rp><rt>にんげん</rt><rp>)</rp></ruby>が<ruby>作<rp>(</rp><rt>つく</rt><rp>)</rp></ruby>ったものだということである。<u>この<ruby>点<rp>(</rp><rt>てん</rt><rp>)</rp></ruby>が</u>、<ruby>意外<rp>(</rp><rt>いがい</rt><rp>)</rp></ruby>と<ruby>知<rp>(</rp><rt>し</rt><rp>)</rp></ruby>られていない。<br>*Computer viruses are named so simply because their behavior resembles that of a virus, but they are nothing more than programs that carry out predetermined actions. And unlike viruses that exist in nature, these viruses are man-made. It's this detail that is, surprisingly, not widely known.*
 
-(28) is a topicless sentence, while (29) is an specificational sentence. The ending ない seen in the predicate いる in (28) has a negating effect on the entirety of the word "いない", but unlike in negative statements with contrastive は, this effect does not extend to other words. So it is not the entire sentence ホタルがいる which is negated, but only the word いる. "いない" may be viewed as one component separate from all other phrases, similarly to the word "不在" (absent). 
+(28) is a topicless sentence, while (29) is an specificational sentence. The ending ない seen with the predicate いる in (28) has a negating effect on the entirety of the word "いない", but unlike in negative statements with contrastive は, this effect does not extend to other words. So it is not the entire sentence ホタルがいる which is negated, but only the word いる. "いない" may be viewed as one component separate from all other phrases, similarly to the word 不在 (*absent*). 
 
 The structure of (28) is:
 
@@ -205,15 +205,15 @@ If we were to use は in this statement instead, it would change the implied con
 
 > (```ホタル が いる``` + ```ない```) → ホタルはいない。
 
-A speaker might use this sentence as an answer to someone else asking「ホタルはいますか？」(Are there fireflies there?). Since ホタルがいる is being negated, we can rephrase this entire sentence to ｢ホタルがいるというわけではない。｣ (It is not true that there are fireflies.)
+A speaker might use this sentence as an answer to someone else asking「ホタルはいますか？」(*Are there fireflies there?*). Since ホタルがいる is being negated, we can rephrase this entire sentence to ｢ホタルがいるというわけではない。｣ (*"It is not true that there are fireflies."*)
 
-(29) also follows the same principle, where contrastive は does not appear because ない is strongly bound to the predicate 知られている (*known*). Whether or not "this detail" (*この点*) is known has not been called into question, and the point of the sentence is not to confirm or deny whether or not "this detail" is well known, but to specify that it is "this detail" that is not well known.
+(29) also follows the same principle, where contrastive は does not appear because ない is strongly bound to the predicate 知られている (*known*). Whether or not "this detail" (この点) is known has not been called into question, and the point of the sentence is not to confirm or deny whether or not "this detail" is well known, but to specify that it is "this detail" that is not well known.
 
 This is the same concept acting through the addition of は in example (25).
 
 > ```日本の老人 は``` + (```シャワーで がまんできる``` + ```ない```) → 日本の老人はシャワーではがまんできない。
 
-Although the entire sentence is not negated here, the contrastive は (after "シャワーで") is added as a result of ない acting upon the portion "シャワーで", not just "がまんできる." The question is whether or not Japan's elderly enjoy showering, and the answer is no, they would much prefer taking baths instead; they can't stand it when they can only shower.
+Although the entire sentence is not negated here, the contrastive は (after "シャワーで") is added as a result of ない acting upon the portion "シャワーで", not just "がまんできる." The question is whether or not Japan's elderly can bear with showering, and the answer is no, they would much prefer taking baths instead; they can't stand it when they can only shower.
 
 The second point listed in the table at the beginning of this section, where the negative predicate is strongly bound to its subject, covers sentences like (30).
 
@@ -377,7 +377,7 @@ Consider (65) and (66):
 
 >66\. <u>あいつは</u>許せない。(Contrastive は)<br>*He is __not__ forgivable.*
 
-The English translations and the emphasized words are approximations of the sentence's nuance. The first sentence with exclusive が is a statement that specifies **who** is unforgivable out of all people, while the second sentence with contrastive は is a statement that specifies **whether or not** this person is unforgivable (as contrastive は in a negative statement). We can rephrase (66) here into ｢あいつが許せるというわけではない。｣ ("It is not true that he is forgivable.") 
+The English translations and the emphasized words are approximations of the sentence's nuance. The first sentence with exclusive が is a statement that specifies **who** is unforgivable out of all people, while the second sentence with contrastive は is a statement that specifies **whether or not** this person is unforgivable (as contrastive は in a negative statement). We can rephrase (66) here into ｢あいつが許せるというわけではない。｣ (*"It is not true that he is forgivable."*) 
 
 Notice that exclusive が makes an implication about other people (that they are not the unforgivable ones), whereas this particular usage of contrastive は makes no implications about other people. Thus, contrastive は is not interchangeable with exclusive が in statements that explicitly specify something out of a pool of other things, like (67) and (68).
 

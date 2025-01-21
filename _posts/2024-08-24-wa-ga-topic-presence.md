@@ -14,7 +14,7 @@ hidden: true
         <a href="wa-ga-topic-position.html" class="nav-arrow">6. Principle of Topic Position →</a>
 </div>
 
-![Location of page content in flowchart](assets/img/flowchart_topic_presence.png)
+<img src="assets/img/flowchart-topic-presence.png" alt="Location of page content in flowchart" style="width:700px;"/>
 
 # Is There a Topic?
 
@@ -115,7 +115,7 @@ Familiar information is defined in the following table:
 
 >7\. パイロットの<ruby>家庭<rp>(</rp><rt>かてい</rt><rp>)</rp></ruby>は、<ruby>大変<rp>(</rp><rt>たいへん</rt><rp>)</rp></ruby>なんだ。<u><ruby>原因<rp>(</rp><rt>げんいん</rt><rp>)</rp></ruby>は</u>すべて<ruby>時差<rp>(</rp><rt>じさ</rt><rp>)</rp></ruby>にある。<br>*Pilots' families have it rough. It's all because of the time difference.*
 
-In (7), the topic "原因" (reason) is familiar information because it refers to the reason for the previous statement.
+In (7), the topic "原因" (*reason*) is familiar information because it refers to the reason for the previous statement.
 
 >8\. <u><ruby>気象庁<rp>(</rp><rt>きしょうちょう</rt><rp>)</rp></ruby>は</u><ruby>七日<rp>(</rp><rt>なのか</rt><rp>)</rp></ruby>、<ruby>阪神大震災<rp>(</rp><rt>はんしんだいしんさい</rt><rp>)</rp></ruby>(<ruby>兵庫県南部地震<rp>(</rp><rt>ひょうごけんなんぶじしん</rt><rp>)</rp></ruby>)の<ruby>現地<rp>(</rp><rt>げんち</rt><rp>)</rp></ruby><ruby>調査結果<rp>(</rp><rt>ちょうさけっか</rt><rp>)</rp></ruby>を<ruby>発表<rp>(</rp><rt>はっぴょう</rt><rp>)</rp></ruby>しました。<br>*The Japan Meteorological Agency announced the findings from its investigation concerning the Great Hanshin earthquake on the 7th.*
 
@@ -189,13 +189,13 @@ Of these two reasons, the one that takes priority is (a). In other words, even i
 
 ## <a name="new-old" style="text-decoration: none; pointer-events: none;">EXTRA: Familiar Information and New/Old Information
 
-A once popular way of teaching the difference between は/が was through the concept of "new information" (新情報) and "old information" (旧情報), but this idea is not explicitly taught in Noda's original book. I have decided to name Noda's concept as "familiar information". Notice that we did not talk about "old" or "new information" when we discussed what elements become topics, but only about what is "familiar information" and "not familiar information". These two concepts are related, but distinct from each other.
+A popular way of teaching the difference between は/が is through the concept of "new information" (新情報) and "old information" (旧情報), but this idea is not explicitly taught in Noda's original book. I have decided to name Noda's concept as "familiar information". Notice that we did not talk about "old" or "new information" when we discussed what elements become topics, but only about what is "familiar information" and "not familiar information". These two concepts are related, but distinct from each other.
 
 As 上林 (1988) points out, the definition of this new/old distinction has never been made rigorously clear and does not entirely describe functions of は/が if we simply define old information in the same way that we define familiar information. Noda brings up familiar information only to describe tendencies regarding topicalization, not to differentiate between functions of は and が.
 
-One explanation for the new/old dichotomy is that new information refers to something the listener presumably does not know, regardless of whether or not they are aware of it. For this reason, new/old information is also sometimes translated as "unknown" and "known" information.[^6]
+The definition I find works the best for the new/old dichotomy is that **new information refers to something the listener presumably does not know, regardless of whether or not they are aware of it**. For this reason, new/old information is also sometimes translated as "unknown" and "known" information.[^6]
 
-[^6]: But, even this definition of new/old information fails in certain cases (as discussed in 上林 (1988)). For more recently proposed information-structure models, see 天野 (1998) and 今田 (2010). 野田 (1996) discards the concept of new/old information in his description, although he builds off of it as foundational research.
+[^6]: But, even this definition of new/old information fails in certain cases (as discussed in 上林 (1988)).
 
 The following is a diagram marking the topic, comment, new information, and old information in our three most important sentence structures. Remember that specificational sentences are also topic sentences.
 

@@ -14,7 +14,7 @@ hidden: true
         <a href="wa-ga-other.html" class="nav-arrow">7. Other Usages and More は Structures →</a>
 </div>
 
-![Location of page content in flowchart](assets/img/flowchart_topic_position.png)
+<img src="assets/img/flowchart-topic-position.png" alt="Location of page content in flowchart" style="width:700px;"/>
 
 # Which Part is the Topic?
 
@@ -138,9 +138,9 @@ As mentioned in the table, familiar information tends to become the topic. Consi
 
 >12\. <ruby>途中<rp>(</rp><rt>とちゅう</rt><rp>)</rp></ruby>に<ruby>西宮名塩<rt>にしのみやなじお</rt></ruby>がある。<u><ruby>同<rp>(</rp><rt>どう</rt><rp>)</rp></ruby><ruby>駅<rp>(</rp><rt>えき</rt><rp>)</rp></ruby>は</u><ruby>複線<rp>(</rp><rt>ふくせん</rt><rp>)</rp></ruby><ruby>電化<rp>(</rp><rt>でんか</rt><rp>)</rp></ruby><ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>に<ruby>名塩<rp>(</rp><rt>なじお</rt><rp>)</rp></ruby>の<ruby>各<rp>(</rp><rt>かく</rt><rp>)</rp></ruby><ruby>住宅団地<rp>(</rp><rt>じゅうたくだんち</rt><rp>)</rp></ruby>のために<ruby>作<rp>(</rp><rt>つく</rt><rp>)</rp></ruby>られた。<br>*Nishinomiya-Najio is on the way there. The station of the same name was built when the line was electrified and double-tracked for the neighborhoods of Najio.*
 
-In (11), "俺" (I) is topicalized as familiar information because it refers to the speaker, who is by definition present at the scene of the conversation. It's very common for first and second-person pronouns to be topicalized because the speaker and the listener are always going to exist in the context of the sentence.
+In (11), "俺" (*I*) is topicalized as familiar information because it refers to the speaker, who is by definition present at the scene of the conversation. It's very common for first and second-person pronouns to be topicalized because the speaker and the listener are always going to exist in the context of the sentence.
 
-In (12), "同駅" (the station of the same name) is topicalized because it is related to "西宮名塩" (Nishinomiya-Najio), a town which was mentioned in the previous sentence.
+In (12), "同駅" (*the station of the same name*) is topicalized because it is related to "西宮名塩" (*Nishinomiya-Najio*), a town which was mentioned in the previous sentence.
 
 Some sentences violate this rule. In example (13), a specificational sentence, familiar information is marked by exclusive が, making it the comment.
 
@@ -150,11 +150,11 @@ The reason why "これ" in (13) is marked with exclusive が is because the noun
 
 # <a name="where-placed" style="text-decoration: none; pointer-events: none;">Where is the Topic Placed?
 
-In typical sentences with a topic, the topic is placed at the front of the sentence, and the comment is placed after it. Recall chapter 1, when we saw the topicalization of "この本" (this book) in the case relation "父がこの本を買ってくれた(こと)".
+In typical sentences with a topic, the topic is placed at the front of the sentence, and the comment is placed after it. Recall Chapter 1, when we saw the topicalization of "この本" (*this book*) in the case relation "父がこの本を買ってくれた(こと)".
 
 >14\. <u>この<ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby></u><b>は</b><ruby>父<rp>(</rp><rt>ちち</rt><rp>)</rp></ruby>が<ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>ってくれた。
 
-Likewise, we can topicalize the clause "この本を買ってくれた" (bought this book for me) in the case relation "父がこの本を買ってくれた(こと)", so that it's placed at the front.[^5] The result is shown in (15). Notice that when we topicalize the verb predicate, it has to be **nominalized** first (made into a noun). We do this by adding a nominalizer like の, もの, こと, 人, ところ, or some other noun that the verb can modify. This is why の is added to the end of "この本を買ってくれた".
+Likewise, we can topicalize the clause "この本を買ってくれた" (*bought this book for me*) in the case relation "父がこの本を買ってくれた(こと)", so that it's placed at the front.[^5] The result is shown in (15). Notice that when we topicalize the verb predicate, it has to be **nominalized** first (made into a noun). We do this by adding a nominalizer like の, もの, こと, 人, ところ, or some other noun that the verb can modify. This is why の is added to the end of "この本を買ってくれた".
 
 [^5]:This sentence fits into [the ｢花が咲くのは7月ごろだ。｣ structure](wa-ga-other#hana).
 
@@ -185,9 +185,9 @@ Let's look at a sentence that can't be inverted. Consider sentence (17) and its 
 
 >17\. <u>ビルの<ruby>高<rp>(</rp><rt>たか</rt><rp>)</rp></ruby>さは</u>85mです。<br>*The height of the building is 85 meters.*<br><br>18\. <span style="color: #ff0040">×85mがビルの高さです。</span><br><span style="color: #ff0040">*85 meters is the building's height.*</span>
 
-The topic in (17) and (18) is "ビルの高さ" (the height of the building), and the comment is "85m" (85 meters). "ビルの高さ" refers to the concept of the building's height, which is referential in this sentence. "85m" describes the value of the building's height, making it the predicative element of this sentence. In fact, nouns that express some kind of quantity are almost always predicative. As you can see in the table, **sentences where the referential element is topicalized cannot be inverted**, which is why (18) sounds awkward.
+The topic in (17) and (18) is "ビルの高さ" (*the height of the building*), and the comment is "85m" (*85 meters*). "ビルの高さ" refers to the concept of the building's height, which is referential in this sentence. "85m" describes the value of the building's height, making it the predicative element of this sentence. In fact, nouns that express some kind of quantity are almost always predicative. As you can see in the table, **sentences where the referential element is topicalized cannot be inverted**, which is why (18) sounds awkward.
 
-Now let's go back to our classic example ｢君が主役だ。｣. In this sentence, "君" (you) is the referential element, and "主役" (lead actor) is the predicative element because it is the "role" of "君." Since the predicative element is the topic, this sentence can be inverted.
+Now let's go back to our classic example ｢君が主役だ。｣. In this sentence, "君" (*you*) is the referential element, and "主役" (*lead actor*) is the predicative element because it is the **role** of "君." Since the predicative element is the topic, this sentence can be inverted.
 
 >19\. <u><ruby>主役<rp>(</rp><rt>しゅやく</rt><rp>)</rp></ruby>は</u><ruby>君<rp>(</rp><rt>きみ</rt><rp>)</rp></ruby>だ。<br>*The lead actor is you.*<br><br>20\. <u>君が</u>主役だ。<br>*You are the lead actor.*
 
@@ -195,7 +195,7 @@ If, however, we topicalize the referential element "君", it is no longer possib
 
 >21\. <u>君は</u>主役だ。<br>*You are a lead actor.*<br><br>22\. <span style="color: #ff0040">×主役が君だ。</span><br><span style="color: #ff0040">*A lead actor is you.*</span>
 
-In the example ｢その火事の原因は漏電だ。｣, the referential element is "漏電" (electrical fault) and the predicative element is "その火事の原因" (the cause of the fire). We can invert this sentence because the predicative element is topicalized.
+In the example ｢その火事の原因は漏電だ。｣, the referential element is "漏電" (*electrical fault*) and the predicative element is "その火事の原因" (*the cause of the fire*). We can invert this sentence because the predicative element is topicalized.
 
 >23\. <u>その<ruby>火事<rp>(</rp><rt>かじ</rt><rp>)</rp></ruby>の<ruby>原因<rp>(</rp><rt>げんいん</rt><rp>)</rp></ruby>は</u><ruby>漏電<rp>(</rp><rt>ろうでん</rt><rp>)</rp></ruby>だ。<br>*The cause of the fire is an electrical fault.*<br><br>24\. <u>漏電が</u>その火事の原因だ。<br>*An electrical fault is the cause of the fire.*
 
