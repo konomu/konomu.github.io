@@ -70,7 +70,11 @@ There are many different factors to consider at this stage, which I will summari
 
 ## Cases That Are Always Topic Sentences
 
-Let's look at the cases where the sentence/clause **must** have a topic. As you can see in our table, the first of these cases is when the **predicate describes a permanent state not directly observable to the speaker**. In practice, this means that almost all sentences/clauses with a noun as its predicate will be topic sentences since most nouns don't imply a temporary state[^1]. Predicates that are adjectives like 高い or verbs like すぐれている which don't imply a temporary state also commonly lead to topic sentences. Example (1) is a topic sentence with an adjective predicate that expresses a permanent state.
+Let's look at the cases where the sentence/clause **must** have a topic. 
+
+The first of these cases is when the **predicate describes a permanent state not directly observable to the speaker**. A permanent state is something that doesn't happen throughout a period of time.
+
+In practice, this means that **almost all sentences/clauses with a noun as its predicate will be topic sentences** since most nouns don't imply a temporary state[^1]. Predicates that are adjectives like 高い or verbs like すぐれている which don't imply a temporary state also commonly lead to topic sentences. Example (1) is a topic sentence with an adjective predicate that expresses a permanent state.
 
 [^1]: For exceptions, see [the addendum](wa-ga-addendum).
 
@@ -82,7 +86,7 @@ When the predicate expresses some action or temporary state, the sentence might 
 
 The other case that necessitates that the sentence/clause has a topic covers questions that contain an **interrogative word**, like 誰, どれ, どこ, and 何. When the interrogative word is the subject of the sentence, it is typically marked by exclusive が, which makes it a specificational sentence. Remember that specificational sentences count as topic sentences, because the topic is contained in the predicate.
 
->3\. ｢<u><ruby>誰<rp>(</rp><rt>だれ</rt><rp>)</rp></ruby>が</u>やったんだと<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>う？｣<br>*"Who do you think did it?"*
+>3\. ｢<span style="color: #b2ffff">[<u><ruby>誰<rp>(</rp><rt>だれ</rt><rp>)</rp></ruby>が</u>[やったん]だと]</span><ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>う？｣<br>*"Who do you think did it?"*
 
 ## Cases That Are Likely Topic Sentences
 
@@ -107,7 +111,7 @@ Familiar information is defined in the following table:
 </tbody>
 </table>
 
->5\. ｢<u>これは</u><ruby>楽器<rp>(</rp><rt>がっき</rt><rp>)</rp></ruby>のお<ruby>札<rp>(</rp><rt>さつ</rt><rp>)</rp></ruby>です。<ruby>受<rp>(</rp><rt>う</rt><rp>)</rp></ruby>けとって<ruby>下<rp>(</rp><rt>くだ</rt><rp>)</rp></ruby>さい｣ と<ruby>僕<rp>(</rp><rt>ぼく</rt><rp>)</rp></ruby>は<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>った。<br>*Here's the tag for your instrument. Please take it," I said.*
+>5\. ｢<u>これは</u><ruby>楽器<rp>(</rp><rt>がっき</rt><rp>)</rp></ruby>のお<ruby>札<rp>(</rp><rt>ふだ</rt><rp>)</rp></ruby>です。<ruby>受<rp>(</rp><rt>う</rt><rp>)</rp></ruby>けとって<ruby>下<rp>(</rp><rt>くだ</rt><rp>)</rp></ruby>さい｣ と<ruby>僕<rp>(</rp><rt>ぼく</rt><rp>)</rp></ruby>は<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>った。<br>*Here's the tag for your instrument. Please take it," I said.*
 
 >6\. ｢<u>これが</u>あのサントス・エルナンデスの、<ruby>変<rp>(</rp><rt>か</rt><rp>)</rp></ruby>わり<ruby>果<rp>(</rp><rt>は</rt><rp>)</rp></ruby>てた<ruby>姿<rp>(</rp><rt>すがた</rt><rp>)</rp></ruby>かね。｣<br>*"So this is what has become of the great Santos Hernandez?"*
 
@@ -119,7 +123,7 @@ In (7), the topic "原因" (*reason*) is familiar information because it refers 
 
 >8\. <u><ruby>気象庁<rp>(</rp><rt>きしょうちょう</rt><rp>)</rp></ruby>は</u><ruby>七日<rp>(</rp><rt>なのか</rt><rp>)</rp></ruby>、<ruby>阪神大震災<rp>(</rp><rt>はんしんだいしんさい</rt><rp>)</rp></ruby>(<ruby>兵庫県南部地震<rp>(</rp><rt>ひょうごけんなんぶじしん</rt><rp>)</rp></ruby>)の<ruby>現地<rp>(</rp><rt>げんち</rt><rp>)</rp></ruby><ruby>調査結果<rp>(</rp><rt>ちょうさけっか</rt><rp>)</rp></ruby>を<ruby>発表<rp>(</rp><rt>はっぴょう</rt><rp>)</rp></ruby>しました。<br>*The Japan Meteorological Agency announced the findings from its investigation concerning the Great Hanshin earthquake on the 7th.*
 
-(8) is an example sentence from a newspaper, and it assumes the reader is familiar with the Japan Meteorological Agency.
+(8) is an example sentence from a newspaper, and it assumes the reader is familiar with the "気象庁" (*Japan Meteorological Agency*).
 
 - Sentences are likely to have a topic if the subject/topic is separated from the predicate by many words (i.e., the sentence explains something about some topic).
 
@@ -137,15 +141,19 @@ By contrast, sentences with nothing between the subject and the predicate tend t
 
 ## Cases That Are Always Topicless Sentences
 
-There are two cases where a sentence will always become a topicless sentence. The first one is when **the predicate describes some event or temporary state directly observable to the speaker**. Furthermore, the sentence has to be spoken/narrated **as it is being perceived**. Sentences of this nature usually have verb predicates, such as 見える, 聞こえる, ある, and 来る. Example (12) shows one of these topicless sentences with a verb predicate. The important detail about these predicates is that they all express something happening within some time frame (as opposed to something with a permanent state). Adjective predicates are less common, and noun predicates in topicless sentences are rare.
+There are two cases where a sentence will always become a topicless sentence. 
+
+The first one is when **the predicate describes some event or temporary state that is directly observable to the speaker**. Furthermore, the sentence has to be spoken/narrated **as it is being perceived**. Sentences of this nature usually have verb predicates, such as 見える, 聞こえる, ある[^4], and 来る. Example (12) shows one of these topicless sentences with a verb predicate. The important detail about these predicates is that they all express something happening within some time frame (as opposed to something with a permanent state). Adjective predicates are less common, and noun predicates in topicless sentences are rare.
+
+[^4]: It might be a bit confusing that ある and いる are usually "temporary states" in Japanese. These verbs are sometimes translated as "to exist," but in practice, they usually refer to something existing in a temporary sense. To exist in a more permanent sense is usually expressed as "存在する."
 
 >12\. るり子ーッ、 <u><ruby>高原<rp>(</rp><rt>たかはら</rt><rp>)</rp></ruby>さんが</u>いらしたわよーッ｣<br>*Ruriko! Takahara is here!*
 
-Topicless sentences with an adjective predicate like (13) are more likely when the speaker is describing something that is directly observable, and spoken/narrated as it is being perceived.
+Topicless sentences with an adjective predicate like (13) are more likely when the speaker is describing something that is directly observable, and spoken/narrated as it is being perceived. "きれい" (*gorgeous*) is a temporary state because it refers to the gorgeousness of the moon as it is percieved by the speaker in the moment.
 
 >13\. ほーら、<u><ruby>月<rp>(</rp><rt>つき</rt><rp>)</rp></ruby>が</u>きれいだよ。<br>*Look, the moon is gorgeous!*
 
-Example (14) shows a topicless sentence with a noun predicate, which is relatively rare. These sentences violate the rule about permanent states and are easy to mistake as specificational sentences, but we can tell that this one is not an specificational sentence because its predicate is not a topic. More information about topicless noun sentences is presented in [the addendum](wa-ga-addendum#ndns).
+Example (14) shows a topicless sentence with a noun predicate, which is relatively rare. These sentences sometimes violate the rule about permanent states and are easy to mistake as specificational sentences, but we can tell that this one is not an specificational sentence because its predicate is not a topic. More information about topicless noun sentences is presented in [the addendum](wa-ga-addendum#ndns).
 
 >14\. <u>そこに<ruby>現<rp>(</rp><rt>あらわ</rt><rp>)</rp></ruby>れたのが</u><ruby>陽子<rp>(</rp><rt>ようこ</rt><rp>)</rp></ruby>だった。<br>*It was Yoko that showed up there.*
 
@@ -163,7 +171,7 @@ Just like we saw with topic sentences, there are cases where a sentence is likel
 
 - Sentences are likely to be topicless if the subject is **not familiar information**.
 
->17\. ところが、その<ruby>翌年<rp>(</rp><rt>よくねん</rt><rp>)</rp></ruby>、1989年の<ruby>初夏<rp>(</rp><rt>しょか</rt><rp>)</rp></ruby>にパソコン<ruby>雑誌<rp>(</rp><rt>ざっし</rt><rp>)</rp></ruby>で <u>｢サージョンウイルス｣ が</u><ruby>騒<rp>(</rp><rt>さわ</rt><rp>)</rp></ruby>がれだした。<br>*However, that following year in the summer of 1989, several PC magazines published articles about the "Surgeon virus".*
+>17\. ところが、その<ruby>翌年<rp>(</rp><rt>よくねん</rt><rp>)</rp></ruby>、1989年の<ruby>初夏<rp>(</rp><rt>しょか</rt><rp>)</rp></ruby>にパソコン<ruby>雑誌<rp>(</rp><rt>ざっし</rt><rp>)</rp></ruby>で <u>｢サージョンウイルス｣ が</u><ruby>騒<rp>(</rp><rt>さわ</rt><rp>)</rp></ruby>がれだした。<br>*However, that following year in the summer of 1989, several PC magazines published about the so-called "Surgeon virus".*
 
 - Sentences are likely to be topicless if it describes **something unexpected** happening.
 
@@ -185,7 +193,7 @@ b. The topic is **familiar information**. It is something the listener knows abo
 
 >21\. <ruby>姉<rp>(</rp><rt>あね</rt><rp>)</rp></ruby>と<ruby>2人<rp>(</rp><rt>ふたり</rt><rp>)</rp></ruby>でパンを<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べていた。<u>姉は</u> ｢<ruby>真夏<rp>(</rp><rt>まなつ</rt><rp>)</rp></ruby>もおわりね｣ と<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>った。<br>*I was eating bread with my sister. My sister said, "So the peak of summer is over, huh?"*
 
-Of these two reasons, the one that takes priority is (a). In other words, even if something is not familiar information, it may still become a topic if the statement has a predicate expressing a permanent state. This is a useful mental shortcut and it will cover most sentences, but it is not 100% accurate for predicting は/が usage because not all familiar information is topicalized.
+**Of these two reasons, the one that takes priority is (a).** In other words, even if something is not familiar information, it may still become a topic if the statement has a predicate expressing a permanent state. This is a useful mental shortcut and it will cover most sentences, but it is not 100% accurate for predicting は/が usage because not all familiar information is topicalized.
 
 ## <a name="new-old" style="text-decoration: none; pointer-events: none;">EXTRA: Familiar Information and New/Old Information
 

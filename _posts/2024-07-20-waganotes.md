@@ -29,6 +29,20 @@ finish exclusive が in basics
 
 >29\. ウイルスのプログラムは、<ruby>単<rp>(</rp><rt>たん</rt><rp>)</rp></ruby>に<ruby>行動<rp>(</rp><rt>こうどう</rt><rp>)</rp></ruby><ruby>形態<rp>(</rp><rt>けいたい</rt><rp>)</rp></ruby>がウイルスに<ruby>似<rp>(</rp><rt>に</rt><rp>)</rp></ruby>ているから、そう<ruby>名付<rp>(</rp><rt>なづ</rt><rp>)</rp></ruby>けられているだけで、あらかじめプログラムの<ruby>上<rp>(</rp><rt>うえ</rt><rp>)</rp></ruby>で<ruby>決<rp>(</rp><rt>き</rt><rp>)</rp></ruby>められた行動をする<ruby>以外<rp>(</rp><rt>いがい</rt><rp>)</rp></ruby>の<ruby>何者<rp>(</rp><rt>なにもの</rt><rp>)</rp></ruby>でもない。そして、<ruby>自然界<rp>(</rp><rt>しぜんかい</rt><rp>)</rp></ruby>に<ruby>存在<rp>(</rp><rt>そんざい</rt><rp>)</rp></ruby>するウイルスと<ruby>違<rp>(</rp><rt>ちが</rt><rp>)</rp></ruby>って、<ruby>人間<rp>(</rp><rt>にんげん</rt><rp>)</rp></ruby>が<ruby>作<rp>(</rp><rt>つく</rt><rp>)</rp></ruby>ったものだということである。<u>この<ruby>点<rp>(</rp><rt>てん</rt><rp>)</rp></ruby>が</u>、<ruby>意外<rp>(</rp><rt>いがい</rt><rp>)</rp></ruby>と<ruby>知<rp>(</rp><rt>し</rt><rp>)</rp></ruby>られていない。<br>*Computer viruses are named so simply because their behavior resembles that of a virus, but they are nothing more than programs that carry out predetermined actions. And unlike viruses that exist in nature, these viruses are man-made. This detail is, surprisingly, not widely known.*
 
+# Notes
+
+[^3]: Although it is technically possible to construe the topic in this structure as a subject, in practice this is somewhat irrelevant. In the model of generative grammar that Noda accepts, ｢かき料理は広島が本場だ。｣ passes through the stage ｢かき料理が広島が本場(であること)｣, and ｢辞書は新しいのがいい。｣ passes through the stage ｢辞書が新しいのがいい(こと)｣, but Noda says that these are highly unstable stages compared to the double-subject stages in the other structures. They are awkward and you probably won't see them often.
+
+<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p>In the full flowchart, the "contrastive は" that comes after "Topic is Not the Predicate" refers to (b), while all other "contrastive は" on the chart refer to (c). The "exclusive が" after the "Principle of Emphasis" refers to (f), and the "exclusive が" after the "Principle of Topic Position" refers to (e). In the simplified flowchart, all usages of は with contrastive nuance (b and c) are labeled contrastive は, and all usages of が with exclusive nuance (e and f) are labeled exclusive が.&nbsp;<a href="#fnref:1" class="reversefootnote" role="doc-backlink">↩</a></p>
+    </li>
+  </ol>
+</div>
+
 # [は and が: An In-Depth Guide](https://konomu.github.io/wa-ga-basics)
 
 This is my writing, but most material is from 『｢は｣ と ｢が｣』by Hisashi Noda. I believe it is probably the most comprehensive learner-oriented explanations of the Japanese topic system in English to date. I found that there was a lack of English resources on this subject that could accurately and adequately explain its intricacies, so this is an attempt to provide an accessible and easily digestible resource. There are 7 chapters of content, built around a flowchart model and prototypical sentences structures in Japanese. Feedback is appreciated.

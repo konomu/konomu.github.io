@@ -17,7 +17,7 @@ This guide heavily borrows concepts and examples from Hisashi Noda's (野田尚�
 
 ## Topical は
 
-The Japanese language has a special concept known as the **topic**. As its name implies, the topic is simply **something that the speaker is talking about**. In Japanese, **topics are commonly marked by は**. That means the topic of a sentence will often be followed immediately by は. We will call this usage **topical は**. Once a topic has been introduced in Japanese, it can persist across the end of its sentence and set the general theme for the following sentences. Almost all sentences that have a topic marked by topical は take the structure of:
+The Japanese language has a concept known as the **topic**. As its name implies, the topic is simply **something that the speaker is talking about**. In Japanese, **topics are commonly marked by は**. That means the topic of a sentence will often be followed immediately by は. We will call this usage **topical は**. Once a topic has been introduced in Japanese, it can persist across the end of its sentence and set the general theme for the following sentences. Almost all sentences that have a topic marked by topical は take the structure of:
 
 > `Topic` + `Topical は` + `Comment`
 
@@ -87,7 +87,7 @@ Exclusive が is a special usage of が that **specifies** whatever it marks[^3]
 
 [^3]: You may have also heard this form of が referred to before as exhaustive-listing が, or exhaustive が.
 
->3\. <ruby>神戸<rp>(</rp><rt>こうべ</rt><rp>)</rp></ruby>より<u><ruby>大阪<rp>(</rp><rt>おおさか</rt><rp>)</rp></ruby>のほうが</u>にぎやかだ。<br>*Osaka is a much more lively city than Kobe.*
+>3\. <ruby>神戸<rp>(</rp><rt>こうべ</rt><rp>)</rp></ruby>より<u><ruby>大阪<rp>(</rp><rt>おおさか</rt><rp>)</rp></ruby>のほうが</u>にぎやかだ。<br>*Osaka is much more lively than Kobe.*
 
 Example (3) specifies that "大阪のほう" (*Osaka*) is lively, more so than "神戸" (*Kobe*). Since the subject Osaka is marked by exclusive が, it has been given **exclusive emphasis**.
 
@@ -106,18 +106,18 @@ You'll learn more about exclusive が when we go over the [specificational sente
 All sentences in Japanese that use は or が can be categorized into one of nine structures, each represented by one of the following sentences.
 
 <ol type="i">
-  <b><li>｢<ruby>父<rp>(</rp><rt>ちち</rt><rp>)</rp></ruby>はこの<ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby>を<ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>ってくれた。｣</li></b>
+  <b><li>｢<ruby>父<rp>(</rp><rt>ちち</rt><rp>)</rp></ruby>はこの<ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby>を<ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>ってくれた。｣ - Basic Topic Sentence</li></b>
   <li>｢<ruby>象<rp>(</rp><rt>ぞう</rt><rp>)</rp></ruby>は<ruby>鼻<rp>(</rp><rt>はな</rt><rp>)</rp></ruby>が<ruby>長<rp>(</rp><rt>なが</rt><rp>)</rp></ruby>い。｣</li>
   <li>｢かき<ruby>料理<rp>(</rp><rt>りょうり</rt><rp>)</rp></ruby>は<ruby>広島<rp>(</rp><rt>ひろしま</rt><rp>)</rp></ruby>が<ruby>本場<rp>(</rp><rt>ほんば</rt><rp>)</rp></ruby>だ。｣</li>
   <li>｢<ruby>辞書<rp>(</rp><rt>じしょ</rt><rp>)</rp></ruby>は<ruby>新<rp>(</rp><rt>あたら</rt><rp>)</rp></ruby>しいのがいい。｣</li>
-  <li>｢<ruby>花<rp>(</rp><rt>はな</rt><rp>)</rp></ruby>が<ruby>咲<rp>(</rp><rt>さ</rt><rp>)</rp></ruby>くのは<ruby>7月<rp>(</rp><rt>しちがつ</rt><rp>)</rp></ruby>ごろだ。｣</li>
   <li>｢この<ruby>問題<rp>(</rp><rt>もんだい</rt><rp>)</rp></ruby>は<ruby>解<rp>(</rp><rt>と</rt><rp>)</rp></ruby>くのが<ruby>難<rp>(</rp><rt>むずか</rt><rp>)</rp></ruby>しい。｣</li>
+  <li>｢<ruby>花<rp>(</rp><rt>はな</rt><rp>)</rp></ruby>が<ruby>咲<rp>(</rp><rt>さ</rt><rp>)</rp></ruby>くのは<ruby>7月<rp>(</rp><rt>しちがつ</rt><rp>)</rp></ruby>ごろだ。｣</li>
   <li>｢このにおいはガスが<ruby>漏<rp>(</rp><rt>も</rt><rp>)</rp></ruby>れてるよ。｣</li>
-  <b><li>｢<ruby>富士山<rp>(</rp><rt>ふじさん</rt><rp>)</rp></ruby>が<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>えるよ。｣</li></b>
-  <b><li>｢<ruby>君<rp>(</rp><rt>きみ</rt><rp>)</rp></ruby>が<ruby>主役<rp>(</rp><rt>しゅやく</rt><rp>)</rp></ruby>だ。｣</li></b>
+  <b><li>｢<ruby>富士山<rp>(</rp><rt>ふじさん</rt><rp>)</rp></ruby>が<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>えるよ。｣ - Topicless Sentence</li></b>
+  <b><li>｢<ruby>君<rp>(</rp><rt>きみ</rt><rp>)</rp></ruby>が<ruby>主役<rp>(</rp><rt>しゅやく</rt><rp>)</rp></ruby>だ。｣ - Specificational Sentence</li></b>
 </ol>
 
-The first seven structures (i through vii) are called **は structures** because they all contain topical は. The last two structures (viii and ix) are called **が structures** because they only contain が. **viii** uses descriptive が, and **ix** uses exclusive が. In the following chapter, we will learn about the three structures in bold (**i**, **viii**, and **ix**), as these are the most basic and common sentence structures in Japanese. The rest of the structures will be introduced in [Additional は Structures](wa-ga-other#additional).
+The first seven structures (i through vii) are called **は structures** because they all contain topical は. The last two structures (viii and ix) are called **が structures** because they only contain が. **viii** uses descriptive が, and **ix** uses exclusive が. In the following sections, we will learn about the three structures in bold (**i**, **viii**, and **ix**), as these are the most common sentence structures in Japanese. The rest of the structures will be introduced in [Additional は Structures](wa-ga-other#additional).
 
 By familiarizing yourself with the prototypical sentence structures of Japanese grammar, my hope is that you'll be able to read a sentence and figure out *what* は or が is doing in that sentence. In Chapters 2 through 6 of this series, you'll learn *why* one particle is preferred over the other and how to choose between using は and が.
 
@@ -194,7 +194,7 @@ The は in examples (7) through (10) in the previous section can be viewed as to
 
 > <ruby>富士山<rp>(</rp><rt>ふじさん</rt><rp>)</rp></ruby>が<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>えるよ。<br>*I can see Mount Fuji.*
 
- ｢富士山が見えるよ。｣ is a sentence that **does not contain a topic**. We call these types of sentences **topicless sentences**. Naturally, sentences of this structure use **descriptive が**.
+ ｢富士山が見えるよ。｣ is a sentence that **does not contain a topic**, and we call these kinds of sentences **topicless sentences**. Sentences with this structure use **descriptive が**.
 
 ![Diagram showing structure of  ｢富士山が見えるよ。｣](assets/img/fuji.png)
 
@@ -230,7 +230,7 @@ A sentence fits into this category when it describes something that will happen 
 
 >23\. ボタンを<ruby>押<rp>(</rp><rt>お</rt><rp>)</rp></ruby>すと、<u><ruby>音<rp>(</rp><rt>おと</rt><rp>)</rp></ruby>が</u><ruby>出<rp>(</rp><rt>で</rt><rp>)</rp></ruby>る。<br>*A sound will play when you press the button.*
 
-There is a caveat to this categorization system: **just because a sentence fits into one of these categories, doesn't necessarily mean the subject will always be marked by が.** If some portion of the sentence has been topicalized, it will feature は and fit into one of the は structures. If the subject has been topicalized, が will be dropped completely and be replaced by topical は. We'll learn more about when to use topical は versus descriptive が in [Chapter 4](wa-ga-subordination) and [Chapter 5](wa-ga-topic-presence).
+It's very important to understand that **just because a sentence fits into one of these categories, doesn't necessarily mean the subject will always be marked by が.** If some portion of the sentence has been topicalized, it will feature は and fit into one of the は structures. If the subject has been topicalized, が will be dropped completely and replaced by topical は. We'll learn more about when to use topical は versus descriptive が in [Chapter 4](wa-ga-subordination) and [Chapter 5](wa-ga-topic-presence).
 
 ### Examples of Topicless Sentences
 
@@ -258,7 +258,7 @@ Remember that exclusive が functions as a way of **specifying** something. With
 
 [^6]:However, the nuance of exclusion in this specific sentence is relatively weak, because we haven't talked about any other person who could be the lead actor in the context of this example (See [Types of Exclusion](/wa-ga-emphasis#exclusion-types)). 
 
-One way of understanding the specificational sentence ｢君が主役だ。｣ is to derive it from the sentence ｢主役は君だ。｣. These two sentences have approximately the same meaning. To achieve this, all we have to do is **reverse the order of the topic and the comment, then replace topical は with exclusive が**. This process is called **inversion**. If a sentence with は is inverted, it is a specificational sentence.[^7]
+One way of understanding the specificational sentence ｢君が主役だ。｣ is to derive it from the basic topic sentence ｢主役は君だ。｣. These two sentences have approximately the same meaning. To achieve this, all we have to do is **reverse the order of the topic and the comment, then replace topical は with exclusive が**. This process is called **inversion**. If a sentence with は is inverted, it is a specificational sentence.[^7]
 
 [^7]:The specificational sentence (指定文) is the inverse of inverted specificational sentences (倒置指定文). Noda's sentence typology does not explicitly differentiate between the inverted specificational sentence and the predicational sentence (措定文). The section on [how to tell when inversion is possible](wa-ga-topic-position#spec-sup) is dedicated to teaching how to differentiate between the two, but I avoided alluding to 措定, as Noda also does. Both the predicational sentence and the inverted specificational sentence take the structure of ｢〜は〜だ。｣, while specificational sentences take the structure of ｢〜が〜だ。｣.
 

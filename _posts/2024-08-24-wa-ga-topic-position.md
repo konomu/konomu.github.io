@@ -150,19 +150,19 @@ The reason why "これ" in (13) is marked with exclusive が is because the noun
 
 # <a name="where-placed" style="text-decoration: none; pointer-events: none;">Where is the Topic Placed?
 
-In typical sentences with a topic, the topic is placed at the front of the sentence, and the comment is placed after it. Recall Chapter 1, when we saw the topicalization of "この本" (*this book*) in the case relation "父がこの本を買ってくれた(こと)".
+In [basic topic sentences](wa-ga-basics#topic-sentences), the topic is placed at the front of the sentence, and the comment is placed after it. Recall Chapter 1, when we saw the topicalization of "この本" (*this book*) in the case relation "父がこの本を買ってくれた(こと)".
 
->14\. <u>この<ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby></u><b>は</b><ruby>父<rp>(</rp><rt>ちち</rt><rp>)</rp></ruby>が<ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>ってくれた。
+>14\. <u>この<ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby></u><b>は</b><ruby>父<rp>(</rp><rt>ちち</rt><rp>)</rp></ruby>が<ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>ってくれた。<br>*This book is something my dad bought for me.*
 
 Likewise, we can topicalize the clause "この本を買ってくれた" (*bought this book for me*) in the case relation "父がこの本を買ってくれた(こと)", so that it's placed at the front.[^5] The result is shown in (15). Notice that when we topicalize the verb predicate, it has to be **nominalized** first (made into a noun). We do this by adding a nominalizer like の, もの, こと, 人, ところ, or some other noun that the verb can modify. This is why の is added to the end of "この本を買ってくれた".
 
 [^5]:This sentence fits into [the ｢花が咲くのは7月ごろだ。｣ structure](wa-ga-other#hana).
 
->15\. <u>この本を買ってくれたの</u><b>は</b>父だ。
+>15\. <span style="color: #b2ffff">[<u>この本を買ってくれたの</u>]</span><b>は</b>父だ。<br>*The one who bought this book for me is my dad.*
 
 [Inverting](wa-ga-basics/#spec-sentences) this sentence will then give us (16).
 
->16\. 父<b>が</b><u>この本を買ってくれたのだ</u>。
+>16\. 父<b>が</b><span style="color: #b2ffff">[<u>この本を買ってくれたの</u>]</span>だ。<br>*My dad is the one who bought this book for me.*
 
 Thus, the usage of は/が changes depending on what part of the sentence the topic is in. If the topic is **before** the predicate, it is marked by は. If the topic **is** the predicate, the subject will be marked with exclusive が. Remember that sentences with the topic in the predicate like (16) are called **specificational sentences**.
 
@@ -185,7 +185,7 @@ Let's look at a sentence that can't be inverted. Consider sentence (17) and its 
 
 >17\. <u>ビルの<ruby>高<rp>(</rp><rt>たか</rt><rp>)</rp></ruby>さは</u>85mです。<br>*The height of the building is 85 meters.*<br><br>18\. <span style="color: #ff0040">×85mがビルの高さです。</span><br><span style="color: #ff0040">*85 meters is the building's height.*</span>
 
-The topic in (17) and (18) is "ビルの高さ" (*the height of the building*), and the comment is "85m" (*85 meters*). "ビルの高さ" refers to the concept of the building's height, which is referential in this sentence. "85m" describes the value of the building's height, making it the predicative element of this sentence. In fact, nouns that express some kind of quantity are almost always predicative. As you can see in the table, **sentences where the referential element is topicalized cannot be inverted**, which is why (18) sounds awkward.
+The topic in (17) and (18) is "ビルの高さ" (*the height of the building*), and the comment is "85m" (*85 meters*). "ビルの高さ" refers to the concept of the building's height, which is referential in this sentence. "85m" describes the value of the building's height, making it the predicative element of this sentence. In fact, nouns that express some kind of quantity are almost always predicative. As described in the table, **sentences cannot be inverted if the referential element is topicalized**, which is why (18) sounds awkward.
 
 Now let's go back to our classic example ｢君が主役だ。｣. In this sentence, "君" (*you*) is the referential element, and "主役" (*lead actor*) is the predicative element because it is the **role** of "君." Since the predicative element is the topic, this sentence can be inverted.
 

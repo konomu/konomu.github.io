@@ -56,7 +56,7 @@ This flowchart is one based off of the full flowchart adapted from Noda's book t
 
 ![Simplified flowchart](assets/img/simple-flowchart.png)
 
-This chart doesn't always lead to the actual usage of は/が. This is partly because it doesn't account for some rules that you'll read about in the next sections, and partly because usage of は/が is **mostly, but not entirely predictable**. Even with the full flowchart model, this is unavoidable since it's not always clear which path to take.
+This chart doesn't always lead to the actual usage of は/が. This is partly because it doesn't account for some rules that you'll read about in the next sections, and partly because usage of は/が is **mostly, but not entirely predictable**.
 
 ## EXTRA: The Unpredictability of は and が
 

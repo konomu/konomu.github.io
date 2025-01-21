@@ -54,7 +54,7 @@ The same idea can be roughly applied to が.
   <blockquote>
   <p>5. <u><ruby>君<rp>(</rp><rt>きみ</rt><rp>)</rp></ruby>が</u><ruby>主役<rp>(</rp><rt>しゅやく</rt><rp>)</rp></ruby>だ。<br><em>You're the lead actor.</em></p>
   </blockquote>
-  <li>Exclusive が which <b>subjectivizes</b> a non-subject (exclusive nuance)<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup></li>
+  <li>Exclusive が which <b>subjectivizes</b> a non-subject (exclusive nuance)</li>
   <blockquote>
   <p>6. <u><ruby>六本木<rp>(</rp><rt>ろっぽんぎ</rt><rp>)</rp></ruby>のディスコが</u><ruby>芸能人<rp>(</rp><rt>げいのうじん</rt><rp>)</rp></ruby>がよく<ruby>来<rp>(</rp><rt>く</rt><rp>)</rp></ruby>る。<br><em>Celebrities come to the discotheques in Roppongi often.</em></p>
   </blockquote>
@@ -144,7 +144,7 @@ The more of these properties a sentence has, the stronger its contrastive nuance
 
 >19\. 私は<u>その<ruby>質問<rp>(</rp><rt>しつもん</rt><rp>)</rp></ruby>には</u><ruby>答<rp>(</rp><rt>こた</rt><rp>)</rp></ruby>えられません。<br>*I cannot answer **that question**.*<br><br>20\. その質問には<u>私は</u>答えられません。<br>***I** cannot answer that question.*
 
-When there are two or more elements in a sentence marked by は, the one closer to the predicate takes on more contrastive nuance. This happens because the emphasized portion of the sentence when contrastive は appears is not just the element marked by contrastive は, but also all of the content after the element until the end of its predicate. It is easier to pick up on contrastive nuance if the emphasized portion is uninterrupted. 
+When there are two or more elements in a sentence marked by は, the one closer to the predicate takes on more contrastive nuance. This happens because **the emphasized portion of a sentence with contrastive は is not just the element marked by contrastive は, but also all of the content after the element up to the end of its predicate**. It is easier to pick up on contrastive nuance if the emphasized portion is uninterrupted. 
 
 Thus, in example (19), it's natural to interpret that the speaker is clarifying that he cannot answer **that question** specifically. In (20), it's natural to interpret that the speaker is clarifying that **he**, specifically, cannot answer the question.
 
@@ -205,7 +205,7 @@ If we were to use は in this statement instead, it would change the implied con
 
 > (```ホタル が いる``` + ```ない```) → ホタルはいない。
 
-A speaker might use this sentence as an answer to someone else asking「ホタルはいますか？」(*Are there fireflies there?*). Since ホタルがいる is being negated, we can rephrase this entire sentence to ｢ホタルがいるというわけではない。｣ (*"It is not true that there are fireflies."*)
+A speaker might use this sentence as an answer to someone else asking「ホタルはいますか？」(*"Are there fireflies there?"*). Since ホタルがいる is being negated, we can rephrase this entire sentence to ｢ホタルがいるというわけではない。｣ (*"It is not true that there are fireflies."*)
 
 (29) also follows the same principle, where contrastive は does not appear because ない is strongly bound to the predicate 知られている (*known*). Whether or not "this detail" (この点) is known has not been called into question, and the point of the sentence is not to confirm or deny whether or not "this detail" is well known, but to specify that it is "this detail" that is not well known.
 
@@ -268,7 +268,7 @@ Now, let's take a look at which adverbs contrastive は can mark.
 
 >41\. <u><ruby>全部<rp>(</rp><rt>ぜんぶ</rt><rp>)</rp></ruby>は</u><ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べなかった。<br>*I didn't eat all of it.*
 
-Generally speaking, the only adverbs that can be marked by は express tense or a quantity of something. In some cases, contrastive は can mark adverbs that express manner, but only when mentioning some condition instead of a matter of fact, similarly to (34) and (35).
+Generally speaking, the only adverbs that can be marked by は express tense or a quantity of something. In some cases, contrastive は can mark adverbs that express manner, but only when mentioning some condition instead of a matter of fact, shown in (34) and (35).
 
 >42\. <span style="color: #ff0040"> ×<u>そっとは</u><ruby>手渡<rp>(</rp><rt>てわた</rt><rp>)</rp></ruby>さなかった。</span><br><span style="color: #ff0040">*I didn't hand it over without putting up a fight.*</span>
 
@@ -333,7 +333,7 @@ Another case where weak exclusion appears is in commands where the subject is ex
 
 # <a name="exclusion-words" style="text-decoration: none; pointer-events: none;">Types of Words Exclusive が Can Mark
 
-We already know that exclusive が can mark a subject, but there also exists another form of exclusive が called **subjectivizing exclusive が** that may mark non-subjects, turning them into subjects. This is the "exclusive が" that appears after the "Principle of Subordination" on the flowchart. Subjectivizing esxclusive が is always strongly exclusive (but not all strongly exclusive が are subjectivizing).
+We already know that exclusive が can mark a subject, but there also exists another form of exclusive が called **subjectivizing exclusive が** that may mark non-subjects, turning them into subjects.
 
 Unlike contrastive は, the set of case-marked nouns that subjectivizing exclusive が can mark is much more limited. For example, it may not mark objects.
 
@@ -389,13 +389,3 @@ Notice that exclusive が makes an implication about other people (that they are
 <h1 style="text-align:right;">
   <a href="/wa-ga-subordination">Continued in 4. The Principle of Subordination...</a>
 </h1>
-
-# Notes
-
-<div class="footnotes" role="doc-endnotes">
-  <ol>
-    <li id="fn:1" role="doc-endnote">
-      <p>In the full flowchart, the "contrastive は" that comes after "Topic is Not the Predicate" refers to (b), while all other "contrastive は" on the chart refer to (c). The "exclusive が" after the "Principle of Emphasis" refers to (f), and the "exclusive が" after the "Principle of Topic Position" refers to (e). In the simplified flowchart, all usages of は with contrastive nuance (b and c) are labeled contrastive は, and all usages of が with exclusive nuance (e and f) are labeled exclusive が.&nbsp;<a href="#fnref:1" class="reversefootnote" role="doc-backlink">↩</a></p>
-    </li>
-  </ol>
-</div>

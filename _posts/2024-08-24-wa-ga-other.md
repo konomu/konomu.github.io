@@ -14,7 +14,7 @@ hidden: true
         <a href="wa-ga-addendum.html" class="nav-arrow">8. Atypical Noun Sentences →</a>
 </div>
 
-# <a name="additional" style="text-decoration: none; pointer-events: none;">Additional は structures
+# <a name="additional" style="text-decoration: none; pointer-events: none;">Additional は Structures
 
 Of the other six は structures introduced alongside the basic topic sentence structure ｢父はこの本を買ってくれた。｣, four of them (excluding ｢花が咲くのは7月ごろだ。｣ and ｢このにおいはガスが漏れてるよ。｣) are **double-subject structures**. Double-subject structures are clauses that contain two subjects, which is ungrammatical in English, but quite common in Japanese. They are marked in bold in the following table.
 
@@ -38,7 +38,7 @@ The sentence ｢象は鼻が長い。｣ is famous in discussions of Japanese gr
 
 According to Mikami's view, ｢象は鼻が長い。｣ is a sentence formed from the case relation "象の鼻が長い(こと)" by topicalizing the modifier "象の". A **modifier** is anything that modifies the meaning of something in the sentence. It can be an い-adjective, a な-adjective, or something marked by の.[^2]  But in this structure, the modifier will always be a `noun` + `の`. 
 
-Thus, the ｢象は鼻が長い。｣ structure is just another way of topicalizing a part of existing case relations. The noun being topicalized in this structure is **the modifier of a case-marked noun**.
+Thus, the ｢象は鼻が長い。｣ structure is just another way of topicalizing a part of existing case relations, like what we saw in the basic topic sentences. The noun being topicalized in this structure is **the modifier of a case-marked noun**.
 
 [^2]: There are other types of modifiers in Japanese, but these are the only types that fit in our structures.
 
@@ -62,15 +62,11 @@ Sentences that derive from topicalization of the modifier marked by の in ｢�
 
 At first glance, this sentence seems to fit into the ｢象は鼻が長い。｣ structure we just saw because of the ｢～は～が...｣ pattern. However, we can't work backward to find the untopicalized structure by just replacing ｢～は～が...｣ with ｢～の～が...｣ like we did with ｢象は鼻が長い。｣
 
-If we try anyway, we get <span style="color: #ff0040">"×かき料理の広島が本場(であること)"</span>, which makes no sense.
-
-｢かき料理は広島が本場だ。｣ is actually derived from ｢広島がかき料理の本場(であること)｣. In this structure, the noun being topicalized is the **modifier of the predicate**. [^3] The predicate of this structure is always a noun.
+｢かき料理は広島が本場だ。｣ is actually derived from ｢広島がかき料理の本場(であること)｣. In this structure, the noun being topicalized is the **modifier of the predicate**. The predicate of this structure is always a noun.
 
 ![Diagram showing topicalization of かき料理 in the case relation 広島がかき料理の本場(であること)](assets/img/kaki.png)
 
-[^3]: Although it is technically possible to construe the topic in this structure as a subject, in practice this is somewhat irrelevant. In the model of generative grammar that Noda accepts, ｢かき料理は広島が本場だ。｣ passes through the stage ｢かき料理が広島が本場(であること)｣, and ｢辞書は新しいのがいい。｣ passes through the stage ｢辞書が新しいのがいい(こと)｣, but Noda says that these are highly unstable stages compared to the double-subject stages in the other structures. They are awkward and you probably won't see them often.
-
-The が in this structure is a strongly exclusive が. This is a major difference between this structure and the ｢象は鼻が長い。｣ structure. We're specifying that it's Hiroshima, not any other place like Sendai or Hamamatsu, that's famous for its oyster dishes. 
+The が in this structure is an exclusive が. This is a major difference between this structure and the ｢象は鼻が長い。｣ structure. We're specifying that it's Hiroshima, not any other place like Sendai or Hamamatsu, that's famous for its oyster dishes. 
 
 >5\. <u><ruby>雷<rp>(</rp><rt>かみなり</rt><rp>)</rp></ruby>の<ruby>発生<rp>(</rp><rt>はっせい</rt><rp>)</rp></ruby>は</u>、<ruby>雲<rp>(</rp><rt>くも</rt><rp>)</rp></ruby>の<ruby>中<rp>(</rp><rt>なか</rt><rp>)</rp></ruby>に<ruby>電気<rp>(</rp><rt>でんき</rt><rp>)</rp></ruby>が<ruby>蓄<rp>(</rp><rt>たくわ</rt><rp>)</rp></ruby>えられることが<ruby>原因<rp>(</rp><rt>げんいん</rt><rp>)</rp></ruby>だ。<br>*Thunder forms when electricity builds up inside of clouds.*
 
@@ -86,7 +82,7 @@ The が in this structure is a strongly exclusive が. This is a major differenc
 
 > <ruby>辞書<rp>(</rp><rt>じしょ</rt><rp>)</rp></ruby>は<ruby>新<rp>(</rp><rt>あたら</rt><rp>)</rp></ruby>しいのがいい。<br>*When it comes to dictionaries, new ones are better.*
 
-Here's another structure with the ｢～は～が...｣ pattern. In the sentence ｢辞書は新しいのがいい。｣, the modifier is "新しい" (*new*), and the noun that was topicalized is "辞書" (*dictionary*). To derive this sentence from its original case relation, we topicalize some **modified case-marked noun**, and the modifier of that element becomes the subject in the comment.
+Here's another structure with the ｢～は～が...｣ pattern. In the sentence ｢辞書は新しいのがいい。｣, the noun that's topicalized is "辞書" (*dictionary*), and it has a modifier, "新しい" (*new*). To derive sentences of this structure from their original case relations, we topicalize the **modified case-marked noun**, and the modifier of that element becomes the subject in the comment.
 
 ![Diagram showing topicalization of 辞書 in the case relation 新しい辞書がいい(こと)](assets/img/jisho.png)
 
@@ -106,7 +102,7 @@ Selective-type sentences **use exclusive が**. ｢辞書は新しいのがい�
 
 ### The Parallel-Type
 
-The parallel-type sentence of this structure, on the other hand, **use descriptive が**. These sentences start with the ```topic``` + ```は```, followed by several clauses with different subjects marked by が. Example (28) and (29) are parallel-type sentences.
+The parallel-type sentences of this structure, on the other hand, **use descriptive が**. These sentences start with the ```topic``` + ```は```, followed by several clauses with different subjects marked by が. Example (28) and (29) are parallel-type sentences.
 
 >14\. <u><ruby>全国<rp>(</rp><rt>ぜんこく</rt><rp>)</rp></ruby><ruby>製麺<rp>(</rp><rt>せいめん</rt><rp>)</rp></ruby><ruby>連<rp>(</rp><rt>れん</rt><rp>)</rp></ruby>が<ruby>調<rp>(</rp><rt>しら</rt><rp>)</rp></ruby>べた<ruby>一人<rp>(</rp><rt>ひとり</rt><rp>)</rp></ruby><ruby>当<rp>(</rp><rt>あた</rt><rp>)</rp></ruby>り<ruby>麺類消費量<rp>(</rp><rt>めんるいしょうひりょう</rt><rp>)</rp></ruby>の<ruby>全国<rp>(</rp><rt>ぜんこく</rt><rp>)</rp></ruby><ruby>平均<rp>(</rp><rt>へいきん</rt><rp>)</rp></ruby>は</u>、うどんが<ruby>年間<rp>(</rp><rt>ねんかん</rt><rp>)</rp></ruby>1.9キロ、ラーメン<ruby>類<rp>(</rp><rt>るい</rt><rp>)</rp></ruby>が2.8キロ、そばが0.6キロ。<br>*According to a survey by Zenmenren, the national average per capita annual consumption of noodles is 1.9 kilograms for udon, 2.8 kilograms for ramen, and 0.6 kilograms for soba.*
 
@@ -142,7 +138,7 @@ The function of this sentence is that the predicate "7月ごろ" (*around July*)
 
 The "Adverb or Case-Marked Noun" in this structure is often some word/phrase that expresses the reason or time for whatever is in the clause. 
 
-Notice that because we can't put は directly after "花が咲く," we have to nominalize the clause first with の. This also happens with the sentence ｢辞書は新しいのがいい。｣. Common nominalizers include の, もの, 人, and ところ.
+Notice that because we can't put は directly after "花が咲く," we have to nominalize the clause first with の. Common nominalizers include の, もの, こと, 人, and ところ.
 
 >20\. <u><ruby>俳句<rp>(</rp><rt>はいく</rt><rp>)</rp></ruby>が<ruby>流行<rp>(</rp><rt>りゅうこう</rt><rp>)</rp></ruby>したのは</u>、そのためである。<br>*That is the reason why haikus became popular.*
 
@@ -208,7 +204,7 @@ Sentences with a topic that has an unclear case relation with the comment fall i
 
 The topics in (31) and (32), "作り方" (*recipe*) and "練習" (*practice*), only serve as a rough "headline" for the entire sentence that follows it.
 
-# EXTRA: The Generic ｢～は～が...｣ Structure
+## EXTRA: The Generic ｢～は～が...｣ Structure
 
 From all of the double-subject structures I described above and the examples discussed in [Basic Topic Sentences](wa-ga-basics#topic-sentences), we can make a generalization to make thinking about them easier. All double-subject sentences that take the form ｢～は～が...｣ will have the generic structure:
 
@@ -236,7 +232,7 @@ This usage was introduced by Kuno (1973), where he proposed that が may mark ob
   <p>33. <ruby>誰<rp>(</rp><rt>だれ</rt><rp>)</rp></ruby>が<u><ruby>英語<rp>(</rp><rt>えいご</rt><rp>)</rp></ruby>が</u><ruby>上手<rp>(</rp><rt>じょうず</rt><rp>)</rp></ruby>ですか？<br><em>Who is good at English?</em></p>
   </blockquote>
   <blockquote>
-  <p>34. <ruby>僕<rp>(</rp><rt>ぼく</rt><rp>)</rp></ruby>は<u><ruby>日本語<rp>(</rp><rt>にほんご</rt><rp>)</rp></ruby>が</u><ruby>苦手<rp>(</rp><rt>にがて</rt><rp>)</rp></ruby>なことはみんなよく<ruby>知<rp>(</rp><rt>し</rt><rp>)</rp></ruby>っています。<br><em>Everyone knows well that I am bad at Japanese.</em></p>
+  <p>34. <span style="color: #b2ffff">[<ruby>僕<rp>(</rp><rt>ぼく</rt><rp>)</rp></ruby>は<u><ruby>日本語<rp>(</rp><rt>にほんご</rt><rp>)</rp></ruby>が</u><ruby>苦手<rp>(</rp><rt>にがて</rt><rp>)</rp></ruby>なこと]</span>はみんなよく<ruby>知<rp>(</rp><rt>し</rt><rp>)</rp></ruby>っています。<br><em>Everyone knows well that I am bad at Japanese.</em></p>
   </blockquote>
   <blockquote>
   <p>35. 誰が<u>日本語が</u>うまいですか？<br><em>Who is good at Japanese?</em></p>
@@ -246,7 +242,7 @@ This usage was introduced by Kuno (1973), where he proposed that が may mark ob
   </blockquote>
   <li>Feeling: adjectives like 好き, 嫌い, ほしい, 怖い, etc.</li>
   <blockquote>
-  <p>37. ジョンが<u>メアリーが</u><ruby>好<rp>(</rp><rt>す</rt><rp>)</rp></ruby>きなことはよく知っています。<br><em>I know very well that John likes Mary.</em></p>
+  <p>37. <span style="color: #b2ffff">[ジョンが<u>メアリーが</u><ruby>好<rp>(</rp><rt>す</rt><rp>)</rp></ruby>きなこと]</span>はよく知っています。<br><em>I know very well that John likes Mary.</em></p>
   </blockquote>
   <blockquote>
   <p>38. 僕は<u>メアリー</u>が<ruby>怖<rp>(</rp><rt>こわ</rt><rp>)</rp></ruby>い。<br><em>I'm afraid of Mary.</em></p>
@@ -265,7 +261,7 @@ This usage was introduced by Kuno (1973), where he proposed that が may mark ob
   <p>42. 僕は<u><ruby>映画<rp>(</rp><rt>えいが</rt><rp>)</rp></ruby>が</u><ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>たい。<br><em>I want to watch a movie.</em></p>
   </blockquote>
   <blockquote>
-  <p>43. 僕が<u>お<ruby>寿司<rp>(</rp><rt>すし</rt><rp>)</rp></ruby>が</u><ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べたいことを、<ruby>何度<rp>(</rp><rt>なんど</rt><rp>)</rp></ruby><ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>ったら<ruby>分<rp>(</rp><rt>わ</rt><rp>)</rp></ruby>かるのですか？<br><em>How many times is it that I have to tell you that I want to eat sushi?</em></p>
+  <p>43. <span style="color: #b2ffff">[僕が<u>お<ruby>寿司<rp>(</rp><rt>すし</rt><rp>)</rp></ruby>が</u><ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べたいこと]</span>を、<ruby>何度<rp>(</rp><rt>なんど</rt><rp>)</rp></ruby><ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>ったら<ruby>分<rp>(</rp><rt>わ</rt><rp>)</rp></ruby>かるのですか？<br><em>How many times is it that I have to tell you that I want to eat sushi?</em></p>
   </blockquote>
 </ol> 
 
@@ -280,19 +276,19 @@ The information in this section is from 久野 (1973), ch. 25.
 
 However, it is nonetheless possible for these topicless questions to exist if the descriptive nuance fits inside of them. In example (45), the speaker is not asking about Taro and whether or not he has come, but confirming that "Taro has come," with the listener.
 
->45\. ああ、そうですか。<u>太郎が</u>来ましたか。<br>*Ah, I see. So Taro has come?*
+>45\. ああ、そうですか。<span style="color: #b2ffff">[<u>太郎が</u>来ました]</span>か。<br>*Ah, I see. So Taro has come?*
 
 In other words, **descriptive が can appear in questions if the subject it marks is not the topic of the question.** It is unnatural to mark "雨" with が like in (46b), but the sentence is completely natural if we just add a topic like "外(で)" (*outside*), which is shown in 47.
 
 >46a\. <u><ruby>雨<rp>(</rp><rt>あめ</rt><rp>)</rp></ruby>は</u><ruby>降<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby>っていますか。<br>*Is it raining?*<br><br>46b\. <span style="color: #ff0040">×<u>雨が</u>降っていますか。</span><br><span style="color: #ff0040">*It is raining?*</span>
 
->47\. <ruby>外<rp>(</rp><rt>そと</rt><rp>)</rp></ruby>は、<u>雨が</u>降っていますか。<br>*Outside, it is raining?*
+>47\. <ruby>外<rp>(</rp><rt>そと</rt><rp>)</rp></ruby>は、<span style="color: #b2ffff">[<u>雨が</u>降っています]</span>か。<br>*Outside, it is raining?*
 
 Examples (48a-b) and (49a-b) are perfectly natural sentences which contain descriptive が.
 
->48a\. いつ、<u>太郎が</u>来ましたか？<br>48b. <u>太郎が</u>来たのは、いつですか？<br>*When did Taro come?*
+>48a\. いつ、<span style="color: #b2ffff">[<u>太郎が</u>来ました]</span>か？<br>48b. <span style="color: #b2ffff">[<u>太郎が</u>来たの]</span>は、いつですか？<br>*When did Taro come?*
 
->49a\. どこに、<u>太郎が</u><ruby>立<rp>(</rp><rt>た</rt><rp>)</rp></ruby>っていますか？<br>49b. <u>太郎が</u>立っているのは、どこですか？<br>*Where is Taro standing?*
+>49a\. どこに、<span style="color: #b2ffff">[<u>太郎が</u><ruby>立<rp>(</rp><rt>た</rt><rp>)</rp></ruby>っています]</span>か？<br>49b. <span style="color: #b2ffff">[<u>太郎が</u>立っているの]</span>は、どこですか？<br>*Where is Taro standing?*
 
 In example (48a), "太郎" (*Taro*) is marked by が because he is not the topic of the question. The topic is the clause "太郎が来ました," and this is an example of a topic which is not explicitly marked by は. The question is not about Taro the person, but the action of "coming" by Taro. 
 
