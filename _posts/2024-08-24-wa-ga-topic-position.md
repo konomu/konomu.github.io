@@ -241,7 +241,7 @@ Sometimes, you'll have conflicting principles in the same sentence.
 
 In (31), the topic is a noun, but the comment "これ" refers to familiar information.[^4] In this case, the rule about familiar information is taking precedence, making it an specificational sentence of type (c). The uninverted ｢そばの実はこれです。｣ is also possible, but less common.
 
-[^4]: This sentence violates the principle of topicalizing familiar information, like the example (16) in [Choosing the Topic: Context-level Considerations](#cclc)
+[^4]: This sentence violates the principle of topicalizing familiar information, like the example (13) in [Choosing the Topic: Context-level Considerations](#cclc)
 
 >32\. <ruby>結局<rp>(</rp><rt>けっきょく</rt><rp>)</rp></ruby><u>どちらが</u><ruby>勝<rp>(</rp><rt>か</rt><rp>)</rp></ruby>ったんですか？<br>*So, who won in the end?*
 
