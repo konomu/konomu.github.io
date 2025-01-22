@@ -149,7 +149,7 @@ The first one is when **the predicate describes some event or temporary state th
 
 >12\. るり子ーッ、 <u><ruby>高原<rp>(</rp><rt>たかはら</rt><rp>)</rp></ruby>さんが</u>いらしたわよーッ｣<br>*Ruriko! Takahara is here!*
 
-Adjective predicates in topicless sentences are less common, but they are more likely when the speaker is describing something that is directly observable, and spoken/narrated as it is being perceived. In example(13), "きれい" (*gorgeous*) is a temporary state because it refers to the gorgeousness of the moon as it is percieved by the speaker in the moment.
+Adjective predicates in topicless sentences are less common, but they are more likely when the speaker is describing something that is directly observable, and spoken/narrated as it is being perceived. In example (13), "きれい" (*gorgeous*) is a temporary state because it refers to the gorgeousness of the moon as it is percieved by the speaker in the moment.
 
 >13\. ほーら、<u><ruby>月<rp>(</rp><rt>つき</rt><rp>)</rp></ruby>が</u>きれいだよ。<br>*Look, the moon is gorgeous!*
 

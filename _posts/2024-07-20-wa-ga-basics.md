@@ -145,7 +145,7 @@ Pay attention to the topic and the comment of each sentence. The sentence ｢父
 
 More examples of sentences with topics are shown below.
 
-Remember that when ｢〜に｣, ｢〜で｣, or ｢〜へ｣ are topicalized, they may become  ｢〜&#8288;は｣ instead of  ｢〜&#8288;には｣, ｢〜&#8288;では｣, or ｢〜&#8288;へは｣. This happens when ｢〜に｣, ｢〜で｣, or ｢〜へ｣ mark **location**, and this is shown in examples (4) and (5).
+Remember that when ｢〜に｣, ｢〜で｣, or ｢〜へ｣ are topicalized, they may become  ｢〜&#8288;は｣ instead of  ｢〜&#8288;には｣, ｢〜&#8288;では｣, or ｢〜&#8288;へは｣. This can happen when ｢〜に｣, ｢〜で｣, or ｢〜へ｣ mark **location**, which is shown in examples (4) and (5).
 
 >4\. <ruby>日本<rp>(</rp><rt>にほん</rt><rp>)</rp></ruby>に<ruby>温泉<rp>(</rp><rt>おんせん</rt><rp>)</rp></ruby>が<ruby>多<rp>(</rp><rt>おお</rt><rp>)</rp></ruby>い(こと)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↓ Topicalization<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>日本には</u>温泉が多い。<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>日本は</u>温泉が多い。<br>*There are a lot of onsen in Japan.*
 
@@ -286,7 +286,7 @@ whereas the inversion of this topic sentence, the specificational sentence, will
 
 >34\. ｢ええ。でもずいぶんきれいにかたづいていたでしょ？｣<br>｢<u><ruby>君<rp>(</rp><rt>きみ</rt><rp>)</rp></ruby>が</u>かたづけたの？｣<br>*"Yep. But it was pretty neat and tidy, wasn't it?"<br>"Did you clean it up?"*
 
-It's worth mentioning that unlike basic topic sentences and topicless sentences, specificational sentences are typically not negative. (35a) is a completely natural specificational sentence, but its negative version, (35b), is awkward.
+It's worth mentioning that unlike basic topic sentences and topicless sentences, specificational sentences usually can't be negative. (35a) is a completely natural specificational sentence, but its negative version, (35b), is awkward.
 
 >35a\. <u><ruby>色<rp>(</rp><rt>いろ</rt><rp>)</rp></ruby>の<ruby>濃<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>いほうが</u>おいしそうに<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>える。<br>*The one with a deeper color is the one that looks like it tastes good.*<br><br>35b\. <span style="color: #ff0040">×<u>色の濃いほうが</u>おいしそうに見えない。<br>*The one with a deeper color is the one that looks like it doesn't taste good.*</span>
 

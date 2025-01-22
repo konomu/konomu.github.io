@@ -102,7 +102,7 @@ Selective-type sentences **use exclusive が**. ｢辞書は新しいのがい�
 
 ### The Parallel-Type
 
-The parallel-type sentences of this structure, on the other hand, **use descriptive が**. These sentences start with the ```topic``` + ```は```, followed by several clauses with different subjects marked by が. Example (28) and (29) are parallel-type sentences.
+The parallel-type sentences of this structure, on the other hand, **use descriptive が**. These sentences start with the ```topic``` + ```は```, followed by several clauses with different subjects marked by が. Example (14) and (15) are parallel-type sentences.
 
 >14\. <u><ruby>全国<rp>(</rp><rt>ぜんこく</rt><rp>)</rp></ruby><ruby>製麺<rp>(</rp><rt>せいめん</rt><rp>)</rp></ruby><ruby>連<rp>(</rp><rt>れん</rt><rp>)</rp></ruby>が<ruby>調<rp>(</rp><rt>しら</rt><rp>)</rp></ruby>べた<ruby>一人<rp>(</rp><rt>ひとり</rt><rp>)</rp></ruby><ruby>当<rp>(</rp><rt>あた</rt><rp>)</rp></ruby>り<ruby>麺類消費量<rp>(</rp><rt>めんるいしょうひりょう</rt><rp>)</rp></ruby>の<ruby>全国<rp>(</rp><rt>ぜんこく</rt><rp>)</rp></ruby><ruby>平均<rp>(</rp><rt>へいきん</rt><rp>)</rp></ruby>は</u>、うどんが<ruby>年間<rp>(</rp><rt>ねんかん</rt><rp>)</rp></ruby>1.9キロ、ラーメン<ruby>類<rp>(</rp><rt>るい</rt><rp>)</rp></ruby>が2.8キロ、そばが0.6キロ。<br>*According to a survey by Zenmenren, the national average per capita annual consumption of noodles is 1.9 kilograms for udon, 2.8 kilograms for ramen, and 0.6 kilograms for soba.*
 
@@ -272,29 +272,29 @@ The information in this section is from 久野 (1973), ch. 25.
 
 **Questions have a tendency to be topic sentences.** As we learned in [Topicless Sentences](/wa-ga-basics#topicless-sentences), sentences without a topic usually fall into one of three categories: descriptions of something perceptible, descriptions of events, and descriptions of consequences. All three of these encompass descriptions, and it is unnatural to question something as if you are describing it.
 
->44a\. <u><ruby>太郎<rp>(</rp><rt>たろう</rt><rp>)</rp></ruby>は</u><ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>ましたか。<br>*Has Taro come?*<br><br>44b\. <span style="color: #ff0040">×<u>太郎が</u>来ましたか。</span><br><span style="color: #ff0040">*Taro has come?*</span>
+>44\. <u><ruby>太郎<rp>(</rp><rt>たろう</rt><rp>)</rp></ruby>は</u><ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>ましたか。<br>*Has Taro come?*<br><br>45\. <span style="color: #ff0040">×<u>太郎が</u>来ましたか。</span><br><span style="color: #ff0040">*Taro has come?*</span>
 
-However, it is nonetheless possible for these topicless questions to exist if the descriptive nuance fits inside of them. In example (45), the speaker is not asking about Taro and whether or not he has come, but confirming that "Taro has come," with the listener.
+However, it is nonetheless possible for these topicless questions to exist if the descriptive nuance fits inside of them. In example (46), the speaker is not asking about Taro and whether or not he has come, but confirming that "Taro has come," with the listener.
 
->45\. ああ、そうですか。<span style="color: #b2ffff">[<u>太郎が</u>来ました]</span>か。<br>*Ah, I see. So Taro has come?*
+>46\. ああ、そうですか。<span style="color: #b2ffff">[<u>太郎が</u>来ました]</span>か。<br>*Ah, I see. So Taro has come?*
 
-In other words, **descriptive が can appear in questions if the subject it marks is not the topic of the question.** It is unnatural to mark "雨" with が like in (46b), but the sentence is completely natural if we just add a topic like "外(で)" (*outside*), which is shown in 47.
+In other words, **descriptive が can appear in questions if the subject it marks is not the topic of the question.** It is unnatural to mark "雨" with が like in (48), but the sentence is completely natural if we just add a topic like "外(で)" (*outside*), which is shown in (49).
 
->46a\. <u><ruby>雨<rp>(</rp><rt>あめ</rt><rp>)</rp></ruby>は</u><ruby>降<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby>っていますか。<br>*Is it raining?*<br><br>46b\. <span style="color: #ff0040">×<u>雨が</u>降っていますか。</span><br><span style="color: #ff0040">*It is raining?*</span>
+>47\. <u><ruby>雨<rp>(</rp><rt>あめ</rt><rp>)</rp></ruby>は</u><ruby>降<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby>っていますか。<br>*Is it raining?*<br><br>48\. <span style="color: #ff0040">×<u>雨が</u>降っていますか。</span><br><span style="color: #ff0040">*It's raining?*</span>
 
->47\. <ruby>外<rp>(</rp><rt>そと</rt><rp>)</rp></ruby>は、<span style="color: #b2ffff">[<u>雨が</u>降っています]</span>か。<br>*Outside, it is raining?*
+>49\. <ruby>外<rp>(</rp><rt>そと</rt><rp>)</rp></ruby>は、<span style="color: #b2ffff">[<u>雨が</u>降っています]</span>か。<br>*Outside, it is raining?*
 
-Examples (48a-b) and (49a-b) are perfectly natural sentences which contain descriptive が.
+Examples (50) through (53) are perfectly natural sentences which contain descriptive が.
 
->48a\. いつ、<span style="color: #b2ffff">[<u>太郎が</u>来ました]</span>か？<br>48b. <span style="color: #b2ffff">[<u>太郎が</u>来たの]</span>は、いつですか？<br>*When did Taro come?*
+>50\. いつ、<span style="color: #b2ffff">[<u>太郎が</u>来ました]</span>か？<br>51. <span style="color: #b2ffff">[<u>太郎が</u>来たの]</span>は、いつですか？<br>*When did Taro come?*
 
->49a\. どこに、<span style="color: #b2ffff">[<u>太郎が</u><ruby>立<rp>(</rp><rt>た</rt><rp>)</rp></ruby>っています]</span>か？<br>49b. <span style="color: #b2ffff">[<u>太郎が</u>立っているの]</span>は、どこですか？<br>*Where is Taro standing?*
+>52\. どこに、<span style="color: #b2ffff">[<u>太郎が</u><ruby>立<rp>(</rp><rt>た</rt><rp>)</rp></ruby>っています]</span>か？<br>53. <span style="color: #b2ffff">[<u>太郎が</u>立っているの]</span>は、どこですか？<br>*Where is Taro standing?*
 
-In example (48a), "太郎" (*Taro*) is marked by が because he is not the topic of the question. The topic is the clause "太郎が来ました," and this is an example of a topic which is not explicitly marked by は. The question is not about Taro the person, but the action of "coming" by Taro. 
+In example (50), "太郎" (*Taro*) is marked by が because he is not the topic of the question. The topic is the clause "太郎が来ました," and this is an example of a topic which is not explicitly marked by は. The question is not about Taro the person, but the action of "coming" by Taro. 
 
-The same idea applies in (49a). The topic is not Taro, but the action of "standing" by Taro. 
+The same idea applies in (52). The topic is not Taro, but the action of "standing" by Taro, as expressed in the clause "太郎が立っています." 
 
-Descriptive が is allowed in (48a) and (49a) because the clauses they belong to have some subordinate character. These examples can be rephrased as (48b) and (49b), so that the descriptive が resides in strongly subordinate clauses. (48b) and (49b) belong to the [｢花が咲くのは7月ごろだ。｣](wa-ga-other#hana) structure.
+Descriptive が is allowed in (50) and (52) because the clauses they belong to have some subordinate character. These examples can be rephrased as (51) and (53) respectively, so that the descriptive が resides in strongly subordinate clauses. (51) and (53) belong to the [｢花が咲くのは7月ごろだ。｣](wa-ga-other#hana) structure.
 
 
 <h1 style="text-align:right;">
