@@ -41,7 +41,7 @@ Think of descriptive が as the default form of が. **All it does is mark the s
 
 # <a name="topicalization" style="text-decoration: none; pointer-events: none;">Topicalization
 
-All kinds of words may become a topic in Japanese. When は marks some word in Japanese, we say that the word has been topicalized. That is, it has been made into a topic through the process of **topicalization**. After some part of the sentence is topicalized, it will usually appear at the front of the sentence. 
+All kinds of words and phrases can become topics in Japanese. When は marks some word, we say that the word has been topicalized. That is, it has been made into a topic through the process of **topicalization**. After some part of the sentence is topicalized, it will usually appear at the front of the sentence. 
 
 It is very common for は to topicalize a **subject**. This is where the confusion between は and が comes from. When a subject is marked by は, this does **not** mean it has ceased to be a subject. **It is both a topic and subject at the same time**. 
 
@@ -260,7 +260,7 @@ Remember that exclusive が functions as a way of **specifying** something. With
 
 One way of understanding the specificational sentence ｢君が主役だ。｣ is to derive it from the basic topic sentence ｢主役は君だ。｣. These two sentences have approximately the same meaning. To achieve this, all we have to do is **reverse the order of the topic and the comment, then replace topical は with exclusive が**. This process is called **inversion**. If a sentence with は is inverted, it is a specificational sentence.[^7]
 
-[^7]:The specificational sentence (指定文) is the inverse of inverted specificational sentences (倒置指定文). Noda's sentence typology does not explicitly differentiate between the inverted specificational sentence and the predicational sentence (措定文). The section on [how to tell when inversion is possible](wa-ga-topic-position#spec-sup) is dedicated to teaching how to differentiate between the two, but I avoided alluding to 措定, as Noda also does. Both the predicational sentence and the inverted specificational sentence take the structure of ｢〜は〜だ。｣, while specificational sentences take the structure of ｢〜が〜だ。｣.
+[^7]:The specificational sentence (指定文) is the inverse of the inverted specificational sentence (倒置指定文). Noda's sentence typology does not explicitly differentiate between the inverted specificational sentence and the predicational sentence (措定文). The section on [how to tell when inversion is possible](wa-ga-topic-position#spec-sup) is dedicated to teaching how to differentiate between the two, but I avoided alluding to 措定, as Noda also does. Both the predicational sentence and the inverted specificational sentence take the structure of ｢〜は〜だ。｣, while specificational sentences take the structure of ｢〜が〜だ。｣.
 
 ![Diagram showing inversion of 主役は君だ。](assets/img/kimi.png)
 
