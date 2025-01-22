@@ -24,9 +24,7 @@ A **clause** is a unit of the language that is **shorter than a sentence** and *
 
 When a sentence has two or more clauses, the clause with its predicate at the end of the sentence is usually the **main clause**. All clauses that are nested within it or come before it are **subordinate clauses**. It is possible for subordinate clauses to be nested within subordinate clauses. If a sentence only has one clause, then that clause is the main clause.
 
-Take a look at the following sentences with their clauses highlighted[^3].
-
-[^3]: Sentences are from 丸山 (2016) and 劉 (2022).
+The following diagram shows example sentences with their clauses and subjects/predicates highlighted (丸山, 2016; 劉, 2022).
 
 ![Various structures of subordinate clauses](assets/img/subord.png)
 
@@ -56,9 +54,9 @@ Here are the correct interpretations of these sentences.
 
 >2\. <u>太郎<b>が</b></u>部屋に入ると、すぐに電気をつけた。<br>*After Taro entered the room, <b><u>I</u></b> turned on the light.*
 
-We change our interpretation of who turns on the light depending on whether は or が is used. In example (1) with は, the subject/topic "太郎" (Taro) **cannot** be a part of the subordinate clause "部屋に入ると" (after × entered the room). This is only possible when "太郎" is not a topic and marked by が. 
+We change our interpretation of who turns on the light depending on whether は or が is used. In example (1) with は, the subject/topic "太郎" (*Taro*) **cannot** be contained in the subordinate clause "部屋に入ると" (*after × entered the room*). This is only possible if "太郎" is not a topic and marked by が. Thus, "太郎" is the subject of both the subordinate clause and the main clause in (1). 
 
-Thus, "太郎" is the subject of both the subordinate clause and the main clause in (1). In (2), 太郎 is only the subject of the subordinate clause. The subject of the main clause is instead **omitted**, so it should be clear through context who else turned the light on. Strictly speaking, it doesn't have to be "I", the speaker, who turned the light on. It could be someone else, depending on the context of the sentence. But when Japanese speakers omit a subject, it's likely that they're referring to themselves.
+In (2), 太郎 is only the subject of the subordinate clause. The subject of the main clause is instead **omitted**, so it should be clear through context who else turned the light on. Strictly speaking, it doesn't have to be "I", the speaker, who turned the light on. It could be someone else, depending on the context of the sentence. But when Japanese speakers omit a subject, it's likely that they're referring to themselves.
 
 The subordinate clause in both (1) and (2) can't contain a topic, but this isn't true of all subordinate clauses. These subordinate clauses in particular are **strongly subordinate**, which means they can't exist without the main clause. We'll go over levels of subordination in the next section.
 

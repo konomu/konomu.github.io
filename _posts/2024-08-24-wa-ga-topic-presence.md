@@ -84,7 +84,7 @@ When the predicate expresses some action or temporary state, the sentence might 
 
 >2\. <u>ゴリラは</u>、<ruby>毎日<rp>(</rp><rt>まいにち</rt><rp>)</rp></ruby><ruby>昼<rp>(</rp><rt>ひる</rt><rp>)</rp></ruby>と<ruby>夜<rp>(</rp><rt>よる</rt><rp>)</rp></ruby>の<ruby>二回<rp>(</rp><rt>にかい</rt><rp>)</rp></ruby><ruby>寝床<rp>(</rp><rt>ねどこ</rt><rp>)</rp></ruby>をつくって<ruby>寝<rp>(</rp><rt>ね</rt><rp>)</rp></ruby>る。<br>*Gorillas build their nests and sleep twice a day, once at noon and once at night.*
 
-The other case that necessitates that the sentence/clause has a topic covers questions that contain an **interrogative word**, like 誰, どれ, どこ, and 何. When the interrogative word is the subject of the sentence, it is typically marked by exclusive が, which makes it a specificational sentence. Remember that specificational sentences count as topic sentences, because the topic is contained in the predicate.
+The other case that necessitates that the sentence/clause has a topic covers questions that contain an **interrogative word**, like 誰, どれ, どこ, and 何. When the interrogative word is the subject of the sentence, it is typically marked by exclusive が, which makes it a specificational sentence. Remember that specificational sentences count as topic sentences, because their predicate refers to the topic.
 
 >3\. ｢<span style="color: #b2ffff">[<u><ruby>誰<rp>(</rp><rt>だれ</rt><rp>)</rp></ruby>が</u>[やったん]だと]</span><ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>う？｣<br>*"Who do you think did it?"*
 
@@ -143,13 +143,13 @@ By contrast, sentences with nothing between the subject and the predicate tend t
 
 There are two cases where a sentence will always become a topicless sentence. 
 
-The first one is when **the predicate describes some event or temporary state that is directly observable to the speaker**. Furthermore, the sentence has to be spoken/narrated **as it is being perceived**. Sentences of this nature usually have verb predicates, such as 見える, 聞こえる, ある[^4], and 来る. Example (12) shows one of these topicless sentences with a verb predicate. The important detail about these predicates is that they all express something happening within some time frame (as opposed to something with a permanent state). Adjective predicates are less common, and noun predicates in topicless sentences are rare.
+The first one is when **the predicate describes some event or temporary state that is directly observable to the speaker**. Furthermore, the sentence has to be spoken/narrated **as it is being perceived**. Sentences of this nature usually have verb predicates, such as 見える, 聞こえる, ある[^4], and 来る. The important detail about these predicates is that they all express something happening within some time frame (as opposed to something with a permanent state). Example (12) shows one of these topicless sentences with a verb predicate.
 
 [^4]: It might be a bit confusing that ある and いる are usually "temporary states" in Japanese. These verbs are sometimes translated as "to exist," but in practice, they usually refer to something existing in a temporary sense. To exist in a more permanent sense is usually expressed as "存在する."
 
 >12\. るり子ーッ、 <u><ruby>高原<rp>(</rp><rt>たかはら</rt><rp>)</rp></ruby>さんが</u>いらしたわよーッ｣<br>*Ruriko! Takahara is here!*
 
-Topicless sentences with an adjective predicate like (13) are more likely when the speaker is describing something that is directly observable, and spoken/narrated as it is being perceived. "きれい" (*gorgeous*) is a temporary state because it refers to the gorgeousness of the moon as it is percieved by the speaker in the moment.
+Adjective predicates in topicless sentences are less common, but they are more likely when the speaker is describing something that is directly observable, and spoken/narrated as it is being perceived. In example(13), "きれい" (*gorgeous*) is a temporary state because it refers to the gorgeousness of the moon as it is percieved by the speaker in the moment.
 
 >13\. ほーら、<u><ruby>月<rp>(</rp><rt>つき</rt><rp>)</rp></ruby>が</u>きれいだよ。<br>*Look, the moon is gorgeous!*
 

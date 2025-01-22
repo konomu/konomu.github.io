@@ -101,7 +101,7 @@ In sentences with **adjacent** contrast, the predicates of the contrasted elemen
 
 Both of these usages of contrastive は are often connected with 〜が or 〜けど clauses. 
 
-Both (9) and (10) show contrastive は marking objects, while the topic of the sentence is "私" (*I*). None of the contrastive は in (9) and (10) following the topic "私は" mark the topic, so they are examples of type (c) は.
+Both (9) and (10) show contrastive は marking objects, while the topic of the sentence is "私". None of the contrastive は in (9) and (10) following the topic "私は" mark the topic, so they are examples of type (c) は.
 
 
 ### Misfortunate Contrast
@@ -161,7 +161,7 @@ However, you may notice that in (19), the more contrastive は marks a 〜に el
 
 # <a name="contrast-neg" style="text-decoration: none; pointer-events: none;">Contrastive は in Negative Statements
 
-Implicit contrastive は is extremely common when the predicate is negative. These are predicates that end in じゃない, ていない, くない, ではない, じゃなくて, ません, ず, etc. For example, if we were to make the statement (24) negative, it is natural to add contrastive は, as shown in (25).
+**Implicit contrastive は is extremely common when the predicate is negative.** These are predicates that end in じゃない, ていない, くない, ではない, じゃなくて, ません, ず, etc. For example, if we were to make the statement (24) negative, it is natural to add contrastive は, as shown in (25).
 
 >24\. <ruby>日本<rp>(</rp><rt>にほん</rt><rp>)</rp></ruby>の<ruby>老人<rp>(</rp><rt>ろうじん</rt><rp>)</rp></ruby>はシャワーでがまんできる。<br>*The elderly of Japan can get by with just showering.*
 

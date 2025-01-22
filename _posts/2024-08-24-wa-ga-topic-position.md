@@ -18,7 +18,7 @@ hidden: true
 
 # Which Part is the Topic?
 
-Once we have established that some sentence contains a topic, we move to the next stage of the flowchart. The principle of topic position decides **which part of the clause/sentence is the topic and where we should place it**.
+If we establish that a sentence contains a topic, we can move to the next stage of the flowchart. The principle of topic position decides **which part of the clause/sentence is the topic and where we should place it**.
 
 The topic is what you are talking about, and the comment is something you are conveying about the topic. So when choosing what becomes the topic and what becomes the comment, we can follow the general rule that **the comment conveys one option among other options relating to the topic**. 
 
@@ -138,7 +138,7 @@ As mentioned in the table, familiar information tends to become the topic. Consi
 
 >12\. <ruby>途中<rp>(</rp><rt>とちゅう</rt><rp>)</rp></ruby>に<ruby>西宮名塩<rt>にしのみやなじお</rt></ruby>がある。<u><ruby>同<rp>(</rp><rt>どう</rt><rp>)</rp></ruby><ruby>駅<rp>(</rp><rt>えき</rt><rp>)</rp></ruby>は</u><ruby>複線<rp>(</rp><rt>ふくせん</rt><rp>)</rp></ruby><ruby>電化<rp>(</rp><rt>でんか</rt><rp>)</rp></ruby><ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>に<ruby>名塩<rp>(</rp><rt>なじお</rt><rp>)</rp></ruby>の<ruby>各<rp>(</rp><rt>かく</rt><rp>)</rp></ruby><ruby>住宅団地<rp>(</rp><rt>じゅうたくだんち</rt><rp>)</rp></ruby>のために<ruby>作<rp>(</rp><rt>つく</rt><rp>)</rp></ruby>られた。<br>*Nishinomiya-Najio is on the way there. The station of the same name was built when the line was electrified and double-tracked for the neighborhoods of Najio.*
 
-In (11), "俺" (*I*) is topicalized as familiar information because it refers to the speaker, who is by definition present at the scene of the conversation. It's very common for first and second-person pronouns to be topicalized because the speaker and the listener are always going to exist in the context of the sentence.
+In (11), "俺" is topicalized as familiar information because it refers to the speaker, who is by definition present at the scene of the conversation. It's very common for first and second-person pronouns to be topicalized because the speaker and the listener always exist in the context of the sentence.
 
 In (12), "同駅" (*the station of the same name*) is topicalized because it is related to "西宮名塩" (*Nishinomiya-Najio*), a town which was mentioned in the previous sentence.
 
