@@ -185,7 +185,7 @@ Let's look at a sentence that can't be inverted. Consider sentence (17) and its 
 
 >17\. <u>ビルの<ruby>高<rp>(</rp><rt>たか</rt><rp>)</rp></ruby>さは</u>85mです。<br>*The height of the building is 85 meters.*<br><br>18\. <span style="color: #ff0040">×85mがビルの高さです。</span><br><span style="color: #ff0040">*85 meters is the building's height.*</span>
 
-The topic in (17) and (18) is "ビルの高さ" (*the height of the building*), and the comment is "85m" (*85 meters*). "ビルの高さ" refers to the concept of the building's height, which is referential in this sentence. "85m" describes the value of the building's height, making it the predicative element of this sentence. In fact, nouns that express some kind of quantity are almost always predicative. As described in the table, **sentences cannot be inverted if the referential element is topicalized**, which is why (18) sounds awkward.
+The topic in (17) and (18) is "ビルの高さ" (*the height of the building*), and the comment is "85m" (*85 meters*). "ビルの高さ" refers to the **concept** of the building's height, which is referential in this sentence. "85m" describes the **value** of the building's height, making it the predicative element of this sentence. In fact, nouns that express some kind of quantity are almost always predicative. As described in the table, **sentences cannot be inverted if the referential element is topicalized**, which is why (18) sounds awkward.
 
 Now let's go back to our classic example ｢君が主役だ。｣. In this sentence, "君" (*you*) is the referential element, and "主役" (*lead actor*) is the predicative element because it is the **role** of "君." Since the predicative element is the topic, this sentence can be inverted.
 

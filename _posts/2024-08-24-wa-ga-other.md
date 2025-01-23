@@ -44,7 +44,7 @@ Thus, the ｢象は鼻が長い。｣ structure is just another way of topicaliz
 
 ![Diagram showing topicalization of 象 in the case relation 象の鼻が長い(こと)](assets/img/zou.png)
 
-Notice that the が in this structure is just a descriptive が with no exclusive nuance. We are simply stating that elephants "have long trunks," not specifying what part of elephants is long.
+Notice that the が in this structure is just a descriptive が with no exclusive nuance. We are simply stating that "trunk is long" with regard to the topic "elephants," not specifying what part of elephants is long.
 
 >1\. <u>わが<ruby>国<rp>(</rp><rt>くに</rt><rp>)</rp></ruby>で<ruby>栽培<rp>(</rp><rt>さいばい</rt><rp>)</rp></ruby>されるトマトは</u>、ホルモン<ruby>剤<rp>(</rp><rt>ざい</rt><rp>)</rp></ruby>を<ruby>利用<rp>(</rp><rt>りよう</rt><rp>)</rp></ruby>することを<ruby>前提<rp>(</rp><rt>ぜんてい</rt><rp>)</rp></ruby>に<ruby>栽培<rp>(</rp><rt>さいばい</rt><rp>)</rp></ruby><ruby>管理<rp>(</rp><rt>かんり</rt><rp>)</rp></ruby><ruby>技術<rp>(</rp><rt>ぎじゅつ</rt><rp>)</rp></ruby>ができている。<br>*The cultivation techniques for tomatoes grown in our country were developed around hormone use.*
 
@@ -218,7 +218,7 @@ There is also a set of ｢～は～が...｣ sentences that come from the [Basic
 
 > `Topic(Adverb)` + `は` + `Comment(Subject + が + Predicate)`
 
-All of these structures are very similar and only differ in the case of the topic, so some learning resources introduce ｢～は～が...｣ as a single structure. From a standpoint of teaching beginners, this is completely fine. It's probably easier for most learners to get used to the idea of a は-marked topic and the many forms it takes first, without having them think about the underlying case relation. The only problem with this is that they also tend to talk about the topic as if it were on the same layer as other grammatical features like the subject and the object. Unfortunately, this may mislead learners into thinking they are mutually exclusive, such that a given word in a sentence can't be a topic and subject at the same time.
+All of these structures are very similar and only differ in the case of the topic or the nuance of が, so some learning resources introduce ｢～は～が...｣ as a single structure. From a standpoint of teaching beginners, this is completely fine. It's easier for most learners to get used to the idea of a は-marked topic and the many forms it takes first, without having them think about the underlying case relation. The only problem with this is that they also tend to talk about the topic as if it were on the same layer as other grammatical features like the subject and the object. Unfortunately, this may mislead learners into thinking they are mutually exclusive, such that a given word in a sentence can't be a topic and subject at the same time.
 
 # <a name="object-ga" style="text-decoration: none; pointer-events: none;">が as an Object Marker for Adjectives
 

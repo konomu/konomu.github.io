@@ -31,6 +31,8 @@ finish exclusive が in basics
 
 # Notes
 
+<sup style="font-size:13px" id="fnref:1" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">2</a></sup>
+
 [^3]: Although it is technically possible to construe the topic in this structure as a subject, in practice this is somewhat irrelevant. In the model of generative grammar that Noda accepts, ｢かき料理は広島が本場だ。｣ passes through the stage ｢かき料理が広島が本場(であること)｣, and ｢辞書は新しいのがいい。｣ passes through the stage ｢辞書が新しいのがいい(こと)｣, but Noda says that these are highly unstable stages compared to the double-subject stages in the other structures. They are awkward and you probably won't see them often.
 
 <sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup>

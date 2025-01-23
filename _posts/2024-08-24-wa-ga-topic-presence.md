@@ -56,8 +56,8 @@ There are many different factors to consider at this stage, which I will summari
   </tr>
   <tr>
     <td style="text-align: center;" class="tg-0lax">Word Order</td>
-    <td class="tg-0lax">Subject + Case-marked nouns + Predicate</td>
-    <td class="tg-0lax">Case-marked nouns + Subject + Predicate</td>
+    <td class="tg-0lax">Subject + Case-Marked nouns + Predicate</td>
+    <td class="tg-0lax">Case-Marked nouns + Subject + Predicate</td>
   </tr>
   <tr>
     <td style="text-align: center;" class="tg-0lax">Context</td>
