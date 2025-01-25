@@ -145,7 +145,7 @@ There are two cases where a sentence will always become a topicless sentence.
 
 The first one is when **the predicate describes some event or temporary state that is directly observable to the speaker**. Furthermore, the sentence has to be spoken/narrated **as it is being perceived**. Sentences of this nature usually have verb predicates, such as 見える, 聞こえる, ある[^4], and 来る. The important detail about these predicates is that they all express something happening within some time frame (as opposed to something with a permanent state). Example (12) shows one of these topicless sentences with a verb predicate.
 
-[^4]: It might be a bit confusing that ある and いる are usually "temporary states" in Japanese. These verbs are sometimes translated as "to exist," but in practice, they usually refer to something existing in a temporary sense. To exist in a more permanent sense is usually expressed as "存在する."
+[^4]: It might be a bit confusing that ある and いる are usually "temporary states," or "events" in Japanese. These verbs are sometimes translated as "to exist," but in practice, they usually refer to something existing in a temporary sense.
 
 >12\. るり子ーッ、 <u><ruby>高原<rp>(</rp><rt>たかはら</rt><rp>)</rp></ruby>さんが</u>いらしたわよーッ｣<br>*Ruriko! Takahara is here!*
 

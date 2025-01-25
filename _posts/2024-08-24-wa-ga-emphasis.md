@@ -268,7 +268,7 @@ Now, let's take a look at which adverbs contrastive は can mark.
 
 >41\. <u><ruby>全部<rp>(</rp><rt>ぜんぶ</rt><rp>)</rp></ruby>は</u><ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べなかった。<br>*I didn't eat all of it.*
 
-Generally speaking, the only adverbs that can be marked by は express tense or a quantity of something. In some cases, contrastive は can mark adverbs that express manner, but only when mentioning some condition instead of a matter of fact, shown in (34) and (35).
+Generally speaking, the only adverbs that can be marked by は express tense or a quantity of something. In some cases, contrastive は can mark adverbs that express manner, but only when mentioning some condition instead of a matter of fact, shown in (42) and (43).
 
 >42\. <span style="color: #ff0040"> ×<u>そっとは</u><ruby>手渡<rp>(</rp><rt>てわた</rt><rp>)</rp></ruby>さなかった。</span><br><span style="color: #ff0040">*I didn't hand it over without putting up a fight.*</span>
 
