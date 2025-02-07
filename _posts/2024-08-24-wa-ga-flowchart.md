@@ -48,7 +48,7 @@ The names of all of these new principles might sound daunting, but you can actua
 
 We'll take a look at the rules that govern these principles in Chapters 3 through 6.
 
-The "Object-Marking が" function in the flowchart above is explained in [Chapter 7](wa-ga-other#object-ga).
+There are two usages of が not covered in the flowchart: "Object-Marking が" explained in [Chapter 7](wa-ga-other#object-ga) and が in identificational sentences explained in the [addendum](wa-ga-addendum).
 
 ## <a name="simplified" style="text-decoration: none; pointer-events: none;"> EXTRA: Alternate Flowchart
 
