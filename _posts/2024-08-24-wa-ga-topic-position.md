@@ -191,7 +191,7 @@ Now let's go back to our classic example ｢君が主役だ。｣. In this sente
 
 >19\. <u><ruby>主役<rp>(</rp><rt>しゅやく</rt><rp>)</rp></ruby>は</u><ruby>君<rp>(</rp><rt>きみ</rt><rp>)</rp></ruby>だ。<br>*The lead actor is you.*<br><br>20\. <u>君が</u>主役だ。<br>*You are the lead actor.*
 
-If, however, we topicalize the referential element "君", it is no longer possible to invert the sentence.
+If, however, we topicalize the referential element "君," it is no longer possible to invert the sentence.
 
 >21\. <u>君は</u>主役だ。<br>*You are a lead actor.*<br><br>22\. <span style="color: #ff0040">×主役が君だ。</span><br><span style="color: #ff0040">*A lead actor is you.*</span>
 
@@ -223,7 +223,7 @@ We just learned how to identify sentences that can't be inverted, which necessar
 | ---- |
 | - Sentences with a noun topic<br>- Sentences with a verb topic (nominalized or not)<br>- Sentences in which the comment is the <br>details of topics like 特徴 or 原因  | - Sentences with an adjective topic (nominalized or not)<br>- Sentences in which the comment is familiar information<br>- Sentences in which the comment is an interrogative word |
 
-Example (23) falls into type (b) (sometimes specificational) because it has a noun topic, and its comment expresses the details of the topic "原因". You are more likely to see ｢その火事の原因は漏電だ。｣ than its inversion ｢漏電がその火事の原因だ。｣.
+Example (23) falls into type (b) (sometimes specificational) because it has a noun topic, and its comment expresses the details of the topic "原因." You are more likely to see ｢その火事の原因は漏電だ。｣ than its inversion ｢漏電がその火事の原因だ。｣.
 
 (29) also falls into type (b), because it has a (nominalized) verb topic. You are more likely to see ｢そう言ったのは山田だ。｣ than its inversion ｢山田がそう言ったのだ。｣.
 
