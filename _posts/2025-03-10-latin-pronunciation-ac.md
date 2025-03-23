@@ -95,7 +95,7 @@ summary:hover {
 
 This is a collection of pronunciations of that are most canonically correct according to the principles of the [traditional English pronunciation of Latin](https://en.wikipedia.org/wiki/Traditional_English_pronunciation_of_Latin). This pronunciation system survives to this day in the way we say many words derived from Latin. For example, "error," "area," "cicada," "martyr," "species," and "genius."
 
-Words with an asterisk are those whose syllable stress is unclear, usually because has a non-Latin or non-Greek etymology. Species epithets will be given in the feminine form by default.
+Species epithets will be given in the feminine form by default. Pronunciations with asterisks are irregular to the principles of traditional pronunciation.
 
 <div class="collapsible-table">
     <details>
@@ -335,28 +335,24 @@ Words with an asterisk are those whose syllable stress is unclear, usually becau
           <td>-AY-nuh</td>
         </tr>
         <tr>
-          <td>-anus</td>
-          <td>-AY-nuhs</td>
-        </tr>
-        <tr>
           <td>-ata</td>
-          <td>-AY-tuh</td>
-        </tr>
-        <tr>
-          <td>-atum</td>
-          <td>-AY-tuhm</td>
-        </tr>
-        <tr>
-          <td>-atus</td>
-          <td>-AY-tuhs</td>
+          <td>-AY-tuh (mostly)</td>
         </tr>
         <tr>
           <td>-bilis</td>
           <td>-bi-lis</td>
         </tr>
         <tr>
+          <td>-carpa</td>
+          <td>-KAR-puh</td>
+        </tr>
+        <tr>
           <td>-cola</td>
           <td>-kuh-luh<br>-koh-luh</td>
+        </tr>
+        <tr>
+          <td>-ella</td>
+          <td>-E-luh</td>
         </tr>
         <tr>
           <td>-ensis</td>
@@ -389,10 +385,6 @@ Words with an asterisk are those whose syllable stress is unclear, usually becau
           <td>-ee-ee</td>
         </tr>
         <tr>
-          <td>-ii</td>
-          <td>-ee-igh</td>
-        </tr>
-        <tr>
           <td>-ites</td>
           <td>-IGH-teez</td>
         </tr>
@@ -405,16 +397,16 @@ Words with an asterisk are those whose syllable stress is unclear, usually becau
           <td>-OH-suh</td>
         </tr>
         <tr>
-          <td>-osus</td>
-          <td>-OH-suhs</td>
+          <td>-phylla</td>
+          <td>-FI-luh</td>
         </tr>
         <tr>
-          <td>-osum</td>
-          <td>-OH-suhm</td>
+          <td>-sperma</td>
+          <td>-SPER-muh</td>
         </tr>
         <tr>
-          <td>-phytum</td>
-          <td>-fi-tuhm</td>
+          <td>-stachys</td>
+          <td>-stuh-kis</td>
         </tr>
         <tr>
           <td>-stemon</td>
@@ -459,6 +451,10 @@ Words with an asterisk are those whose syllable stress is unclear, usually becau
         <tr>
           <td>-ies</td>
           <td>-eez</td>
+        </tr>
+        <tr>
+          <td>-ii</td>
+          <td>-ee-igh</td>
         </tr>
         <tr>
           <td>-o</td>
@@ -783,7 +779,7 @@ Words with an asterisk are those whose syllable stress is unclear, usually becau
         </tr>
         <tr>
           <td>Agave</td>
-          <td>uh-GAY-vee<br>uh-GAW-vay</td>
+          <td>uh-GAY-vee<br>uh-GAW-vay*</td>
         </tr>
         <tr>
           <td>Ageratina</td>
@@ -836,6 +832,14 @@ Words with an asterisk are those whose syllable stress is unclear, usually becau
         <tr>
           <td>Aira</td>
           <td>AY-ruh</td>
+        </tr>
+        <tr>
+          <td>Aizoaceae</td>
+          <td>AY-zoh-AY-see-ee</td>
+        </tr>
+        <tr>
+          <td>Aizoon</td>
+          <td>ay-ZOH-on<br>ay-ZOH-uhn</td>
         </tr>
         <tr>
           <td>Ajania</td>
@@ -1315,7 +1319,7 @@ Words with an asterisk are those whose syllable stress is unclear, usually becau
         </tr>
         <tr>
           <td>Arrhenatherum</td>
-          <td>AIR-en-A-thi-ruhm</td>
+          <td>A-re-NA-thi-ruhm</td>
         </tr>
         <tr>
           <td>Artabotrys</td>
@@ -1355,7 +1359,7 @@ Words with an asterisk are those whose syllable stress is unclear, usually becau
         </tr>
         <tr>
           <td>Asparagaceae</td>
-          <td>uh-SPAIR-uh-GAY-see-ee</td>
+          <td>uh-SPA-ruh-GAY-see-ee</td>
         </tr>
         <tr>
           <td>Asparagus</td>
@@ -1363,7 +1367,7 @@ Words with an asterisk are those whose syllable stress is unclear, usually becau
         </tr>
         <tr>
           <td>Asperugo</td>
-          <td>AS-pi-ROO-goh</td>
+          <td>AS-puh-ROO-goh</td>
         </tr>
         <tr>
           <td>Asperula</td>
@@ -1403,11 +1407,11 @@ Words with an asterisk are those whose syllable stress is unclear, usually becau
         </tr>
         <tr>
           <td>Asteranthera</td>
-          <td>uh-STAIR-an-THIER-uh</td>
+          <td>uh-STE-ran-THIER-uh</td>
         </tr>
         <tr>
           <td>Asteropeia</td>
-          <td>uh-STAIR-oh-PEE-uh</td>
+          <td>uh-STE-roh-PEE-uh</td>
         </tr>
         <tr>
           <td>Astilbe</td>
@@ -1420,6 +1424,10 @@ Words with an asterisk are those whose syllable stress is unclear, usually becau
         <tr>
           <td>Astrantia</td>
           <td>uh-STRAN-sh(ee-)uh<br>uh-STRAN-tee-uh</td>
+        </tr>
+        <tr>
+          <td>Astrolepis</td>
+          <td>uh-STRO-li-pis</td>
         </tr>
         <tr>
           <td>Astroloba</td>
@@ -1497,7 +1505,7 @@ Words with an asterisk are those whose syllable stress is unclear, usually becau
         </tr>
         <tr>
           <td>Bahiella</td>
-          <td>BA-ee-e-luh</td>
+          <td>BA-ee-E-luh</td>
         </tr>
         <tr>
           <td>Ballota</td>
@@ -1525,11 +1533,11 @@ Words with an asterisk are those whose syllable stress is unclear, usually becau
         </tr>
         <tr>
           <td>Begonia</td>
-          <td>bi-GOH-nee-uh</td>
+          <td>buh-GOH-nee-uh</td>
         </tr>
         <tr>
           <td>Begoniaceae</td>
-          <td>bi-GOH-nee-AY-see-ee</td>
+          <td>buh-GOH-nee-AY-see-ee</td>
         </tr>
         <tr>
           <td>Bellium</td>
@@ -1614,6 +1622,10 @@ Words with an asterisk are those whose syllable stress is unclear, usually becau
         <tr>
           <td>Bolax</td>
           <td>BOH-laks</td>
+        </tr>
+        <tr>
+          <td>Boophone</td>
+          <td>BOO-fuh-nee<br>boh-O-fuh-nee</td>
         </tr>
         <tr>
           <td>Bombax</td>
@@ -1990,24 +2002,168 @@ Words with an asterisk are those whose syllable stress is unclear, usually becau
           <td>KA-nuh-bis</td>
         </tr>
         <tr>
+          <td>Capparis</td>
+          <td>KA-puh-ris</td>
+        </tr>
+        <tr>
+          <td>Capsicum</td>
+          <td>KAP-si-kuhm</td>
+        </tr>
+        <tr>
+          <td>Caragana</td>
+          <td>KA-ruh-GAY-nuh</td>
+        </tr>
+        <tr>
+          <td>Caralluma</td>
+          <td>?</td>
+        </tr>
+        <tr>
           <td>Cardamine</td>
           <td>kahr-DA-mi-nee</td>
+        </tr>
+        <tr>
+          <td>Cardiocrinum</td>
+          <td>KAHR-dee-oh-KRIGH-nuhm</td>
+        </tr>
+        <tr>
+          <td>Cardiospermum</td>
+          <td>KAHR-dee-oh-SPU-muhm</td>
+        </tr>
+        <tr>
+          <td>Carduncellus</td>
+          <td>KAHR-duhn-SE-luhs</td>
+        </tr>
+        <tr>
+          <td>Carduus</td>
+          <td>KAHR-joo-uhs</td>
         </tr>
         <tr>
           <td>Carex</td>
           <td>KAIR-eks</td>
         </tr>
         <tr>
+          <td>Carica</td>
+          <td>KAIR-i-kuh</td>
+        </tr>
+        <tr>
+          <td>Carissa</td>
+          <td>kuh-RI-suh</td>
+        </tr>
+        <tr>
+          <td>Carpentaria</td>
+          <td>KAHR-pen-TAIR-ee-uh</td>
+        </tr>
+        <tr>
+          <td>Carpinus</td>
+          <td>kahr-PIGH-nuhs</td>
+        </tr>
+        <tr>
+          <td>Carpobrotus</td>
+          <td>KAHR-poh-BROH-tuhs</td>
+        </tr>
+        <tr>
+          <td>Carpodetus</td>
+          <td>kahr-PO-di-tuhs</td>
+        </tr>
+        <tr>
+          <td>Carthamus</td>
+          <td>KAHR-thuh-muhs</td>
+        </tr>
+        <tr>
+          <td>Carum</td>
+          <td>KAIR-uhm</td>
+        </tr>
+        <tr>
+          <td>Carya</td>
+          <td>KAIR-ee-uh</td>
+        </tr>
+        <tr>
           <td>Caryophyllaceae</td>
-          <td>KAIR-ee-oh-fi-LAY-see-ee</td>
+          <td>KA-ree-oh-fi-LAY-see-ee</td>
         </tr>
         <tr>
           <td>Caryophyllus</td>
-          <td>KAIR-ee-oh-FI-luhs</td>
+          <td>KA-ree-oh-FI-luhs</td>
+        </tr>
+        <tr>
+          <td>Caryopteris</td>
+          <td>KA-ree-OP-tuh-ris</td>
+        </tr>
+        <tr>
+          <td>Caryota</td>
+          <td>KA-ree-OH-tuh</td>
+        </tr>
+        <tr>
+          <td>Cassia</td>
+          <td>KA-see-uh<br>KA-sh(ee-)uh</td>
+        </tr>
+        <tr>
+          <td>Cassiope</td>
+          <td>kuh-SIGH-uh-pee</td>
+        </tr>
+        <tr>
+          <td>Castanea</td>
+          <td>kas-TAY-nee-uh</td>
+        </tr>
+        <tr>
+          <td>Castanopsis</td>
+          <td>KAS-tuh-NOP-sis</td>
+        </tr>
+        <tr>
+          <td>Castanospermum</td>
+          <td>KAS-tuh-noh-SPER-muhm</td>
+        </tr>
+        <tr>
+          <td>Casuarina</td>
+          <td>KA-zhyoo-wuh-REE-nuh*<br>KA-zhyoo-wuh-RIGH-nuh</td>
+        </tr>
+        <tr>
+          <td>Catalpa</td>
+          <td>kuh-TAL-puh</td>
+        </tr>
+        <tr>
+          <td>Catananche</td>
+          <td>KA-tuh-NAN-kee</td>
+        </tr>
+        <tr>
+          <td>Catasetum</td>
+          <td>KA-tuh-SEE-tuhm</td>
+        </tr>
+        <tr>
+          <td>Catha</td>
+          <td>KA-thuh*<br>KAY-thuh</td>
+        </tr>
+        <tr>
+          <td>Catharanthus</td>
+          <td>KA-thuh-RAN-thuhs</td>
+        </tr>
+        <tr>
+          <td>Caulophyllum</td>
+          <td>KAW-loh-FI-luhm</td>
         </tr>
         <tr>
           <td>Ceanothus</td>
           <td>SEE-uh-NOH-thuhs</td>
+        </tr>
+        <tr>
+          <td>Cecropia</td>
+          <td>se-KROH-pee-uh</td>
+        </tr>
+        <tr>
+          <td>Cedrela</td>
+          <td>se-DREE-luh</td>
+        </tr>
+        <tr>
+          <td>Cedronella</td>
+          <td>SE-druh-NE-luh</td>
+        </tr>
+        <tr>
+          <td>Cedrus</td>
+          <td>SE-druhs</td>
+        </tr>
+        <tr>
+          <td>Ceiba</td>
+          <td>SAY-buh*<br>SIGH-buh</td>
         </tr>
         <tr>
           <td>Celastraceae</td>
@@ -2018,16 +2174,80 @@ Words with an asterisk are those whose syllable stress is unclear, usually becau
           <td>se-LAS-truhs</td>
         </tr>
         <tr>
+          <td>Celmisia</td>
+          <td>sel-MI-zh(ee-)uh<br>sel-MI-zee-uh</td>
+        </tr>
+        <tr>
+          <td>Celosia</td>
+          <td>se-LOH-zh(ee-)uh<br>se-LOH-zee-uh<br>see-LOH-zhuh*</td>
+        </tr>
+        <tr>
+          <td>Celtis</td>
+          <td>SEL-tis</td>
+        </tr>
+        <tr>
           <td>Cenchrus</td>
           <td>SEN-kruhs</td>
         </tr>
         <tr>
           <td>Centaurea</td>
-          <td>SEN-tau-REE-uh</td>
+          <td>SEN-tor-EE-uh<br>sen-TOR-ee-uh*</td>
+        </tr>
+        <tr>
+          <td>Centaurium</td>
+          <td>sen-TOR-ee-uhm</td>
+        </tr>
+        <tr>
+          <td>Centauropsis</td>
+          <td>SEN-tor-OP-sis</td>
+        </tr>
+        <tr>
+          <td>Centradenia</td>
+          <td>SEN-truh-DEE-nee-uh</td>
+        </tr>
+        <tr>
+          <td>Centropogon</td>
+          <td>SEN-troh-POH-gon<br>SEN-troh-POH-guhn</td>
+        </tr>
+        <tr>
+          <td>Centrosema</td>
+          <td>SEN-troh-SEE-muh</td>
+        </tr>
+        <tr>
+          <td>Cephalanthus</td>
+          <td>SE-fuh-LAN-thuhs</td>
+        </tr>
+        <tr>
+          <td>Cephalaria</td>
+          <td>SE-fuh-LAIR-ee-uh</td>
+        </tr>
+        <tr>
+          <td>Cephalocereus</td>
+          <td>SE-fuh-loh-SIER-ee-uhs</td>
+        </tr>
+        <tr>
+          <td>Cephalostachyum</td>
+          <td>SE-fuh-loh-STA-kee-uhm</td>
+        </tr>
+        <tr>
+          <td>Cephalotaxus</td>
+          <td>SE-fuh-loh-TAK-suhs</td>
         </tr>
         <tr>
           <td>Cephalotus</td>
           <td>SE-fuh-LOH-tuhs</td>
+        </tr>
+        <tr>
+          <td>Cerastium</td>
+          <td>se-RAS-chee-uhm<br>se-RAS-tee-uhm</td>
+        </tr>
+        <tr>
+          <td>Ceratonia</td>
+          <td>SE-ruh-TOH-nee-uh</td>
+        </tr>
+        <tr>
+          <td>Ceratopetalum</td>
+          <td>SE-ruh-toh-PE-tuh-luhm</td>
         </tr>
         <tr>
           <td>Ceratophyllaceae</td>
@@ -2036,6 +2256,10 @@ Words with an asterisk are those whose syllable stress is unclear, usually becau
         <tr>
           <td>Ceratophyllum</td>
           <td>SE-ruh-toh-FI-luhm</td>
+        </tr>
+        <tr>
+          <td>Ceratostigma</td>
+          <td>SE-ruh-toh-STIG-muh</td>
         </tr>
         <tr>
           <td>Chloranthaceae</td>
@@ -2082,11 +2306,11 @@ Words with an asterisk are those whose syllable stress is unclear, usually becau
           <td>kuh-FEE-uh<br>KO-fee-uh</td>
         </tr>
         <tr>
-          <td>Commelina*</td>
+          <td>Commelina**</td>
           <td>kuh-ME-li-nuh<br>KO-mi-LIGH-nuh</td>
         </tr>
         <tr>
-          <td>Commelinaceae*</td>
+          <td>Commelinaceae**</td>
           <td>kuh-ME-li-NAY-see-ee<br>KO-mi-li-NAY-see-ee</td>
         </tr>
         <tr>
@@ -2302,6 +2526,10 @@ Words with an asterisk are those whose syllable stress is unclear, usually becau
           <td>E-ri-KAY-see-ee</td>
         </tr>
         <tr>
+          <td>Eriophyllum</td>
+          <td>E-ree-oh-FI-luhm<br>EE-ree-oh-FI-luhm</td>
+        </tr>
+        <tr>
           <td>Erodium</td>
           <td>e-ROH-dee-uhm</td>
         </tr>
@@ -2361,7 +2589,7 @@ Words with an asterisk are those whose syllable stress is unclear, usually becau
         </tr>
         <tr>
           <td>Felicia</td>
-          <td>fi-LI-sh(ee-)uh</td>
+          <td>fe-LI-sh(ee-)uh</td>
         </tr>
         <tr>
           <td>Festuca</td>
@@ -2474,12 +2702,16 @@ Words with an asterisk are those whose syllable stress is unclear, usually becau
           <td>GLI-si-nee</td>
         </tr>
         <tr>
+          <td>Gonialoe</td>
+          <td>GO-nee-A-loh-ee<br>GOH-nee-A-loh-ee</td>
+        </tr>
+        <tr>
           <td>Gnetaceae</td>
-          <td>ni-TAY-see-ee<br>nee-TAY-see-ee</td>
+          <td>ne-TAY-see-ee<br>nee-TAY-see-ee</td>
         </tr>
         <tr>
           <td>Gnetophyta</td>
-          <td>ni-TO-fi-tuh</td>
+          <td>ne-TO-fi-tuh</td>
         </tr>
         <tr>
           <td>Gnetum</td>
@@ -2494,7 +2726,7 @@ Words with an asterisk are those whose syllable stress is unclear, usually becau
           <td>gruh-MI-nee-ee</td>
         </tr>
         <tr>
-          <td>Gunnera*</td>
+          <td>Gunnera**</td>
           <td>GU-nur-uh<br>gu-NIER-uh</td>
         </tr>
         <tr>
@@ -2645,6 +2877,10 @@ Words with an asterisk are those whose syllable stress is unclear, usually becau
           <td>Kigelia</td>
           <td>ki-JEE-lee-uh<br>kigh-JEE-lee-uh</td>
         </tr>
+        <tr>
+          <td>Kumara</td>
+          <td>KYOO-muh-ruh<br>KOO-muh-ruh</td>
+        </tr>
       </tbody>
     </table>
     <table class="side-by-side">
@@ -2681,7 +2917,7 @@ Words with an asterisk are those whose syllable stress is unclear, usually becau
         </tr>
         <tr>
           <td>Leguminosae</td>
-          <td>li-GYOO-mi-NOH-see</td>
+          <td>le-GYOO-mi-NOH-see</td>
         </tr>
         <tr>
           <td>Lentibulariaceae</td>
@@ -2689,7 +2925,7 @@ Words with an asterisk are those whose syllable stress is unclear, usually becau
         </tr>
         <tr>
           <td>Lepidium</td>
-          <td>li-PI-dee-uhm</td>
+          <td>le-PI-dee-uhm</td>
         </tr>
         <tr>
           <td>lepidus</td>
@@ -2787,11 +3023,11 @@ Words with an asterisk are those whose syllable stress is unclear, usually becau
         </tr>
         <tr>
           <td>Melastoma</td>
-          <td>mi-LAS-toh-muh</td>
+          <td>me-LAS-toh-muh</td>
         </tr>
         <tr>
           <td>Melastomataceae</td>
-          <td>mi-LAS-toh-muh-TAY-see-ee</td>
+          <td>me-LAS-toh-muh-TAY-see-ee</td>
         </tr>
         <tr>
           <td>Miconia</td>
@@ -2881,7 +3117,7 @@ Words with an asterisk are those whose syllable stress is unclear, usually becau
         </tr>
         <tr>
           <td>Nelumbo</td>
-          <td>ni-LUM-boh</td>
+          <td>ne-LUM-boh</td>
         </tr>
         <tr>
           <td>Nemastylis</td>
@@ -2893,11 +3129,11 @@ Words with an asterisk are those whose syllable stress is unclear, usually becau
         </tr>
         <tr>
           <td>Nemesia</td>
-          <td>ni-MEE-zh(ee-)uh<br>ni-MEE-zee-uh</td>
+          <td>ne-MEE-zh(ee-)uh<br>ne-MEE-zee-uh</td>
         </tr>
         <tr>
           <td>Nemophila</td>
-          <td>ni-MO-fi-luh</td>
+          <td>ne-MO-fi-luh</td>
         </tr>
         <tr>
           <td>Nepenthaceae</td>
@@ -2905,11 +3141,11 @@ Words with an asterisk are those whose syllable stress is unclear, usually becau
         </tr>
         <tr>
           <td>Nepenthes</td>
-          <td>ni-PEN-theez</td>
+          <td>ne-PEN-theez</td>
         </tr>
         <tr>
           <td>Nepeta</td>
-          <td>NE-pi-tuh</td>
+          <td>NE-pe-tuh</td>
         </tr>
         <tr>
           <td>Nephthytis</td>
@@ -2917,7 +3153,7 @@ Words with an asterisk are those whose syllable stress is unclear, usually becau
         </tr>
         <tr>
           <td>Nerine</td>
-          <td>ni-RIGH-nee</td>
+          <td>ne-RIGH-nee</td>
         </tr>
         <tr>
           <td>Nerium</td>
@@ -3265,11 +3501,11 @@ Words with an asterisk are those whose syllable stress is unclear, usually becau
         </tr>
         <tr>
           <td>Paraserianthes</td>
-          <td>PAIR-uh-SIER-ee-AN-theez</td>
+          <td>PA-ruh-SIER-ee-AN-theez<br>PA-ruh-SE-ree-AN-theez</td>
         </tr>
         <tr>
           <td>Parietaria</td>
-          <td>PAIR-ee-i-TAIR-ee-uh</td>
+          <td>PA-ree-i-TAIR-ee-uh</td>
         </tr>
         <tr>
           <td>Paris</td>
@@ -3313,7 +3549,7 @@ Words with an asterisk are those whose syllable stress is unclear, usually becau
         </tr>
         <tr>
           <td>Pedicularis</td>
-          <td>pi-DI-kyoo-LAIR-is</td>
+          <td>pe-DI-kyoo-LAIR-is</td>
         </tr>
         <tr>
           <td>Pediocactus</td>
@@ -3341,7 +3577,7 @@ Words with an asterisk are those whose syllable stress is unclear, usually becau
         </tr>
         <tr>
           <td>Penstemon</td>
-          <td>PEN-sti-muhn</td>
+          <td>pen-STEE-muhn<br>PEN-sti-muhn</td>
         </tr>
         <tr>
           <td>Pentas</td>
@@ -3353,19 +3589,19 @@ Words with an asterisk are those whose syllable stress is unclear, usually becau
         </tr>
         <tr>
           <td>Pericallis</td>
-          <td>PAIR-i-KA-lis</td>
+          <td>PE-ri-KA-lis</td>
         </tr>
         <tr>
           <td>Perilla</td>
-          <td>pi-RI-luh</td>
+          <td>pe-RI-luh</td>
         </tr>
         <tr>
           <td>Periploca</td>
-          <td>pi-RI-pluh-cuh</td>
+          <td>pe-RI-pluh-cuh</td>
         </tr>
         <tr>
           <td>Peristrophe</td>
-          <td>pi-RIS-truh-fee</td>
+          <td>pe-RIS-truh-fee</td>
         </tr>
         <tr>
           <td>Persea</td>
@@ -3397,7 +3633,7 @@ Words with an asterisk are those whose syllable stress is unclear, usually becau
         </tr>
         <tr>
           <td>Petunia</td>
-          <td>pi-T(Y)OO-nee-uh<br>pi-T(Y)OON-yuh</td>
+          <td>pe-T(Y)OO-nee-uh<br>pe-T(Y)OON-yuh</td>
         </tr>
         <tr>
           <td>Peucedanum</td>
@@ -3677,7 +3913,7 @@ Words with an asterisk are those whose syllable stress is unclear, usually becau
         </tr>
         <tr>
           <td>Pogostemon</td>
-          <td>puh-GO-ste-muhn<br>poh-GO-ste-muhn</td>
+          <td>PO-guh-STEE-muhn<br>PO-goh-STEE-muhn</td>
         </tr>
         <tr>
           <td>Polemonium</td>
@@ -3813,7 +4049,7 @@ Words with an asterisk are those whose syllable stress is unclear, usually becau
         </tr>
         <tr>
           <td>Pterocarya</td>
-          <td>TAIR-oh-KAIR-ee-uh</td>
+          <td>TE-roh-KAIR-ee-uh</td>
         </tr>
         <tr>
           <td>Pulicaria</td>
@@ -4003,11 +4239,11 @@ Words with an asterisk are those whose syllable stress is unclear, usually becau
         </tr>
         <tr>
           <td>Sarracenia</td>
-          <td>SAIR-uh-SEE-nee-uh</td>
+          <td>SA-ruh-SEE-nee-uh</td>
         </tr>
         <tr>
           <td>Sarraceniaceae</td>
-          <td>SAIR-uh-SEE-nee-AY-see-see</td>
+          <td>SA-ruh-SEE-nee-AY-see-see</td>
         </tr>
         <tr>
           <td>sativa</td>
@@ -4039,11 +4275,11 @@ Words with an asterisk are those whose syllable stress is unclear, usually becau
         </tr>
         <tr>
           <td>Selaginella</td>
-          <td>si-LA-ji-NE-luh</td>
+          <td>se-LA-ji-NE-luh</td>
         </tr>
         <tr>
           <td>Selinum</td>
-          <td>si-LIGH-nuhm</td>
+          <td>se-LIGH-nuhm</td>
         </tr>
         <tr>
           <td>Sempervivum</td>
@@ -4055,7 +4291,7 @@ Words with an asterisk are those whose syllable stress is unclear, usually becau
         </tr>
         <tr>
           <td>Senecio</td>
-          <td>si-NEE-shee-oh</td>
+          <td>se-NEE-shee-oh</td>
         </tr>
         <tr>
           <td>Senna</td>
@@ -4063,15 +4299,15 @@ Words with an asterisk are those whose syllable stress is unclear, usually becau
         </tr>
         <tr>
           <td>Sequoia</td>
-          <td>si-KWOY-uh</td>
+          <td>se-KWOY-uh</td>
         </tr>
         <tr>
           <td>Sequoiadendron</td>
-          <td>si-KWOY-uh-DEN-druhn<br>si-KWOY-uh-DEN-dron</td>
+          <td>se-KWOY-uh-DEN-druhn<br>se-KWOY-uh-DEN-dron</td>
         </tr>
         <tr>
           <td>Seriphidium</td>
-          <td>SAIR-i-FI-dee-uhm</td>
+          <td>SE-ri-FI-dee-uhm</td>
         </tr>
         <tr>
           <td>Sidalcea</td>
@@ -4084,6 +4320,10 @@ Words with an asterisk are those whose syllable stress is unclear, usually becau
         <tr>
           <td>Silybum</td>
           <td>SI-li-buhm</td>
+        </tr>
+        <tr>
+          <td>sinensis</td>
+          <td>si-NEN-sis</td>
         </tr>
         <tr>
           <td>Sisyrinchium</td>
@@ -4231,6 +4471,10 @@ Words with an asterisk are those whose syllable stress is unclear, usually becau
         </tr>
       </thead>
       <tbody>
+        <tr>
+          <td>variegata</td>
+          <td>vuh-RIGH-i-GAY-tuh</td>
+        </tr>
         <tr>
           <td>Verbena</td>
           <td>vur-BEE-nuh</td>
