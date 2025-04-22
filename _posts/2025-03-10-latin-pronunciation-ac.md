@@ -397,6 +397,10 @@ Species epithets will be given in the feminine form by default. Pronunciations w
           <td>-ee-uhm</td>
         </tr>
         <tr>
+          <td>-lepis</td>
+          <td>-li-pis</td>
+        </tr>
+        <tr>
           <td>-meles</td>
           <td>-MEE-leez</td>
         </tr>
@@ -411,6 +415,10 @@ Species epithets will be given in the feminine form by default. Pronunciations w
         <tr>
           <td>-phylla</td>
           <td>-FI-luh</td>
+        </tr>
+        <tr>
+          <td>-pogon</td>
+          <td>-POH-gon<br>-POH-guhn</td>
         </tr>
         <tr>
           <td>-sperma</td>
@@ -1919,7 +1927,7 @@ Species epithets will be given in the feminine form by default. Pronunciations w
         </tr>
         <tr>
           <td>Calopogon</td>
-          <td>KA-loh-POH-gon<br>KA-loh-POH-guhn</td>
+          <td>KA-luh-POH-gon<br>KA-luh-POH-guhn</td>
         </tr>
         <tr>
           <td>Calothamnus</td>
@@ -2227,11 +2235,11 @@ Species epithets will be given in the feminine form by default. Pronunciations w
         </tr>
         <tr>
           <td>Centropogon</td>
-          <td>SEN-troh-POH-gon<br>SEN-troh-POH-guhn</td>
+          <td>SEN-truh-POH-gon<br>SEN-truh-POH-guhn</td>
         </tr>
         <tr>
           <td>Centrosema</td>
-          <td>SEN-troh-SEE-muh</td>
+          <td>SEN-truh-SEE-muh</td>
         </tr>
         <tr>
           <td>Cephalanthus</td>
@@ -2563,11 +2571,11 @@ Species epithets will be given in the feminine form by default. Pronunciations w
         </tr>
         <tr>
           <td>Cirrhaea</td>
-          <td>suh-REE-uh</td>
+          <td>si-REE-uh</td>
         </tr>
         <tr>
           <td>Cirsium</td>
-          <td>SUR-see-uhm</td>
+          <td>SUR-s(h)ee-uhm</td>
         </tr>
         <tr>
           <td>Cissus</td>
@@ -2611,7 +2619,7 @@ Species epithets will be given in the feminine form by default. Pronunciations w
         </tr>
         <tr>
           <td>Compositae</td>
-          <td>kuhm-PO-zi-tee</td>
+          <td>kuhm-PO-zi-tee<br>kom-PO-zi-tee</td>
         </tr>
         <tr>
           <td>Clematis</td>
@@ -2691,7 +2699,7 @@ Species epithets will be given in the feminine form by default. Pronunciations w
         </tr>
         <tr>
           <td>Cocos</td>
-          <td>KOH-kos</td>
+          <td>KOH-kohs</td>
         </tr>
         <tr>
           <td>Codiaeum</td>
@@ -2715,7 +2723,7 @@ Species epithets will be given in the feminine form by default. Pronunciations w
         </tr>
         <tr>
           <td>Coffea</td>
-          <td>kuh-FEE-uh<br>KO-fee-uh</td>
+          <td>KO-fee-uh</td>
         </tr>
         <tr>
           <td>Coix</td>
@@ -2727,19 +2735,119 @@ Species epithets will be given in the feminine form by default. Pronunciations w
         </tr>
         <tr>
           <td>Colchicum</td>
-          <td>KOL-ki-kuhm</td>
+          <td>KOL-ki-kuhm<br>KOL-chi-kuhm*</td>
         </tr>
         <tr>
-          <td>Commelina**</td>
-          <td>kuh-ME-li-nuh<br>KO-mi-LIGH-nuh</td>
+          <td>Coleonema</td>
+          <td>KOH-lee-uh-NEE-muh</td>
         </tr>
         <tr>
-          <td>Commelinaceae**</td>
-          <td>kuh-ME-li-NAY-see-ee<br>KO-mi-li-NAY-see-ee</td>
+          <td>Coleotrype</td>
+          <td>KOH-lee-O-tri-pee<br>KO-lee-O-tri-pee</td>
+        </tr>
+        <tr>
+          <td>Coleus</td>
+          <td>KOH-lee-uhs</td>
+        </tr>
+        <tr>
+          <td>Collomia</td>
+          <td>kuh-LOH-mee-uh</td>
+        </tr>
+        <tr>
+          <td>Colocasia</td>
+          <td>KO-luh-KAY-zh(ee-)uh</td>
+        </tr>
+        <tr>
+          <td>Colutea</td>
+          <td>kuh-LOO-tee-uh</td>
+        </tr>
+        <tr>
+          <td>Comarum</td>
+          <td>KO-muh-ruhm</td>
+        </tr>
+        <tr>
+          <td>Combretum</td>
+          <td>kuhm-BREE-tuhm</td>
+        </tr>
+        <tr>
+          <td>Comesperma</td>
+          <td>KO-mi-SPUR-muh</td>
+        </tr>
+        <tr>
+          <td>Conandron</td>
+          <td>kuh-NAN-dron<br>kuh-NAN-druhn</td>
+        </tr>
+        <tr>
+          <td>Conicosia</td>
+          <td>KO-ni-KOH-zh(ee-)uh<br>KO-ni-KOH-zee-uh</td>
+        </tr>
+        <tr>
+          <td>Commelina</td>
+          <td>KO-mi-LIGH-nuh</td>
+        </tr>
+        <tr>
+          <td>Commelinaceae</td>
+          <td>kuh-ME-li-NAY-see-ee</td>
         </tr>
         <tr>
           <td>Conium</td>
           <td>KOH-nee-um</td>
+        </tr>
+        <tr>
+          <td>Conophytum</td>
+          <td>kuh-NO-fi-tuhm</td>
+        </tr>
+        <tr>
+          <td>Consolida</td>
+          <td>kuhn-SO-li-duh</td>
+        </tr>
+        <tr>
+          <td>Convallaria</td>
+          <td>KON-vuh-LAIR-ee-uh</td>
+        </tr>
+        <tr>
+          <td>Convolvulus</td>
+          <td>kuhn-VOL-vyoo-luhs</td>
+        </tr>
+        <tr>
+          <td>Copaifera</td>
+          <td>KOH-pay-I-fuh-ruh</td>
+        </tr>
+        <tr>
+          <td>Copiapoa</td>
+          <td>KOH-pee-uh-POH-uh</td>
+        </tr>
+        <tr>
+          <td>Coprosma</td>
+          <td>kuh-PROZ-muh</td>
+        </tr>
+        <tr>
+          <td>Coptis</td>
+          <td>KOP-tis</td>
+        </tr>
+        <tr>
+          <td>Corchorus</td>
+          <td>KOR-kuh-ruhs</td>
+        </tr>
+        <tr>
+          <td>Cordyline</td>
+          <td>KOR-di-LIGH-nee</td>
+        </tr>
+        <tr>
+          <td>Corema</td>
+          <td>kuh-REE-muh<br>kor-EE-muh</td>
+        </tr>
+        <tr>
+          <td>Coreopsis</td>
+          <td>KOR-ee-OP-sis</td>
+        </tr>
+        <tr>
+          <td>Coriandrum</td>
+          <td>KOR-ee-AN-druhm</td>
+        </tr>
+        <tr>
+          <td>Coriaria</td>
+          <td>KOR-ee-AIR-ee-uh</td>
         </tr>
         <tr>
           <td>Cornaceae</td>
@@ -2754,16 +2862,132 @@ Species epithets will be given in the feminine form by default. Pronunciations w
           <td>KOR-nuhs</td>
         </tr>
         <tr>
+          <td>Cornus</td>
+          <td>KOR-nuhs</td>
+        </tr>
+        <tr>
+          <td>Corokia</td>
+          <td>kuh-ROH-kee-uh</td>
+        </tr>
+        <tr>
+          <td>Coronilla</td>
+          <td>KOR-uh-NI-luh</td>
+        </tr>
+        <tr>
+          <td>Cortaderia</td>
+          <td>KOR-tuh-DIER-ee-uh</td>
+        </tr>
+        <tr>
+          <td>Coryanthes</td>
+          <td>KOR-ee-AN-theez</td>
+        </tr>
+        <tr>
+          <td>Corydalis</td>
+          <td>kuh-RI-duh-lis</td>
+        </tr>
+        <tr>
+          <td>Corylopsis</td>
+          <td>KOR-i-LOP-sis</td>
+        </tr>
+        <tr>
+          <td>Corylus</td>
+          <td>KOR-i-luhs</td>
+        </tr>
+        <tr>
+          <td>Corymbia</td>
+          <td>kuh-RIM-bee-uh</td>
+        </tr>
+        <tr>
+          <td>Corynocarpus</td>
+          <td>KOR-i-noh-KAR-puhs</td>
+        </tr>
+        <tr>
+          <td>Corypha</td>
+          <td>KOR-i-fuh</td>
+        </tr>
+        <tr>
+          <td>Coryphantha</td>
+          <td>KOR-i-FAN-thuh</td>
+        </tr>
+        <tr>
           <td>Cosmos</td>
           <td>KOZ-muhs</td>
+        </tr>
+        <tr>
+          <td>Costus</td>
+          <td>KOS-tuhs</td>
+        </tr>
+        <tr>
+          <td>Cotinus</td>
+          <td>KO-ti-nuhs</td>
         </tr>
         <tr>
           <td>Cotoneaster</td>
           <td>kuh-TOH-nee-AS-tur</td>
         </tr>
         <tr>
+          <td>Cotula</td>
+          <td>KO-chuh-luh</td>
+        </tr>
+        <tr>
           <td>cotyledon</td>
-          <td>KO-tuh-LEE-duhn</td>
+          <td>KO-ti-LEE-duhn</td>
+        </tr>
+        <tr>
+          <td>cotyledon</td>
+          <td>KO-ti-LEE-duhn</td>
+        </tr>
+        <tr>
+          <td>Coutarea</td>
+          <td>koo-TAIR-ee-uh</td>
+        </tr>
+        <tr>
+          <td>Crambe</td>
+          <td>KRAM-bee</td>
+        </tr>
+        <tr>
+          <td>Craspedia</td>
+          <td>kras-PEE-dee-uh</td>
+        </tr>
+        <tr>
+          <td>Crassula</td>
+          <td>KRA-syoo-luh<br>KRA-suh-luh</td>
+        </tr>
+        <tr>
+          <td>Crataegus</td>
+          <td>kruh-TEE-guhs</td>
+        </tr>
+        <tr>
+          <td>Cremanthodium</td>
+          <td>KRE-muhn-THOH-dee-uhm</td>
+        </tr>
+        <tr>
+          <td>Crepis</td>
+          <td>KREE-pis</td>
+        </tr>
+        <tr>
+          <td>Crinodendron</td>
+          <td>KRI-nuh-DEN-druhn<br>KRI-nuh-DEN-dron</td>
+        </tr>
+        <tr>
+          <td>Crinum</td>
+          <td>KRIGH-nuhm</td>
+        </tr>
+        <tr>
+          <td>Crithmum</td>
+          <td>KRITH-muhm</td>
+        </tr>
+        <tr>
+          <td>Crocosmia</td>
+          <td>kruh-KOZ-mee-uh</td>
+        </tr>
+        <tr>
+          <td>Crocus</td>
+          <td>KROH-kuhs</td>
+        </tr>
+        <tr>
+          <td>Crossandra</td>
+          <td>kruh-SAN-druh</td>
         </tr>
         <tr>
           <td>Crossossoma</td>
@@ -2775,15 +2999,51 @@ Species epithets will be given in the feminine form by default. Pronunciations w
         </tr>
         <tr>
           <td>Crotalaria</td>
-          <td>KRO-tuh-LAIR-ee-uh</td>
+          <td>KRO-tuh-LAIR-ee-uh<br>KROH-tuh-LAIR-ee-uh</td>
         </tr>
         <tr>
           <td>Croton</td>
-          <td>KROH-tohn</td>
+          <td>KROH-tuhn<br>KROH-ton</td>
+        </tr>
+        <tr>
+          <td>Crucianella</td>
+          <td>KROO-sh(ee-)uh-NE-luh</td>
         </tr>
         <tr>
           <td>Cruciferae</td>
           <td>kroo-SI-fuh-ree</td>
+        </tr>
+        <tr>
+          <td>Crupina</td>
+          <td>KROO-pi-nuh</td>
+        </tr>
+        <tr>
+          <td>Cryptantha</td>
+          <td>krip-TAN-thuh</td>
+        </tr>
+        <tr>
+          <td>Cryptanthus</td>
+          <td>krip-TAN-thuhs</td>
+        </tr>
+        <tr>
+          <td>Cryptocoryne</td>
+          <td>KRIP-toh-KOR-i-nee</td>
+        </tr>
+        <tr>
+          <td>Cryptomeria</td>
+          <td>KRIP-toh-MIER-ee-uh</td>
+        </tr>
+        <tr>
+          <td>Cryptostegia</td>
+          <td>KRIP-toh-STEE-jee-uh</td>
+        </tr>
+        <tr>
+          <td>Ctenanthe</td>
+          <td>te-NAN-thee</td>
+        </tr>
+        <tr>
+          <td>Cucumis</td>
+          <td>KYOO-kyoo-mis</td>
         </tr>
         <tr>
           <td>Cucurbita</td>
@@ -2791,11 +3051,55 @@ Species epithets will be given in the feminine form by default. Pronunciations w
         </tr>
         <tr>
           <td>Cucurbitaceae</td>
-          <td>KYOO-kur-bi-TAY-see-ee<br>kyoo-KUR-bi-TAY-see-ee**</td>
+          <td>KYOO-kur-bi-TAY-see-ee</td>
+        </tr>
+        <tr>
+          <td>Cuminum</td>
+          <td>kyoo-MIGH-nuhm</td>
+        </tr>
+        <tr>
+          <td>Cunila</td>
+          <td>kyoo-NIGH-luh</td>
+        </tr>
+        <tr>
+          <td>Cuphea</td>
+          <td>KYOO-fee-uh</td>
+        </tr>
+        <tr>
+          <td>Cupressus</td>
+          <td>kyoo-PRE-suhs</td>
+        </tr>
+        <tr>
+          <td>Curculigo</td>
+          <td>KUR-kyoo-LIGH-goh?<br>kur-KYOO-li-goh?</td>
+        </tr>
+        <tr>
+          <td>Curcuma</td>
+          <td>KUR-kyoo-muh</td>
+        </tr>
+        <tr>
+          <td>Cuscuta</td>
+          <td>kuhs-KYOO-tuh</td>
+        </tr>
+        <tr>
+          <td>Cyananthus</td>
+          <td>SIGH-uh-NAN-thuhs</td>
+        </tr>
+        <tr>
+          <td>Cyanella</td>
+          <td>SIGH-uh-NE-luh</td>
+        </tr>
+        <tr>
+          <td>Cyanotis</td>
+          <td>SIGH-uh-NOH-tis</td>
         </tr>
         <tr>
           <td>Cyathea</td>
           <td>sigh-A-thee-uh</td>
+        </tr>
+        <tr>
+          <td>Cyathodes</td>
+          <td>SIGH-uh-THOH-deez</td>
         </tr>
         <tr>
           <td>Cycadaceae</td>
@@ -2810,16 +3114,104 @@ Species epithets will be given in the feminine form by default. Pronunciations w
           <td>SIK-luh-men</td>
         </tr>
         <tr>
+          <td>Cyclanthera</td>
+          <td>SIK-lan-THIER-uh</td>
+        </tr>
+        <tr>
+          <td>Cyclanthus</td>
+          <td>sik-LAN-thuhs</td>
+        </tr>
+        <tr>
+          <td>Cyclopia</td>
+          <td>sik-LOH-pee-uh</td>
+        </tr>
+        <tr>
+          <td>Cycnoches</td>
+          <td>SIK-nuh-keez</td>
+        </tr>
+        <tr>
+          <td>Cydonia</td>
+          <td>sigh-DOH-nee-uh<br>si-DOH-nee-uh</td>
+        </tr>
+        <tr>
+          <td>Cylindropuntia</td>
+          <td>si-LIN-droh-PUN-sh(ee-)uh</td>
+        </tr>
+        <tr>
+          <td>Cymbalaria</td>
+          <td>SIM-buh-LAIR-ee-uh</td>
+        </tr>
+        <tr>
+          <td>Cymbidium</td>
+          <td>sim-BI-dee-uhm</td>
+        </tr>
+        <tr>
+          <td>Cymbopogon</td>
+          <td>SIM-buh-POH-gon<br>SIM-buh-POH-guhn</td>
+        </tr>
+        <tr>
+          <td>Cymodocea</td>
+          <td>si-MO-duh-SEE-uh</td>
+        </tr>
+        <tr>
+          <td>Cynanchum</td>
+          <td>si-NAN-kuhm</td>
+        </tr>
+        <tr>
           <td>cynapium</td>
           <td>si-NAY-pee-uhm</td>
+        </tr>
+        <tr>
+          <td>Cynara</td>
+          <td>SI-nuh-ruh</td>
+        </tr>
+        <tr>
+          <td>Cynodon</td>
+          <td>SI-nuh-don</td>
+        </tr>
+        <tr>
+          <td>Cynoglossum</td>
+          <td>SI-nuh-GLO-suhm<br>SIGH-nuh-GLO-suhm</td>
+        </tr>
+        <tr>
+          <td>Cynosurus</td>
+          <td>SI-nuh-S(H)OOR-us<br>SIGH-nuh-S(H)OOR-us</td>
+        </tr>
+        <tr>
+          <td>Cypella</td>
+          <td>si-PE-luh<br>sigh-PE-luh</td>
         </tr>
         <tr>
           <td>Cyperus</td>
           <td>si-PIER-uhs<br>sigh-PIER-uhs</td>
         </tr>
         <tr>
+          <td>Cyphostemma</td>
+          <td>SI-fuh-STE-muh<br>SIGH-fuh-STE-muh</td>
+        </tr>
+        <tr>
+          <td>Cypripedium</td>
+          <td>SI-pri-PEE-dee-uhm</td>
+        </tr>
+        <tr>
           <td>Cyrtandra</td>
           <td>sur-TAN-druh</td>
+        </tr>
+        <tr>
+          <td>Cyrtanthus</td>
+          <td>sur-TAN-thuhs</td>
+        </tr>
+        <tr>
+          <td>Cyrtopodium</td>
+          <td>SUR-tuh-POH-dee-uhm</td>
+        </tr>
+        <tr>
+          <td>Cyrtostachys</td>
+          <td>sur-TO-stuh-kis</td>
+        </tr>
+        <tr>
+          <td>Cytisus</td>
+          <td>SI-ti-suhs</td>
         </tr>
       </tbody>
     </table>
@@ -2831,9 +3223,65 @@ Species epithets will be given in the feminine form by default. Pronunciations w
         </tr>
       </thead>
       <tbody>
-          <tr>
+        <tr>
           <td>Daboecia</td>
-          <td>duh-BEE-shee-uh</td>
+          <td>duh-BEE-sh(ee-)uh</td>
+        </tr>
+        <tr>
+          <td>Dacrydium</td>
+          <td>duh-KRI-dee-uhm</td>
+        </tr>
+        <tr>
+          <td>Dactylicapnos</td>
+          <td>DAK-ti-li-KAP-nohs<br>DAK-ti-li-KAP-nos</td>
+        </tr>
+        <tr>
+          <td>Dactylis</td>
+          <td>DAK-ti-lis</td>
+        </tr>
+        <tr>
+          <td>Dactylorhiza</td>
+          <td>DAK-ti-LO-ri-zuh</td>
+        </tr>
+        <tr>
+          <td>Daemonorops</td>
+          <td>de-MO-nuh-ROPS<br>dee-MO-nuh-ROPS</td>
+        </tr>
+        <tr>
+          <td>Dais</td>
+          <td>DAY-is</td>
+        </tr>
+        <tr>
+          <td>Damasonium</td>
+          <td>DA-muh-SOH-nee-uhm</td>
+        </tr>
+        <tr>
+          <td>Danae</td>
+          <td>DA-nuh-ee</td>
+        </tr>
+        <tr>
+          <td>Danais</td>
+          <td>duh-NAY-is</td>
+        </tr>
+        <tr>
+          <td>Daphne</td>
+          <td>DAF-nee</td>
+        </tr>
+        <tr>
+          <td>Daphniphyllum</td>
+          <td>DAF-ni-FI-luhm</td>
+        </tr>
+        <tr>
+          <td>Dasiphora</td>
+          <td>duh-SI-fuh-ruh</td>
+        </tr>
+        <tr>
+          <td>Dasylirion</td>
+          <td>DA-si-LI-ree-uhn<br>DA-si-LI-ree-on</td>
+        </tr>
+        <tr>
+          <td>Datisca</td>
+          <td>duh-TIS-kuh</td>
         </tr>
         <tr>
           <td>Datura</td>
@@ -2842,6 +3290,14 @@ Species epithets will be given in the feminine form by default. Pronunciations w
         <tr>
           <td>Daucus</td>
           <td>DAW-kuhs</td>
+        </tr>
+        <tr>
+          <td>Decazyx</td>
+          <td>DE-kuh-ziks</td>
+        </tr>
+        <tr>
+          <td>Decodon</td>
+          <td>DE-kuh-don</td>
         </tr>
         <tr>
           <td>Dianthes</td>
@@ -3613,19 +4069,19 @@ Species epithets will be given in the feminine form by default. Pronunciations w
         </tr>
         <tr>
           <td>Nothofagus</td>
-          <td>NO-thoh-FAY-guhs</td>
+          <td>NO-thuh-FAY-guhs</td>
         </tr>
         <tr>
           <td>Notholirion</td>
-          <td>NO-thoh-LIER-ee-on</td>
+          <td>NO-thuh-LI-ree-on<br>NO-thuh-LI-ree-uhn</td>
         </tr>
         <tr>
           <td>Notholithocarpus</td>
-          <td>NO-thoh-LI-thoh-KAHR-puhs</td>
+          <td>NO-thuh-LI-thuh-KAHR-puhs</td>
         </tr>
         <tr>
           <td>Nothoscordum</td>
-          <td>NO-thoh-SKOR-duhm</td>
+          <td>NO-thuh-SKOR-duhm</td>
         </tr>
         <tr>
           <td>Notylia</td>
@@ -4161,7 +4617,7 @@ Species epithets will be given in the feminine form by default. Pronunciations w
         </tr>
         <tr>
           <td>Phyllodoce</td>
-          <td>fi-LO-duh-see<br>figh-LO-duh-see</td>
+          <td>fi-LO-duh-see</td>
         </tr>
         <tr>
           <td>Phyllostachys</td>
@@ -4520,6 +4976,10 @@ Species epithets will be given in the feminine form by default. Pronunciations w
         <tr>
           <td>Quercus</td>
           <td>KWUR-kuhs</td>
+        </tr>
+        <tr>
+          <td>quince</td>
+          <td>KWINS</td>
         </tr>
       </tbody>
     </table>
