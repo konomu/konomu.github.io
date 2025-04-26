@@ -1238,10 +1238,6 @@ Species epithets will be given in the feminine form by default. Pronunciations w
           <td>ahr-BOR-ee-uh</td>
         </tr>
         <tr>
-          <td>arboreus</td>
-          <td>ahr-BOR-ee-uhs</td>
-        </tr>
-        <tr>
           <td>Arbutus</td>
           <td>AHR-byoo-tuhs</td>
         </tr>
@@ -1609,7 +1605,7 @@ Species epithets will be given in the feminine form by default. Pronunciations w
         </tr>
         <tr>
           <td>Biarum</td>
-          <td>?</td>
+          <td>BIGH-uh-ruhm</td>
         </tr>
         <tr>
           <td>bicolor</td>
@@ -1710,6 +1706,10 @@ Species epithets will be given in the feminine form by default. Pronunciations w
         <tr>
           <td>Brassicaceae</td>
           <td>BRA-si-KAY-see-ee</td>
+        </tr>
+        <tr>
+          <td>brevis</td>
+          <td>BREE-vis</td>
         </tr>
         <tr>
           <td>Briza</td>
@@ -2967,7 +2967,7 @@ Species epithets will be given in the feminine form by default. Pronunciations w
         </tr>
         <tr>
           <td>Crinodendron</td>
-          <td>KRI-nuh-DEN-druhn<br>KRI-nuh-DEN-dron</td>
+          <td>KRI-nuh-DEN-druhn</td>
         </tr>
         <tr>
           <td>Crinum</td>
@@ -3297,11 +3297,159 @@ Species epithets will be given in the feminine form by default. Pronunciations w
         </tr>
         <tr>
           <td>Decodon</td>
-          <td>DE-kuh-don</td>
+          <td>DE-kuh-don<br>DE-kuh-duhn</td>
         </tr>
         <tr>
-          <td>Dianthes</td>
-          <td>digh-AN-theez</td>
+          <td>Decumaria</td>
+          <td>DE-kyoo-MAIR-ee-uh</td>
+        </tr>
+        <tr>
+          <td>Deianira</td>
+          <td>DEE-yuh-NIGH-ruh</td>
+        </tr>
+        <tr>
+          <td>Deidamia</td>
+          <td>DIGH-duh-MIGH-uh</td>
+        </tr>
+        <tr>
+          <td>Deinanthe</td>
+          <td>digh-NAN-thee</td>
+        </tr>
+        <tr>
+          <td>Delonix</td>
+          <td>DE-luh-niks</td>
+        </tr>
+        <tr>
+          <td>Delosperma</td>
+          <td>DE-luh-SPUR-muh<br>DEE-luh-SPUR-muh</td>
+        </tr>
+        <tr>
+          <td>Delostoma</td>
+          <td>de-LO-stuh-muh</td>
+        </tr>
+        <tr>
+          <td>Delphinium</td>
+          <td>del-FI-nee-uhm</td>
+        </tr>
+        <tr>
+          <td>Dendrobium</td>
+          <td>den-DROH-bee-uhm</td>
+        </tr>
+        <tr>
+          <td>Dendrocalamus</td>
+          <td>DEN-droh-KA-luh-muhs</td>
+        </tr>
+        <tr>
+          <td>Dendrochilum</td>
+          <td>DEN-droh-KIGH-luhm</td>
+        </tr>
+        <tr>
+          <td>Dendromecon</td>
+          <td>DEN-droh-MEE-kuhn<br>DEN-droh-MEE-kon</td>
+        </tr>
+        <tr>
+          <td>Dendropanax</td>
+          <td>den-DRO-puh-naks</td>
+        </tr>
+        <tr>
+          <td>Denmoza</td>
+          <td>den-MOH-zuh</td>
+        </tr>
+        <tr>
+          <td>Derris</td>
+          <td>DE-ris</td>
+        </tr>
+        <tr>
+          <td>Desmanthus</td>
+          <td>dez-MAN-thuhs</td>
+        </tr>
+        <tr>
+          <td>Desmodium</td>
+          <td>dez-MOH-dee-uhm</td>
+        </tr>
+        <tr>
+          <td>Desmoncus</td>
+          <td>dez-MON-kuhs</td>
+        </tr>
+        <tr>
+          <td>Deverra</td>
+          <td>de-VE-ruh</td>
+        </tr>
+        <tr>
+          <td>Dianella</td>
+          <td>DIGH-uh-NE-luh</td>
+        </tr>
+        <tr>
+          <td>Dianthus</td>
+          <td>digh-AN-thus</td>
+        </tr>
+        <tr>
+          <td>Diapensia</td>
+          <td>DIGH-uh-PEN-see-uh</td>
+        </tr>
+        <tr>
+          <td>Diascia</td>
+          <td>digh-A-see-uh</td>
+        </tr>
+        <tr>
+          <td>Dicentra</td>
+          <td>digh-SEN-truh</td>
+        </tr>
+        <tr>
+          <td>Dichelostemma</td>
+          <td>digh-KEE-luh-STE-muh</td>
+        </tr>
+        <tr>
+          <td>Dichondra</td>
+          <td>digh-KON-druh</td>
+        </tr>
+        <tr>
+          <td>Dichorisandra</td>
+          <td>digh-KOR-i-SAN-druh</td>
+        </tr>
+        <tr>
+          <td>Dichroa</td>
+          <td>digh-KROH-uh</td>
+        </tr>
+        <tr>
+          <td>Dicliptera</td>
+          <td>digh-KLIP-te-ruh</td>
+        </tr>
+        <tr>
+          <td>Dicranostigma</td>
+          <td>DI-kruh-noh-STIG-muh</td>
+        </tr>
+        <tr>
+          <td>Dictamnus</td>
+          <td>dik-TAM-nuhs</td>
+        </tr>
+        <tr>
+          <td>Dictyosperma</td>
+          <td>DIK-tee-oh-SPUR-muh</td>
+        </tr>
+        <tr>
+          <td>Didymocarpus</td>
+          <td>DI-di-muh-KAR-puhs</td>
+        </tr>
+        <tr>
+          <td>Diegodendron</td>
+          <td>dee-E-goh-DEN-druhn</td>
+        </tr>
+        <tr>
+          <td>Dierama</td>
+          <td>digh-E-ruh-muh</td>
+        </tr>
+        <tr>
+          <td>Dietes</td>
+          <td>DIGH-e-teez</td>
+        </tr>
+        <tr>
+          <td>Digitalis</td>
+          <td>DI-ji-TAY-lis</td>
+        </tr>
+        <tr>
+          <td>Digitaria</td>
+          <td>DI-ji-TAIR-ee-uh</td>
         </tr>
         <tr>
           <td>Dillenia</td>
@@ -3312,6 +3460,22 @@ Species epithets will be given in the feminine form by default. Pronunciations w
           <td>di-LEE-nee-AY-see-ee<br>digh-LEE-nee-AY-see-ee</td>
         </tr>
         <tr>
+          <td>Dimorphotheca</td>
+          <td>digh-MOR-fuh-THEE-kuh</td>
+        </tr>
+        <tr>
+          <td>Dionaea</td>
+          <td>DIGH-uh-NEE-uh</td>
+        </tr>
+        <tr>
+          <td>Dionysia</td>
+          <td>DIGH-uh-NI-zhee-uh</td>
+        </tr>
+        <tr>
+          <td>Dioon</td>
+          <td>digh-OH-on</td>
+        </tr>
+        <tr>
           <td>Dioscorea</td>
           <td>DIGH-uh-SKOR-ee-uh<br>DIGH-oh-SKOR-ee-uh</td>
         </tr>
@@ -3320,8 +3484,12 @@ Species epithets will be given in the feminine form by default. Pronunciations w
           <td>DIGH-uh-SKOR-ee-AY-see-ee<br>DIGH-oh-SKOR-ee-AY-see-ee</td>
         </tr>
         <tr>
+          <td>Diosma</td>
+          <td>digh-OZ-muh</td>
+        </tr>
+        <tr>
           <td>Diospyros</td>
-          <td>DIGH-uh-SPIGH-ros<br>DIGH-oh-SPIGH-ros</td>
+          <td>digh-OS-pi-rohs</td>
         </tr>
         <tr>
           <td>Dipsacaceae</td>
@@ -3846,6 +4014,10 @@ Species epithets will be given in the feminine form by default. Pronunciations w
         <tr>
           <td>Lolium</td>
           <td>LOH-lee-uhm</td>
+        </tr>
+        <tr>
+          <td>longa</td>
+          <td>LON-guh</td>
         </tr>
         <tr>
           <td>Lonicera</td>
@@ -4389,7 +4561,7 @@ Species epithets will be given in the feminine form by default. Pronunciations w
         </tr>
         <tr>
           <td>Paris</td>
-          <td>PAIR-is<br>PA-ris</td>
+          <td>PAIR-is</td>
         </tr>
         <tr>
           <td>Parnassia</td>
@@ -4549,7 +4721,7 @@ Species epithets will be given in the feminine form by default. Pronunciations w
         </tr>
         <tr>
           <td>Phellodendron</td>
-          <td>FE-luh-DEN-druhn<br>FE-luh-DEN-dron</td>
+          <td>FE-luh-DEN-druhn</td>
         </tr>
         <tr>
           <td>Philesia</td>
@@ -4561,7 +4733,7 @@ Species epithets will be given in the feminine form by default. Pronunciations w
         </tr>
         <tr>
           <td>Philodendron</td>
-          <td>FI-luh-DEN-druhn<br>FI-luh-DEN-dron</td>
+          <td>FI-luh-DEN-druhn</td>
         </tr>
         <tr>
           <td>Phleum</td>
@@ -5187,7 +5359,7 @@ Species epithets will be given in the feminine form by default. Pronunciations w
         </tr>
         <tr>
           <td>Sequoiadendron</td>
-          <td>se-KWOY-uh-DEN-druhn<br>se-KWOY-uh-DEN-dron</td>
+          <td>se-KWOY-uh-DEN-druhn</td>
         </tr>
         <tr>
           <td>Seriphidium</td>
@@ -5301,11 +5473,11 @@ Species epithets will be given in the feminine form by default. Pronunciations w
         </tr>
         <tr>
           <td>Trochodendron</td>
-          <td>TRO-kuh-DEN-druhn**<br>TRO-kuh-DEN-drahn**<br>TRO-koh-DEN-druhn<br>TRO-koh-DEN-drahn</td>
+          <td>TRO-koh-DEN-druhn</td>
         </tr>
         <tr>
           <td>Trochodendraceae</td>
-          <td>TRO-kuh-den-DRAY-see-ee<br>TRO-koh-den-DRAY-see-ee</td>
+          <td>TRO-koh-den-DRAY-see-ee</td>
         </tr>
         <tr>
           <td>Tsuga</td>
