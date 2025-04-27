@@ -95,7 +95,9 @@ summary:hover {
 
 This is a collection of pronunciations of that are most canonically correct according to the principles of the [traditional English pronunciation of Latin](https://en.wikipedia.org/wiki/Traditional_English_pronunciation_of_Latin). This pronunciation system survives to this day in the way we say many words derived from Latin. For example, "error," "area," "cicada," "martyr," "species," and "genius."
 
-Species epithets will be given in the feminine form by default. Pronunciations with asterisks are irregular to the principles of traditional pronunciation.
+Species epithets will be given in the feminine form by default. 
+
+Pronunciations with asterisks are irregular to the principles of traditional pronunciation. This happens because they derive from names/words of languages other than Greek or Latin, or because the pronunciation has become standardized.
 
 <div class="collapsible-table">
     <details>
@@ -348,7 +350,7 @@ Species epithets will be given in the feminine form by default. Pronunciations w
         </tr>
         <tr>
           <td>-carpa</td>
-          <td>-KAR-puh</td>
+          <td>-KAHR-puh</td>
         </tr>
         <tr>
           <td>-cola</td>
@@ -418,7 +420,7 @@ Species epithets will be given in the feminine form by default. Pronunciations w
         </tr>
         <tr>
           <td>-pogon</td>
-          <td>-POH-gon<br>-POH-guhn</td>
+          <td>-POH-gon</td>
         </tr>
         <tr>
           <td>-sperma</td>
@@ -539,7 +541,7 @@ Species epithets will be given in the feminine form by default. Pronunciations w
       <tbody>
         <tr>
           <td>Aa</td>
-          <td>AY-uh</td>
+          <td>AH*<br>AY-uh?</td>
         </tr>
         <tr>
           <td>Abeliophyllum</td>
@@ -1023,11 +1025,11 @@ Species epithets will be given in the feminine form by default. Pronunciations w
         </tr>
         <tr>
           <td>Anacardia</td>
-          <td>A-nuh-CAHR-dee-uh</td>
+          <td>A-nuh-KAHR-dee-uh</td>
         </tr>
         <tr>
           <td>Anacardiaceae</td>
-          <td>A-nuh-CAHR-dee-AY-see-ee</td>
+          <td>A-nuh-KAHR-dee-AY-see-ee</td>
         </tr>
         <tr>
           <td>Anacyclus</td>
@@ -1059,7 +1061,7 @@ Species epithets will be given in the feminine form by default. Pronunciations w
         </tr>
         <tr>
           <td>Andropogon</td>
-          <td>AN-droh-POH-gon<br>AN-droh-POH-guhn</td>
+          <td>AN-droh-POH-gon</td>
         </tr>
         <tr>
           <td>Androsace</td>
@@ -1720,7 +1722,7 @@ Species epithets will be given in the feminine form by default. Pronunciations w
           <td>bruh-MEE-lee-uh</td>
         </tr>
         <tr>
-          <td>Bromelia</td>
+          <td>Bromeliaceae</td>
           <td>bruh-MEE-lee-AY-see-ee</td>
         </tr>
         <tr>
@@ -1927,7 +1929,7 @@ Species epithets will be given in the feminine form by default. Pronunciations w
         </tr>
         <tr>
           <td>Calopogon</td>
-          <td>KA-luh-POH-gon<br>KA-luh-POH-guhn</td>
+          <td>KA-luh-POH-gon</td>
         </tr>
         <tr>
           <td>Calothamnus</td>
@@ -2235,7 +2237,7 @@ Species epithets will be given in the feminine form by default. Pronunciations w
         </tr>
         <tr>
           <td>Centropogon</td>
-          <td>SEN-truh-POH-gon<br>SEN-truh-POH-guhn</td>
+          <td>SEN-truh-POH-gon</td>
         </tr>
         <tr>
           <td>Centrosema</td>
@@ -2899,7 +2901,7 @@ Species epithets will be given in the feminine form by default. Pronunciations w
         </tr>
         <tr>
           <td>Corynocarpus</td>
-          <td>KOR-i-noh-KAR-puhs</td>
+          <td>KOR-i-noh-KAHR-puhs</td>
         </tr>
         <tr>
           <td>Corypha</td>
@@ -3147,7 +3149,7 @@ Species epithets will be given in the feminine form by default. Pronunciations w
         </tr>
         <tr>
           <td>Cymbopogon</td>
-          <td>SIM-buh-POH-gon<br>SIM-buh-POH-guhn</td>
+          <td>SIM-buh-POH-gon</td>
         </tr>
         <tr>
           <td>Cymodocea</td>
@@ -3356,6 +3358,10 @@ Species epithets will be given in the feminine form by default. Pronunciations w
           <td>den-MOH-zuh</td>
         </tr>
         <tr>
+          <td>deodara</td>
+          <td>DEE-oh-DAIR-uh</td>
+        </tr>
+        <tr>
           <td>Derris</td>
           <td>DE-ris</td>
         </tr>
@@ -3413,7 +3419,7 @@ Species epithets will be given in the feminine form by default. Pronunciations w
         </tr>
         <tr>
           <td>Dicliptera</td>
-          <td>digh-KLIP-te-ruh</td>
+          <td>digh-KLIP-tuh-ruh</td>
         </tr>
         <tr>
           <td>Dicranostigma</td>
@@ -3429,7 +3435,7 @@ Species epithets will be given in the feminine form by default. Pronunciations w
         </tr>
         <tr>
           <td>Didymocarpus</td>
-          <td>DI-di-muh-KAR-puhs</td>
+          <td>DI-di-muh-KAHR-puhs</td>
         </tr>
         <tr>
           <td>Diegodendron</td>
@@ -3492,6 +3498,18 @@ Species epithets will be given in the feminine form by default. Pronunciations w
           <td>digh-OS-pi-rohs</td>
         </tr>
         <tr>
+          <td>Diphylleia</td>
+          <td>DIGH-fi-LEE-uh</td>
+        </tr>
+        <tr>
+          <td>Diplarrena</td>
+          <td>DI-pluh-REE-nuh</td>
+        </tr>
+        <tr>
+          <td>Diploglottis</td>
+          <td>DI-pluh-GLO-tis</td>
+        </tr>
+        <tr>
           <td>Dipsacaceae</td>
           <td>DIP-suh-KAY-see-ee</td>
         </tr>
@@ -3500,8 +3518,84 @@ Species epithets will be given in the feminine form by default. Pronunciations w
           <td>DIP-suh-kuhs</td>
         </tr>
         <tr>
-          <td>Dendrobium</td>
-          <td>den-DROH-bee-uhm</td>
+          <td>Dipteronia</td>
+          <td>DIP-tuh-ROH-nee-uh</td>
+        </tr>
+        <tr>
+          <td>Dirca</td>
+          <td>DUR-kuh</td>
+        </tr>
+        <tr>
+          <td>Disa</td>
+          <td>DIGH-suh</td>
+        </tr>
+        <tr>
+          <td>Disanthus</td>
+          <td>digh-SAN-thuhs</td>
+        </tr>
+        <tr>
+          <td>Discaria</td>
+          <td>dis-KAIR-ee-uh</td>
+        </tr>
+        <tr>
+          <td>Dischidia</td>
+          <td>dis-KI-dee-uh</td>
+        </tr>
+        <tr>
+          <td>Discocactus</td>
+          <td>DIS-kuh-KAK-tuhs</td>
+        </tr>
+        <tr>
+          <td>Diselma</td>
+          <td>digh-SEL-muh</td>
+        </tr>
+        <tr>
+          <td>Disocactus</td>
+          <td>DIGH-suh-kak-tuhs</td>
+        </tr>
+        <tr>
+          <td>Disporopsis</td>
+          <td>DIS-puh-ROP-sis</td>
+        </tr>
+        <tr>
+          <td>Disporum</td>
+          <td>DIS-puh-ruhm<br>DIGH-spor-uhm*</td>
+        </tr>
+        <tr>
+          <td>Distylium</td>
+          <td>digh-STI-lee-uhm</td>
+        </tr>
+        <tr>
+          <td>Diuris</td>
+          <td>digh-YOOR-is</td>
+        </tr>
+        <tr>
+          <td>Docynia</td>
+          <td>duh-SI-nee-uh</td>
+        </tr>
+        <tr>
+          <td>Dolichandra</td>
+          <td>DO-li-KAN-druh</td>
+        </tr>
+        <tr>
+          <td>Dolichos</td>
+          <td>DO-li-kos</td>
+        </tr>
+        <tr>
+          <td>Donax</td>
+          <td>DOH-naks</td>
+        </tr>
+        <tr>
+          <td>Doronicum</td>
+          <td>duh-RO-ni-kuhm</td>
+        </tr>
+        <tr>
+          <td>Doryanthes</td>
+          <td>DOR-ee-AN-theez</td>
+        </tr>
+        <tr>
+          <td>Dovyalis</td>
+          <td>DOH-vee-AY-lis?<br>duh-VIGH-uh-lis?</td>
         </tr>
         <tr>
           <td>Draba</td>
@@ -3512,12 +3606,72 @@ Species epithets will be given in the feminine form by default. Pronunciations w
           <td>druh-SEE-nuh</td>
         </tr>
         <tr>
+          <td>Dracocephalum</td>
+          <td>DRAY-koh-SE-fuh-luhm</td>
+        </tr>
+        <tr>
+          <td>Dracophyllum</td>
+          <td>DRAY-koh-FI-luhm</td>
+        </tr>
+        <tr>
+          <td>Dracula</td>
+          <td>DRA-kyoo-luh</td>
+        </tr>
+        <tr>
+          <td>Dracunculus</td>
+          <td>druh-KUN-kyoo-luhs</td>
+        </tr>
+        <tr>
+          <td>Drimia</td>
+          <td>dri-MIGH-uh</td>
+        </tr>
+        <tr>
+          <td>Drimiopsis</td>
+          <td>DRI-mee-OP-sis</td>
+        </tr>
+        <tr>
+          <td>Drimys</td>
+          <td>DRIGH-mis</td>
+        </tr>
+        <tr>
+          <td>Drosanthemum</td>
+          <td>druh-SAN-thi-muhm</td>
+        </tr>
+        <tr>
           <td>Drosera</td>
           <td>DRO-suh-ruh</td>
         </tr>
         <tr>
           <td>Droseraceae</td>
           <td>DRO-si-RAY-see-ee</td>
+        </tr>
+        <tr>
+          <td>Dryadella</td>
+          <td>DRIGH-uh-DE-luh</td>
+        </tr>
+        <tr>
+          <td>Dryas</td>
+          <td>DRIGH-uhs</td>
+        </tr>
+        <tr>
+          <td>Drypis</td>
+          <td>DRIGH-pis</td>
+        </tr>
+        <tr>
+          <td>Durio</td>
+          <td>D(Y)OO-ree-oh</td>
+        </tr>
+        <tr>
+          <td>Dyschoriste</td>
+          <td>DIS-kuh-RIS-tee<br>DIS-kor-IS-tee</td>
+        </tr>
+        <tr>
+          <td>Dysosma</td>
+          <td>di-SOZ-muh</td>
+        </tr>
+        <tr>
+          <td>Dysoxylum</td>
+          <td>di-SOK-si-luhm</td>
         </tr>
       </tbody>
     </table>
@@ -3530,24 +3684,188 @@ Species epithets will be given in the feminine form by default. Pronunciations w
       </thead>
       <tbody>
         <tr>
+          <td>Ebenus</td>
+          <td>E-bi-nuhs</td>
+        </tr>
+        <tr>
+          <td>Ecballium</td>
+          <td>ek-BA-lee-uhm</td>
+        </tr>
+        <tr>
+          <td>Eccremocarpus</td>
+          <td>EK-ri-muh-KAHR-puhs</td>
+        </tr>
+        <tr>
+          <td>Echidnopsis</td>
+          <td>E-kid-NOP-sis</td>
+        </tr>
+        <tr>
           <td>Echinacea</td>
           <td>E-ki-NAY-sh(ee-)uh<br>E-ki-NAY-see-uh</td>
+        </tr>
+        <tr>
+          <td>Echinocactus</td>
+          <td>e-KIGH-noh-KAK-tuhs</td>
+        </tr>
+        <tr>
+          <td>Echinocereus</td>
+          <td>e-KIGH-noh-SIER-ee-uhs</td>
+        </tr>
+        <tr>
+          <td>Echinochloa</td>
+          <td>E-ki-NOK-loh-uh</td>
+        </tr>
+        <tr>
+          <td>Echinocystis</td>
+          <td>e-KIGH-noh-SIS-tis</td>
+        </tr>
+        <tr>
+          <td>Echinodorus</td>
+          <td>E-ki-NO-duh-ruhs</td>
+        </tr>
+        <tr>
+          <td>Echinops</td>
+          <td>e-KIGH-nops</td>
+        </tr>
+        <tr>
+          <td>Echinopsis</td>
+          <td>E-ki-NOP-sis</td>
         </tr>
         <tr>
           <td>echioides</td>
           <td>e-kee-OI-deez</td>
         </tr>
         <tr>
+          <td>Echites</td>
+          <td>e-KIGH-teez</td>
+        </tr>
+        <tr>
+          <td>Echium</td>
+          <td>E-kee-uhm</td>
+        </tr>
+        <tr>
+          <td>Edraianthus</td>
+          <td>E-druh-YAN-thuhs<br>E-dray-AN-thuhs</td>
+        </tr>
+        <tr>
+          <td>Eidothea</td>
+          <td>igh-DO-thee-uh</td>
+        </tr>
+        <tr>
+          <td>Elaeagnus</td>
+          <td>E-lee-AG-nuhs</td>
+        </tr>
+        <tr>
           <td>elegans</td>
           <td>E-li-ganz</td>
+        </tr>
+        <tr>
+          <td>Elaeis</td>
+          <td>e-LEE-is</td>
+        </tr>
+        <tr>
+          <td>Elaeocarpus</td>
+          <td>e-LEE-uh-KAHR-puhs</td>
+        </tr>
+        <tr>
+          <td>Elaeodendron</td>
+          <td>e-LEE-uh-DEN-druhn</td>
+        </tr>
+        <tr>
+          <td>Elatine</td>
+          <td>e-LA-ti-nee</td>
+        </tr>
+        <tr>
+          <td>Elatostema</td>
+          <td>E-luh-toh-STEE-muh</td>
+        </tr>
+        <tr>
+          <td>Elegia</td>
+          <td>E-le-JIGH-uh</td>
+        </tr>
+        <tr>
+          <td>Elettaria</td>
+          <td>E-le-TAIR-ee-uh</td>
+        </tr>
+        <tr>
+          <td>Eleusine</td>
+          <td>E-lyoo-SIGH-nee</td>
+        </tr>
+        <tr>
+          <td>Eleutherococcus</td>
+          <td>e-LYOO-thi-ruh-KO-kuhs</td>
+        </tr>
+        <tr>
+          <td>Elleanthus</td>
+          <td>E-lee-AN-thuhs</td>
+        </tr>
+        <tr>
+          <td>Elodea</td>
+          <td>e-LOH-dee-uh</td>
+        </tr>
+        <tr>
+          <td>Elymus</td>
+          <td>E-li-muhs</td>
+        </tr>
+        <tr>
+          <td>Embothrium</td>
+          <td>em-BO-three-uhm</td>
         </tr>
         <tr>
           <td>Embryophyta</td>
           <td>EM-bree-O-fi-tuh</td>
         </tr>
         <tr>
+          <td>Emilia</td>
+          <td>e-MI-lee-uh</td>
+        </tr>
+        <tr>
+          <td>Emmenanthe</td>
+          <td>E-mi-NAN-thee</td>
+        </tr>
+        <tr>
+          <td>Emmenopterys</td>
+          <td>E-mi-NOP-tuh-ris</td>
+        </tr>
+        <tr>
           <td>Empetrum</td>
           <td>EM-pi-truhm</td>
+        </tr>
+        <tr>
+          <td>Encelia</td>
+          <td>en-SEE-lee-uh</td>
+        </tr>
+        <tr>
+          <td>Encephalartos</td>
+          <td>en-SE-fuh-LAHR-tuhs</td>
+        </tr>
+        <tr>
+          <td>Encyclia</td>
+          <td>en-SIK-lee-uh</td>
+        </tr>
+        <tr>
+          <td>Enkianthus</td>
+          <td>EN-kee-AN-thuhs</td>
+        </tr>
+        <tr>
+          <td>Ensete</td>
+          <td>EN-set*</td>
+        </tr>
+        <tr>
+          <td>Entada</td>
+          <td>en-TO-duh*</td>
+        </tr>
+        <tr>
+          <td>Entelea</td>
+          <td>EN-ti-LEE-uh<br>en-TEE-lee-uh</td>
+        </tr>
+        <tr>
+          <td>Eomecon</td>
+          <td>EE-uh-MEE-kuhn<br>EE-uh-MEE-kon</td>
+        </tr>
+        <tr>
+          <td>Epacris</td>
+          <td>E-puh-kris</td>
         </tr>
         <tr>
           <td>Ephedra</td>
@@ -3559,11 +3877,83 @@ Species epithets will be given in the feminine form by default. Pronunciations w
         </tr>
         <tr>
           <td>Epidendrum</td>
-          <td>EP-i-DEN-druhm</td>
+          <td>E-pi-DEN-druhm</td>
+        </tr>
+        <tr>
+          <td>Epigaea</td>
+          <td>E-pi-JEE-uh</td>
+        </tr>
+        <tr>
+          <td>Epilobium</td>
+          <td>E-pi-LOH-bee-uhm</td>
+        </tr>
+        <tr>
+          <td>Epimedium</td>
+          <td>E-pi-MEE-dee-uhm</td>
+        </tr>
+        <tr>
+          <td>Epipactis</td>
+          <td>E-pi-PAK-tis</td>
+        </tr>
+        <tr>
+          <td>Epiphyllum</td>
+          <td>E-pi-FI-luhm</td>
+        </tr>
+        <tr>
+          <td>Epipremnum</td>
+          <td>E-pi-PREM-nuhm</td>
+        </tr>
+        <tr>
+          <td>Episcia</td>
+          <td>e-PI-sh(ee-)uh</td>
+        </tr>
+        <tr>
+          <td>Epithelantha</td>
+          <td>E-pi-thi-LAN-thuh</td>
+        </tr>
+        <tr>
+          <td>Eragrostis</td>
+          <td>E-ruh-GROS-tis</td>
+        </tr>
+        <tr>
+          <td>Eranthemum</td>
+          <td>e-RAN-thi-muhm</td>
+        </tr>
+        <tr>
+          <td>Eranthis</td>
+          <td>e-RAN-this</td>
+        </tr>
+        <tr>
+          <td>Erato</td>
+          <td>E-ruh-toh</td>
         </tr>
         <tr>
           <td>erecta</td>
           <td>e-REK-tuh</td>
+        </tr>
+        <tr>
+          <td>Eremaea</td>
+          <td>E-ri-MEE-uh</td>
+        </tr>
+        <tr>
+          <td>Eremanthus</td>
+          <td>E-ri-MAN-thuhs</td>
+        </tr>
+        <tr>
+          <td>Eremophila</td>
+          <td>E-ri-MO-fi-luh</td>
+        </tr>
+        <tr>
+          <td>Eremurus</td>
+          <td>E-ri-MYOOR-uhs</td>
+        </tr>
+        <tr>
+          <td>Erepsia</td>
+          <td>e-REP-see-uh</td>
+        </tr>
+        <tr>
+          <td>Eria</td>
+          <td>E-ree-uh</td>
         </tr>
         <tr>
           <td>Erica</td>
@@ -3574,8 +3964,56 @@ Species epithets will be given in the feminine form by default. Pronunciations w
           <td>E-ri-KAY-see-ee</td>
         </tr>
         <tr>
+          <td>Erigenia</td>
+          <td>E-ri-JEE-nee-uh</td>
+        </tr>
+        <tr>
+          <td>Erigeron</td>
+          <td>e-RI-juh-ron</td>
+        </tr>
+        <tr>
+          <td>Erinacea</td>
+          <td>E-ri-NAY-sh(ee-)uh</td>
+        </tr>
+        <tr>
+          <td>Erinus</td>
+          <td>e-RIGH-nuhs</td>
+        </tr>
+        <tr>
+          <td>Eriobotrya</td>
+          <td>E-ree-oh-BO-tree-uh</td>
+        </tr>
+        <tr>
+          <td>Eriocephalus</td>
+          <td>E-ree-oh-SE-fuh-luhs</td>
+        </tr>
+        <tr>
+          <td>Eriogonum</td>
+          <td>E-ree-O-guh-nuhm</td>
+        </tr>
+        <tr>
+          <td>Eriope</td>
+          <td>E-ree-OH-pee</td>
+        </tr>
+        <tr>
+          <td>Eriophorum</td>
+          <td>E-ree-O-fuh-ruhm</td>
+        </tr>
+        <tr>
           <td>Eriophyllum</td>
-          <td>E-ree-oh-FI-luhm<br>EE-ree-oh-FI-luhm</td>
+          <td>E-ree-oh-FI-luhm</td>
+        </tr>
+        <tr>
+          <td>Eriopidion</td>
+          <td>E-ree-oh-PI-dee-uhn<br>E-ree-oh-PI-dee-on</td>
+        </tr>
+        <tr>
+          <td>Eriopsis</td>
+          <td>E-ree-OP-sis</td>
+        </tr>
+        <tr>
+          <td>Eriostemon</td>
+          <td>E-ree-oh-STEE-muhn</td>
         </tr>
         <tr>
           <td>Erodium</td>
@@ -4359,7 +4797,7 @@ Species epithets will be given in the feminine form by default. Pronunciations w
         </tr>
         <tr>
           <td>Ophiopogon</td>
-          <td>OH-fee-oh-POH-guhn<br>OH-fee-oh-POH-gon</td>
+          <td>OH-fee-oh-POH-gon</td>
         </tr>
         <tr>
           <td>Ophrys</td>
@@ -5420,6 +5858,10 @@ Species epithets will be given in the feminine form by default. Pronunciations w
         <tr>
           <td>stomata</td>
           <td>STOH-muh-tuh</td>
+        </tr>
+        <tr>
+          <td>straminea</td>
+          <td>struh-MI-nee-uh</td>
         </tr>
         <tr>
           <td>Striga</td>
