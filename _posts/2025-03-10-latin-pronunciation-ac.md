@@ -463,6 +463,14 @@ Pronunciations with asterisks are irregular to the principles of traditional pro
           <td>-ee</td>
         </tr>
         <tr>
+          <td>-as</td>
+          <td>-uhs</td>
+        </tr>
+        <tr>
+          <td>-at</td>
+          <td>-at</td>
+        </tr>
+        <tr>
           <td>-e</td>
           <td>-ee</td>
         </tr>
@@ -485,6 +493,10 @@ Pronunciations with asterisks are irregular to the principles of traditional pro
         <tr>
           <td>-o</td>
           <td>-oh</td>
+        </tr>
+        <tr>
+          <td>-os</td>
+          <td>-os (but -ohs for the accusative plural)</td>
         </tr>
         <tr>
           <td>-u</td>
@@ -549,7 +561,7 @@ Pronunciations with asterisks are irregular to the principles of traditional pro
         </tr>
         <tr>
           <td>Abelmoschus</td>
-          <td>A-bel-MOS-kuhs</td>
+          <td>AY-bel-MOS-kuhs</td>
         </tr>
         <tr>
           <td>Abies</td>
@@ -1086,10 +1098,6 @@ Pronunciations with asterisks are irregular to the principles of traditional pro
         <tr>
           <td>Angophora</td>
           <td>an-GO-fuh-ruh</td>
-        </tr>
-        <tr>
-          <td>Angraecum</td>
-          <td>an-GREE-kuhm</td>
         </tr>
         <tr>
           <td>Angraecum</td>
@@ -2701,7 +2709,7 @@ Pronunciations with asterisks are irregular to the principles of traditional pro
         </tr>
         <tr>
           <td>Cocos</td>
-          <td>KOH-kohs</td>
+          <td>KOH-kohs*<br>KOH-kuhs</td>
         </tr>
         <tr>
           <td>Codiaeum</td>
@@ -2793,7 +2801,7 @@ Pronunciations with asterisks are irregular to the principles of traditional pro
         </tr>
         <tr>
           <td>Conium</td>
-          <td>KOH-nee-um</td>
+          <td>kuh-NIGH-um</td>
         </tr>
         <tr>
           <td>Conophytum</td>
@@ -3483,11 +3491,11 @@ Pronunciations with asterisks are irregular to the principles of traditional pro
         </tr>
         <tr>
           <td>Dioscorea</td>
-          <td>DIGH-uh-SKOR-ee-uh<br>DIGH-oh-SKOR-ee-uh</td>
+          <td>DIGH-oh-SKOR-ee-uh</td>
         </tr>
         <tr>
           <td>Dioscoreaceae</td>
-          <td>DIGH-uh-SKOR-ee-AY-see-ee<br>DIGH-oh-SKOR-ee-AY-see-ee</td>
+          <td>DIGH-oh-SKOR-ee-AY-see-ee</td>
         </tr>
         <tr>
           <td>Diosma</td>
@@ -3495,7 +3503,7 @@ Pronunciations with asterisks are irregular to the principles of traditional pro
         </tr>
         <tr>
           <td>Diospyros</td>
-          <td>digh-OS-pi-rohs</td>
+          <td>DIGH-oh-SPIGH-ros<br>digh-OS-pi-rohs*</td>
         </tr>
         <tr>
           <td>Diphylleia</td>
@@ -3696,6 +3704,10 @@ Pronunciations with asterisks are irregular to the principles of traditional pro
           <td>EK-ri-muh-KAHR-puhs</td>
         </tr>
         <tr>
+          <td>Echeveria</td>
+          <td>E-she-VIER-ee-uh*</td>
+        </tr>
+        <tr>
           <td>Echidnopsis</td>
           <td>E-kid-NOP-sis</td>
         </tr>
@@ -3853,7 +3865,7 @@ Pronunciations with asterisks are irregular to the principles of traditional pro
         </tr>
         <tr>
           <td>Entada</td>
-          <td>en-TO-duh*</td>
+          <td>en-TO-duh*<br>en-TAY-duh</td>
         </tr>
         <tr>
           <td>Entelea</td>
@@ -3912,6 +3924,10 @@ Pronunciations with asterisks are irregular to the principles of traditional pro
           <td>E-pi-thi-LAN-thuh</td>
         </tr>
         <tr>
+          <td>Equisetum</td>
+          <td>E-kwi-SEE-tuhm</td>
+        </tr>
+        <tr>
           <td>Eragrostis</td>
           <td>E-ruh-GROS-tis</td>
         </tr>
@@ -3953,7 +3969,7 @@ Pronunciations with asterisks are irregular to the principles of traditional pro
         </tr>
         <tr>
           <td>Eria</td>
-          <td>E-ree-uh</td>
+          <td>EE-ree-uh</td>
         </tr>
         <tr>
           <td>Erica</td>
@@ -4128,6 +4144,10 @@ Pronunciations with asterisks are irregular to the principles of traditional pro
           <td>GAIR-ee-AY-see-ee</td>
         </tr>
         <tr>
+          <td>Gelasine</td>
+          <td>je-LA-si-nee</td>
+        </tr>
+        <tr>
           <td>genera</td>
           <td>JE-nuh-ruh</td>
         </tr>
@@ -4165,11 +4185,11 @@ Pronunciations with asterisks are irregular to the principles of traditional pro
         </tr>
         <tr>
           <td>Ginkgo</td>
-          <td>GEEN-koh</td>
+          <td>GEEN-koh*</td>
         </tr>
         <tr>
           <td>Ginkgoaceae</td>
-          <td>GEEN-koh-AY-see-ee</td>
+          <td>GEEN-koh-AY-see-ee*</td>
         </tr>
         <tr>
           <td>Gladiolus</td>
@@ -4185,7 +4205,7 @@ Pronunciations with asterisks are irregular to the principles of traditional pro
         </tr>
         <tr>
           <td>Glycine</td>
-          <td>GLI-si-nee</td>
+          <td>GLI-si-nee<br>gli-SIGH-nee</td>
         </tr>
         <tr>
           <td>Gonialoe</td>
@@ -4193,7 +4213,7 @@ Pronunciations with asterisks are irregular to the principles of traditional pro
         </tr>
         <tr>
           <td>Gnetaceae</td>
-          <td>ne-TAY-see-ee<br>nee-TAY-see-ee</td>
+          <td>ne-TAY-see-ee</td>
         </tr>
         <tr>
           <td>Gnetophyta</td>
@@ -4212,8 +4232,8 @@ Pronunciations with asterisks are irregular to the principles of traditional pro
           <td>gruh-MI-nee-ee</td>
         </tr>
         <tr>
-          <td>Gunnera**</td>
-          <td>GU-nur-uh<br>gu-NIER-uh</td>
+          <td>Gunnera</td>
+          <td>gu-NE-ruh<br>GU-nur-uh</td>
         </tr>
         <tr>
           <td>Gunneraceae</td>
@@ -4221,7 +4241,7 @@ Pronunciations with asterisks are irregular to the principles of traditional pro
         </tr>
         <tr>
           <td>Guttiferae</td>
-          <td>guh-TI-fuh-ree</td>
+          <td>guh-TI-fe-ree</td>
         </tr>
       </tbody>
     </table>
@@ -4654,6 +4674,10 @@ Pronunciations with asterisks are irregular to the principles of traditional pro
           <td>NUR-tuh-ruh</td>
         </tr>
         <tr>
+          <td>Nicotiana</td>
+          <td>ni-KOH-shee-AY-nuh</td>
+        </tr>
+        <tr>
           <td>Nidularium</td>
           <td>NI-joo-LAIR-ee-uhm</td>
         </tr>
@@ -4749,7 +4773,7 @@ Pronunciations with asterisks are irregular to the principles of traditional pro
         </tr>
         <tr>
           <td>Oenothera</td>
-          <td>E-nuh-THIER-uh</td>
+          <td>EE-nuh-THIER-uh</td>
         </tr>
         <tr>
           <td>officinalis</td>
@@ -5514,8 +5538,12 @@ Pronunciations with asterisks are irregular to the principles of traditional pro
           <td>soo-DO-puh-naks</td>
         </tr>
         <tr>
+          <td>Pseudosasa</td>
+          <td>SOO-doh-SAY-suh<br>SOO-doh-SAH-sah*</td>
+        </tr>
+        <tr>
           <td>Pseudotsuga</td>
-          <td>SOO-doh-TSOO-guh</td>
+          <td>SOO-doh-TSOO-gah*</td>
         </tr>
         <tr>
           <td>Psychotria</td>
@@ -5740,6 +5768,10 @@ Pronunciations with asterisks are irregular to the principles of traditional pro
           <td>SA-ruh-SEE-nee-AY-see-see</td>
         </tr>
         <tr>
+          <td>Sasa</td>
+          <td>SAY-suh<br>SAH-sah*</td>
+        </tr>
+        <tr>
           <td>sativa</td>
           <td>suh-TIGH-vuh</td>
         </tr>
@@ -5761,7 +5793,7 @@ Pronunciations with asterisks are irregular to the principles of traditional pro
         </tr>
         <tr>
           <td>Secale</td>
-          <td>SE-kuh-lee</td>
+          <td>se-KAY-lee</td>
         </tr>
         <tr>
           <td>Sedum</td>
@@ -5923,7 +5955,7 @@ Pronunciations with asterisks are irregular to the principles of traditional pro
         </tr>
         <tr>
           <td>Tsuga</td>
-          <td>TSOO-guh</td>
+          <td>TSOO-gah*</td>
         </tr>
       </tbody>
     </table>
