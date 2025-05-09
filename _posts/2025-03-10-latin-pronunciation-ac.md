@@ -5,7 +5,7 @@ author: "konomu"
 categories: journal
 tags: [plants]
 image: 
-published: true
+published: false
 ---
 
 <style>
