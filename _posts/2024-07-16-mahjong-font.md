@@ -31,7 +31,7 @@ The honors map onto `1234567`, manzu are `qwertyuiop`, the pinzu are `asdfghjkl;
 There are also rotated versions of the glyphs to indicate riichi. Simply press `Shift` along with the tile you want.
 
 <p style="font-size: 2em; line-height: 1.3em; text-align: center;">
-   <a href="{{ site.github.url }}/Tiles-Regularv2.1-SVG.otf">
+   <a href="{{ site.github.url }}/assets/files/Tiles-Regularv2.1-SVG.otf">
       Download the font here!(866.9 kB)<br>
        フォントのダウンロードはこちら
    </a>
