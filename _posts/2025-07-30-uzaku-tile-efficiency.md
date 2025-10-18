@@ -5,7 +5,7 @@ author: "konomu"
 categories: journal
 tags: [mahjong, translation]
 image: 
-published: true
+published: false
 ---
 
 This is my full translation of *Uzaku-shiki Mahjong Gakushuu Haikouritsu* by G Uzaku which I originally made public in April of 2022. I've cleaned and revised it since then. 
