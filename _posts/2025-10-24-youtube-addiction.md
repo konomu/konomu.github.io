@@ -44,7 +44,7 @@ It feels like there are a lot of features in youtube's UI and algorithm that int
 7. The algorithm's tendency to fixate on videos with overly long run times (video essays).
 8. Youtube shorts and autoplay.
 
-I found youtube shorts so egregious that I have an extension to block them entirely on desktop, and jailbroke my tablet to get them off of the mobile app. But not all of these "features" that I listed can be avoided so easily. Most are baked into the system and can only be avoided by not using youtube at all.
+I found youtube shorts so egregious that I have an extension to block them entirely on desktop and I jailbroke my tablet to get them off of the mobile app. But not all of these "features" that I listed can be avoided so easily. Most are baked into the system and can only be avoided by not using youtube at all.
 
 # Solutions?
 
@@ -53,6 +53,8 @@ For the better part of a year or two now, I have been looking for ways to better
 ### Unhook
 
 [Unhook](https://unhook.app/) is a browser extension that lets you hide your recommendations, youtube shorts, your home feed, and a bunch of other stuff. I have found that its effectiveness is largely dependent on your own willpower. It does work to make youtube much less engaging, so you might find yourself spending a lot less time there, but it is incredibly easy to toggle youtube features back on, especially if you're feeling particularly tempted one day or are just inattentive to your own discipline like me. In my experience, I would turn the home feed back on and leave it like that for days or weeks, before I eventually become cognizant again about how much time I'm wasting on youtube and turning it off again. And then, the cycle would repeat...
+
+I have to say, though, that this is my favorite extension out of all the ones I am about to introduce, and it's the only one I haven't completely abandoned.
 
 ### LeechBlock NG
 
