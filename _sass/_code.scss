@@ -19,10 +19,15 @@ pre {
   padding: 1rem;
   font-size: .8rem;
   line-height: 1.4;
-  white-space: pre;
-  white-space: pre-wrap;
-  word-break: break-all;
-  word-wrap: break-word;
+
+  white-space: pre;       /* preserve formatting */
+  overflow-x: auto;       /* allow horizontal scroll */
+  word-break: normal;     /* prevent breaking words */
+  word-wrap: normal;      /* prevent forced wrapping */
+
+  max-width: 100%;        /* constrain to viewport */
+  box-sizing: border-box; /* include padding in width */
+
   background-color: $code-background-color;
 }
 pre code {
@@ -42,6 +47,7 @@ pre.highlight {
 .highlight {
   margin-bottom: 1rem;
   border-radius: 4px;
+  max-width: 95vw;
 }
 .highlight pre {
   margin-bottom: 0;
