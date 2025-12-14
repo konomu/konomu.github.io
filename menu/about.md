@@ -9,7 +9,7 @@ I'm konomu <span style="color:rgb(136, 136, 136)">(he/him)</span>. I made this p
 
 Here's a little bit about me...
 
-I'm 23 years old and I've been using the Internet since I was quite literally 4 (I remember my favorite site being enchantedlearning.com). Somewhere in an old family album there's a pic of baby me sat in front of a desktop PC in a chair that's too low, computer mouse in my tiny hand, playing a Barbie flash game.
+I'm 24 years old and I've been using the Internet since I was quite literally 4 (I remember my favorite site being enchantedlearning.com). Somewhere in an old family album there's a pic of baby me sat in front of a desktop PC in a chair that's too low, computer mouse in my tiny hand, playing a Barbie flash game.
 
 It's weird to think that I've been on the Internet for such a long time. You might expect me to have a huge digital footprint, but the truth is I don't have much to show for it. Most of my time online has been consuming other people's content, enjoying other people's art, and never really creating anything myself. I never aspired to be an artist or developed a strong personality online and in real life (or at least, one I was comfortable in). I've spent way too many hours on YouTube, Reddit, and Discord wasting my time and contributing nothing. Mostly Youtube.
 
