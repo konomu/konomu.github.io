@@ -5,7 +5,7 @@ permalink: /about
 image: keeb.jpg
 ---
 
-I'm konomu <span style="color:rgb(136, 136, 136)">(he/him)</span>. I made this place partly out of the passion I have for everything I write about here, and partly because I'm fed up with what the Internet is becoming. If this little corner of the web has any negating effect on the enshittification of the web, however small, it will have served its purpose.
+I'm hedera <span style="color:rgb(136, 136, 136)">(he/him)</span>. I made this place partly out of the passion I have for everything I write about here, and partly because I'm fed up with what the Internet is becoming. If this little corner of the web has any negating effect on the enshittification of the web, however small, it will have served its purpose.
 
 Here's a little bit about me...
 

@@ -1,7 +1,7 @@
 ---
 layout: docs
 title: "Wa and Ga - Principle of Topic Position"
-author: "konomu"
+author: "hedera"
 categories: journal
 tags: [japanese]
 hidden: true

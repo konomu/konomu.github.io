@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Glossary of Pronunciations of Botanical Terms"
-author: "konomu"
+author: "hedera"
 categories: journal
 tags: [plants]
 image: 

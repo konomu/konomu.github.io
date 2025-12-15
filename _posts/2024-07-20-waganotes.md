@@ -1,7 +1,7 @@
 ---
 layout: docs
 title: "notes"
-author: "konomu"
+author: "hedera"
 categories: journal
 tags: [japanese]
 published: false
@@ -45,9 +45,9 @@ finish exclusive が in basics
   </ol>
 </div>
 
-# [は and が: An In-Depth Guide](https://konomu.github.io/wa-ga-basics)
+# [は and が: An In-Depth Guide](wa-ga-basics)
 
-This is my writing, but most material is from 『｢は｣ と ｢が｣』by Hisashi Noda. I believe it is probably the most comprehensive learner-oriented explanations of the Japanese topic system in English to date. I found that there was a lack of English resources on this subject that could accurately and adequately explain its intricacies, so this is an attempt to provide an accessible and easily digestible resource. There are 7 chapters of content, built around a flowchart model and prototypical sentences structures in Japanese. Feedback is appreciated.
+This is my writing, but most material is from 『｢は｣ と ｢が｣』 by Hisashi Noda. I believe it is probably the most comprehensive learner-oriented explanations of the Japanese topic system in English to date. I found that there was a lack of English resources on this subject that could accurately and adequately explain its intricacies, so this is an attempt to provide an accessible and easily digestible resource. There are 7 chapters of content, built around a flowchart model and prototypical sentences structures in Japanese. Feedback is appreciated.
 
 
 ## Subordinate Sentences

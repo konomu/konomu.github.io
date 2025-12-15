@@ -1,7 +1,7 @@
 ---
 layout: docs
 title: "Wa and Ga - Other Usages and More は Structures"
-author: "konomu"
+author: "hedera"
 categories: journal
 tags: [japanese]
 hidden: true

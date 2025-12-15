@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Color Font for Mahjong Tiles | マージャン牌の色付きフォント"
-author: "konomu"
+author: "hedera"
 categories: journal
 tags: [font,mahjong,opentype-svg,color-font]
 image: tilessvg.jpg

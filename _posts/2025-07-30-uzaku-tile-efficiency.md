@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Uzaku's Guide to Tile Efficiency - English Translation"
-author: "konomu"
+author: "hedera"
 categories: journal
 tags: [mahjong, translation]
 image: 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Learning Stenoword with Anki and Plover | AnkiとPloverでステノワードを学びましょう"
-author: "konomu"
+author: "hedera"
 categories: journal
 tags: [documentation,anki,steno,stenoword]
 image: stenowordcommunication.jpg

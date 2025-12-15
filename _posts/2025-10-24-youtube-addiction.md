@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Youtube Addiction"
-author: "konomu"
+author: "hedera"
 categories: journal
 tags: [youtube, addiction, personal]
 image: 
