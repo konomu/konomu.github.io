@@ -1,0 +1,284 @@
+<!doctype html>
+<html>
+  <head>
+  <title>
+    
+      Learning Stenoword with Anki and Plover | AnkiとPloverでステノワードを学びましょう | コノム
+    
+  </title>
+  <link rel="apple-touch-icon" sizes="57x57" href="favicon.ico/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="favicon.ico/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="favicon.ico/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="favicon.ico/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="favicon.ico/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="favicon.ico/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="favicon.ico/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="favicon.ico/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="favicon.ico/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="favicon.ico/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="favicon.ico/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="favicon.ico/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="favicon.ico/favicon-16x16.png">
+<link rel="manifest" href="favicon.ico/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/syntax.css">
+  <!-- Use Atom -->
+  <link type="application/atom+xml" rel="alternate" href="/feed.xml" title="コノム" />
+  <!-- Use RSS-2.0 -->
+  <!--<link href="/rss-feed.xml" type="application/rss+xml" rel="alternate" title="コノム | konomu&#39;s notebook"/>
+  //-->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/hack-font@3/build/web/hack.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700%7CPT+Sans:400">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Code+Pro">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="/font.css" type="text/css">
+  <script type="text/javascript" async
+    src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
+    MathJax.Hub.Config({
+        tex2jax: {
+          inlineMath: [['$', '$'], ['\\(', '\\)']]
+        }
+      });
+  </script>
+  <!-- Google Analytics -->
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', '', 'auto');
+  ga('send', 'pageview');
+</script>
+
+  <!-- Use Jekyll SEO plugin -->
+  <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Learning Stenoword with Anki and Plover AnkiとPloverでステノワードを学びましょう | コノム</title>
+<meta name="generator" content="Jekyll v4.4.1" />
+<meta property="og:title" content="Learning Stenoword with Anki and Plover AnkiとPloverでステノワードを学びましょう" />
+<meta name="author" content="konomu" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Stenoword (ステノワード) is a Japanese machine stenography system primarily used at NHK Broadcasting Corporation to provide live captioning for their programs. It was probably invented around 1995, when its parent company Speed-WP Inc. was founded.1 Information about the details of this system on the Internet is scarce, as with many other systems of Japanese steno. Since it’s caught the attention of the open-source steno community, much more has been made public. https://www.speed-wp.co.jp/sw-company-information/ &#8617;" />
+<meta property="og:description" content="Stenoword (ステノワード) is a Japanese machine stenography system primarily used at NHK Broadcasting Corporation to provide live captioning for their programs. It was probably invented around 1995, when its parent company Speed-WP Inc. was founded.1 Information about the details of this system on the Internet is scarce, as with many other systems of Japanese steno. Since it’s caught the attention of the open-source steno community, much more has been made public. https://www.speed-wp.co.jp/sw-company-information/ &#8617;" />
+<meta property="og:site_name" content="コノム" />
+<meta property="og:image" content="/stenowordcommunication.jpg" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2024-07-14T00:00:00-07:00" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="twitter:image" content="/stenowordcommunication.jpg" />
+<meta property="twitter:title" content="Learning Stenoword with Anki and Plover AnkiとPloverでステノワードを学びましょう" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"konomu"},"dateModified":"2024-07-14T00:00:00-07:00","datePublished":"2024-07-14T00:00:00-07:00","description":"Stenoword (ステノワード) is a Japanese machine stenography system primarily used at NHK Broadcasting Corporation to provide live captioning for their programs. It was probably invented around 1995, when its parent company Speed-WP Inc. was founded.1 Information about the details of this system on the Internet is scarce, as with many other systems of Japanese steno. Since it’s caught the attention of the open-source steno community, much more has been made public. https://www.speed-wp.co.jp/sw-company-information/ &#8617;","headline":"Learning Stenoword with Anki and Plover AnkiとPloverでステノワードを学びましょう","image":"/stenowordcommunication.jpg","mainEntityOfPage":{"@type":"WebPage","@id":"/stenoword"},"url":"/stenoword"}</script>
+<!-- End Jekyll SEO tag -->
+
+</head>
+
+  <body>
+    <header class="header">
+  <h3 class="header-title">
+    <section>
+      <a href="/"><span class="slanted">コノム</span></a>
+      <small class="header-subtitle">konomu&#39;s notebook</small>
+    </section>
+    <div class="menu">
+  <nav class="menu-content">
+    
+      <a href="/">home</a>
+    
+      <a href="/about.html">about</a>
+    
+      <a href="/writing.html">archive</a>
+    
+      <a href="/contact.html">contact</a>
+    
+  </nav>
+  <nav class="social-icons">
+    
+  
+  
+    <a href="https://www.youtube.com/@ナエ" target="_blank"><i class="fa fa-youtube" aria-hidden="true"></i></a>
+  
+
+  
+  
+    <a href="https://github.com/konomu" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
+  
+
+  
+  
+    <a href="https://ko-fi.com/konomu" target="_blank"><i class="fa fa-coffee" aria-hidden="true"></i></a>
+  
+
+  
+  
+    <a href="/feed.xml"><i class="fa fa-rss-square" aria-hidden="true"></i></a>
+  
+
+  </nav>
+</div>
+
+  </h3>
+</header>
+
+    <div class="container">
+      
+      <div class="content-container">
+        <h1>
+  Learning Stenoword with Anki and Plover | AnkiとPloverでステノワードを学びましょう
+</h1>
+
+  <img style="width: 100%; height: auto;" src="/assets/img/stenowordcommunication.jpg">
+
+<article>
+  <p>Stenoword (ステノワード) is a Japanese <a href="https://en.wikipedia.org/wiki/Stenotype">machine stenography</a> system primarily used at NHK Broadcasting Corporation to provide live captioning for their programs. It was probably invented around 1995, when its parent company Speed-WP Inc. was founded.<sup id="fnref:1"><a href="#fn:1" class="footnote" rel="footnote" role="doc-noteref">1</a></sup> Information about the details of this system on the Internet is scarce, as with many other systems of Japanese steno. Since it’s caught the attention of the open-source steno community, much more has been made public.</p>
+
+<p>After learning English steno in 2021 with <a href="http://www.openstenoproject.org/plover/">Plover</a>, I drifted away from the community, only occasionally checking in on the folks at the Plover discord. Recently, I went back to the Japanese channel there and found out that Jen, an admin on the server, had gotten her hands on three Stenoword textbooks (as well as some articles on other Japanese steno systems) and <a href="https://jenchanws.github.io/stenoword/">released its contents at a new website</a>. Both an English and Japanese version are available there. Since 2018, we’d already had a <a href="https://github.com/na2hiro/plover-japanese-stenoword">Stenoword plugin for Plover</a> (thanks to na2hiro on Github) that came with a dictionary, but having the theory spelled out in bite-sized pieces means that it’s infinitely easier to learn if you weren’t familiar with the theory already. It might technically be possible to learn a steno theory purely through its dictionary file, but nobody wants to do that!</p>
+
+<h2 id="using-plover"><a name="Using_Plover"></a>Using Plover</h2>
+<p>To try out Stenoword, I recommend you use install the stenoword plugin on Plover with the dictionaries from <a href="https://github.com/Meltedsoftcream/Plover_Japanese_StenoWord">this repository (Meltedsoftcream on Github)</a>. Because of the way plover handles text, the sticky non-romaji dictionary is the best option to use out-of-the-box. The dictionaries from the original Stenoword plugin repository are less complete. For instructions on installing this plugin, follow the section under <a href="https://plover.wiki/index.php/Plugins#Plugins_not_on_PyPI">Plugins not on PyPI</a> at this page on the Plover wiki.</p>
+
+<h2 id="using-anki"><a name="Using_Anki">Using Anki</a></h2>
+
+<p><a href="https://apps.ankiweb.net/">Anki</a> is a free and open-source spaced repetition software program. In other words, it’s a flashcard program that doesn’t suck.</p>
+
+<p>Since I was already familiar with it, I decided to make a custom deck for Stenoword based on the three textbooks as they appeared on Jen’s site. Anki is actually what I used to learn <a href="https://www.magnumsteno.com/">Magnum Theory</a>, an English steno theory that’s relatively heavy on briefs. As I worked my way through the Magnum textbook, I’d manually add new cards for the briefs I learned into a personal Anki deck. This learning approach was inspired by <a href="https://www.reddit.com/r/Plover/comments/ads6yg/rope_22_remembering_outlines_in_plover_more/">ROPE</a>, an even brief-heavier steno theory that comes bundled with an Anki deck.</p>
+
+<p>You can download my finished Stenoword Anki deck with the link below. It has audio for every card, a text input field on the front so that you can try stroking the word to see if you recall it, and a diagram on the back.</p>
+
+<p>Because of the nature of drilling steno briefs, I don’t recommend using FSRS with these types of notes. Make sure you have FSRS turned off in your deck options.</p>
+
+<p style="font-size: 2em; line-height: 1.3em; text-align: center;">
+	<a href="/assets/files/ステノワード.apkg">
+		Download the deck here!(13.4 MB)<br />
+	    デックのダウンロードはこちら
+	</a>
+</p>
+
+<h2 id="preview">Preview</h2>
+<div class="container" style="display:flex; justify-content: center; padding-left: 10px;">
+      <div class="image"> <img src="/assets/img/stenofront.jpg" alt="Front" height="850px" /> </div> 
+      <div class="image"> <img src="/assets/img/stenoback.jpg" alt="Back" height="850px" /> </div> 
+    </div>
+
+<h2 id="notes">Notes</h2>
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1">
+      <p>https://www.speed-wp.co.jp/sw-company-information/ <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+
+</article>
+<br>
+
+  <span class="post-date">
+  Written on
+  
+  July
+  14th,
+  2024
+  by
+  
+    konomu
+  
+</span>
+
+
+<br>
+
+  <div class="related">
+  <h1 >You may also enjoy:</h1>
+  
+  <ul class="related-posts">
+    
+      
+        
+          <li>
+            <h3>
+              <a href="/backgammon-anki">
+                Studying Backgammon Positions with XG and Anki | XGとAnkiのバックギャモン勉強法
+                <!--<img src="/images/">-->
+                <!--<small>July 15, 2024</small>-->
+              </a>
+            </h3>
+          </li>
+          
+        
+      
+        
+        
+      
+    
+      
+        
+        
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+  </ul>
+</div>
+
+
+
+
+      </div>
+    </div>
+    <footer class="footer">
+  
+  
+  
+    <a href="https://www.youtube.com/@ナエ" target="_blank"><i class="fa fa-youtube" aria-hidden="true"></i></a>
+  
+
+  
+  
+    <a href="https://github.com/konomu" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
+  
+
+  
+  
+    <a href="https://ko-fi.com/konomu" target="_blank"><i class="fa fa-coffee" aria-hidden="true"></i></a>
+  
+
+  
+  
+    <a href="/feed.xml"><i class="fa fa-rss-square" aria-hidden="true"></i></a>
+  
+
+  <div class="footer-description">The content on this website is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License.</a><br>コノム | konomu&#39;s notebook by C.L. © 2025</a></div>
+</footer>
+
+    <script>
+      document.addEventListener('DOMContentLoaded', () => {
+        const checkbox = document.getElementById('sidebar-toggle');
+        const links = navigation.querySelectorAll('a');
+
+        links.forEach(link => {
+            link.addEventListener('click', (event) => {
+                checkbox.checked = false;
+            });
+        });
+      });
+    </script>
+  </body>
+</html>

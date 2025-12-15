@@ -1,0 +1,417 @@
+<!doctype html>
+<html>
+  <head>
+  <title>
+    
+      How to Set Up a Completely Private Instance of SearXNG-Docker | コノム
+    
+  </title>
+  <link rel="apple-touch-icon" sizes="57x57" href="favicon.ico/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="favicon.ico/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="favicon.ico/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="favicon.ico/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="favicon.ico/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="favicon.ico/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="favicon.ico/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="favicon.ico/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="favicon.ico/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="favicon.ico/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="favicon.ico/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="favicon.ico/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="favicon.ico/favicon-16x16.png">
+<link rel="manifest" href="favicon.ico/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/syntax.css">
+  <!-- Use Atom -->
+  <link type="application/atom+xml" rel="alternate" href="/feed.xml" title="コノム" />
+  <!-- Use RSS-2.0 -->
+  <!--<link href="/rss-feed.xml" type="application/rss+xml" rel="alternate" title="コノム | konomu&#39;s notebook"/>
+  //-->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/hack-font@3/build/web/hack.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700%7CPT+Sans:400">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Code+Pro">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="/font.css" type="text/css">
+  <script type="text/javascript" async
+    src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
+    MathJax.Hub.Config({
+        tex2jax: {
+          inlineMath: [['$', '$'], ['\\(', '\\)']]
+        }
+      });
+  </script>
+  <!-- Google Analytics -->
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', '', 'auto');
+  ga('send', 'pageview');
+</script>
+
+  <!-- Use Jekyll SEO plugin -->
+  <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>How to Set Up a Completely Private Instance of SearXNG-Docker | コノム</title>
+<meta name="generator" content="Jekyll v4.4.1" />
+<meta property="og:title" content="How to Set Up a Completely Private Instance of SearXNG-Docker" />
+<meta name="author" content="konomu" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="A few months ago, I set up my own local SearXNG docker image and it’s honestly been one of the best decisions I’ve ever made for my machine. It’s a way to add a layer of privacy between you and all of the search engines you use. Not only can you avoid having a profile of you get built by companies who sell your data, but I find SearXNG also gives you a better user experience because it aggregates results from many different engines at once. It’s so much easier to find what you’re actually looking for when you use SearXNG." />
+<meta property="og:description" content="A few months ago, I set up my own local SearXNG docker image and it’s honestly been one of the best decisions I’ve ever made for my machine. It’s a way to add a layer of privacy between you and all of the search engines you use. Not only can you avoid having a profile of you get built by companies who sell your data, but I find SearXNG also gives you a better user experience because it aggregates results from many different engines at once. It’s so much easier to find what you’re actually looking for when you use SearXNG." />
+<meta property="og:site_name" content="コノム" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2025-12-13T00:00:00-08:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="How to Set Up a Completely Private Instance of SearXNG-Docker" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"konomu"},"dateModified":"2025-12-13T00:00:00-08:00","datePublished":"2025-12-13T00:00:00-08:00","description":"A few months ago, I set up my own local SearXNG docker image and it’s honestly been one of the best decisions I’ve ever made for my machine. It’s a way to add a layer of privacy between you and all of the search engines you use. Not only can you avoid having a profile of you get built by companies who sell your data, but I find SearXNG also gives you a better user experience because it aggregates results from many different engines at once. It’s so much easier to find what you’re actually looking for when you use SearXNG.","headline":"How to Set Up a Completely Private Instance of SearXNG-Docker","mainEntityOfPage":{"@type":"WebPage","@id":"/searxng"},"url":"/searxng"}</script>
+<!-- End Jekyll SEO tag -->
+
+</head>
+
+  <body>
+    <header class="header">
+  <h3 class="header-title">
+    <section>
+      <a href="/"><span class="slanted">コノム</span></a>
+      <small class="header-subtitle">konomu&#39;s notebook</small>
+    </section>
+    <div class="menu">
+  <nav class="menu-content">
+    
+      <a href="/">home</a>
+    
+      <a href="/about.html">about</a>
+    
+      <a href="/writing.html">archive</a>
+    
+      <a href="/contact.html">contact</a>
+    
+  </nav>
+  <nav class="social-icons">
+    
+  
+  
+    <a href="https://www.youtube.com/@ナエ" target="_blank"><i class="fa fa-youtube" aria-hidden="true"></i></a>
+  
+
+  
+  
+    <a href="https://github.com/konomu" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
+  
+
+  
+  
+    <a href="https://ko-fi.com/konomu" target="_blank"><i class="fa fa-coffee" aria-hidden="true"></i></a>
+  
+
+  
+  
+    <a href="/feed.xml"><i class="fa fa-rss-square" aria-hidden="true"></i></a>
+  
+
+  </nav>
+</div>
+
+  </h3>
+</header>
+
+    <div class="container">
+      
+      <div class="content-container">
+        <h1>
+  How to Set Up a Completely Private Instance of SearXNG-Docker
+</h1>
+
+  <img style="width: 100%; height: auto;" src="/assets/img/ilovesearxng.png">
+
+<article>
+  <p>A few months ago, I set up my own local SearXNG docker image and it’s honestly been one of the best decisions I’ve ever made for my machine. It’s a way to add a layer of privacy between you and all of the search engines you use. Not only can you avoid having a profile of you get built by companies who sell your data, but I find SearXNG also gives you a better user experience because it aggregates results from many different engines at once. It’s so much easier to find what you’re actually looking for when you use SearXNG.</p>
+
+<h1 id="installing-docker">Installing Docker</h1>
+
+<p>To get this to work, you must have docker installed. If you don’t, take care of that first before you complete any of the next steps.</p>
+
+<p>On Arch Linux, it is as simple as running <code class="language-plaintext highlighter-rouge">sudo pacman -Syu docker</code>.</p>
+
+<h1 id="installing-searxng-docker">Installing SearXNG-Docker</h1>
+
+<p>All of these next steps are also available on the readme at <a href="https://github.com/searxng/searxng-docker">searxng-docker’s github repo.</a></p>
+
+<p>To get searxng-docker on our machine, clone the git repo to <code class="language-plaintext highlighter-rouge">/usr/local</code> and navigate there.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>cd /usr/local
+git clone https://github.com/searxng/searxng-docker.git
+cd searxng-docker
+</code></pre></div></div>
+
+<p>Generate the secret key with the following command, so you have a secret key in your <code class="language-plaintext highlighter-rouge">settings.yml</code>. You just have to run it, no need to edit the actual <code class="language-plaintext highlighter-rouge">settings.yml</code> file.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sed -i "s|ultrasecretkey|$(openssl rand -hex 32)|g" searxng/settings.yml
+</code></pre></div></div>
+
+<p>Now just run <code class="language-plaintext highlighter-rouge">docker compose up -d</code> and you should be able to see your SearXNG instance at <code class="language-plaintext highlighter-rouge">http://localhost:8080</code>.</p>
+
+<h1 id="configuring-the-searxng-instance-for-use-with-https">Configuring the SearXNG Instance For Use With HTTPS</h1>
+
+<p>Setting <code class="language-plaintext highlighter-rouge">http://localhost:8080</code> to be the default search engine in Firefox doesn’t work. Firefox seems to correctly identify SearXNG’s OpenSearch plugin, but searches cannot be completed with the address bar or through other interfaces except directly through the search bar while you are already on the page <code class="language-plaintext highlighter-rouge">http://localhost:8080</code>. It seems that Firefox doesn’t allow such pages to be implemented as a search engine. To fix this, we must serve SearXNG over HTTPS.</p>
+
+<h2 id="install-and-setting-up-mkcert">Install and Setting Up mkcert</h2>
+
+<p>mkcert is a tool for making locally-trusted development certificates. I can install it via pacman with <code class="language-plaintext highlighter-rouge">sudo pacman -Syu mkcert</code>.</p>
+
+<p>For install instructions on other platforms, you should see the readme at <a href="https://github.com/FiloSottile/mkcert">mkcert’s github repo.</a></p>
+
+<p>Then run <code class="language-plaintext highlighter-rouge">mkcert -install</code> to set up a local certificate authority.</p>
+
+<h2 id="generating-certs-to-use-with-searxng">Generating Certs to Use with SearXNG</h2>
+
+<p>If you aren’t already in <code class="language-plaintext highlighter-rouge">/usr/local/searxng-docker</code>, cd there and then run</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>mkcert localhost
+</code></pre></div></div>
+
+<p>mkcert should then give you two files called <code class="language-plaintext highlighter-rouge">localhost.pem</code> and <code class="language-plaintext highlighter-rouge">localhost-key.pem</code>. Put these two files in <code class="language-plaintext highlighter-rouge">/usr/local/searxng-docker/certs</code> (you will have to create this directory). <strong>DO NOT share these keys. Keep them private.</strong></p>
+
+<p>You do not actually have to name the certificate “localhost.” If you want to use a fake domain name like “mysearch.test” you can do this by editing <code class="language-plaintext highlighter-rouge">/etc/hosts</code> and adding the line</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>127.0.0.1 mysearch.test
+</code></pre></div></div>
+
+<h2 id="configuring-caddyfile">Configuring Caddyfile</h2>
+
+<p>Now open your Caddyfile. Add these four lines of code below the first block:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>https://localhost {
+	tls /certs/localhost.pem /certs/localhost-key.pem
+	reverse_proxy searxng:8080
+}
+</code></pre></div></div>
+
+<p>Make sure the <code class="language-plaintext highlighter-rouge">tls</code> line points to the location of the <code class="language-plaintext highlighter-rouge">.pem</code> files you just generated.</p>
+
+<p>Then replace</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code># SearXNG
+reverse_proxy localhost:8080
+</code></pre></div></div>
+
+<p>with</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code># SearXNG
+reverse_proxy searxng:8080
+</code></pre></div></div>
+
+<h2 id="configuring-docker-composeyaml">Configuring docker-compose.yaml</h2>
+
+<p>Now open your <code class="language-plaintext highlighter-rouge">docker-compose.yaml</code>. Replace the entire <code class="language-plaintext highlighter-rouge">caddy:</code> block with this</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  caddy:
+    container_name: caddy
+    image: docker.io/library/caddy:2-alpine
+    depends_on:
+      - searxng
+    restart: unless-stopped
+    networks:
+      - searxng # &lt;-- Attach to searxng
+    ports:
+      - "127.0.0.1:443:443" # &lt;-- Map localhost port 443 to container port 443
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile:ro
+      - ./certs:/certs:ro  # &lt;-- Your mkcert certs go here
+      - caddy-data:/data:rw
+      - caddy-config:/config:rw
+    environment:
+      - SEARXNG_HOSTNAME=${SEARXNG_HOSTNAME:-localhost}
+      - SEARXNG_TLS=${LETSENCRYPT_EMAIL:-internal}
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "1m"
+        max-file: "1"
+</code></pre></div></div>
+
+<p>Effectively, we are mapping the localhost port 443 to the container port 443. You can change the host port (e.g., “8443:443”) to avoid conflicts. We also add a line to volumes so that caddy can see the certs we generated with mkcerts.</p>
+
+<p>Now navigate down to the <code class="language-plaintext highlighter-rouge">searxng:</code> block. Replace the entire thing with this:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  searxng:
+    container_name: searxng
+    image: docker.io/searxng/searxng:latest
+    restart: unless-stopped
+    networks:
+      - searxng
+    expose:
+      - "8080"  # &lt;-- Internal only
+    volumes:
+      - ./searxng:/etc/searxng:rw
+      - searxng-data:/var/cache/searxng:rw
+    environment:
+      - SEARXNG_BASE_URL=https://${SEARXNG_HOSTNAME:-localhost}/ # &lt;-- The base URL is modified
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "1m"
+        max-file: "1"
+</code></pre></div></div>
+
+<p>This makes port 8080 available only to other containers on the Docker network and not the host. No one else on the network has access to SearXNG.</p>
+
+<p>Now run:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>docker compose restart caddy
+docker compose restart searxng
+</code></pre></div></div>
+
+<p>We can now access SearXNG via Caddy at <code class="language-plaintext highlighter-rouge">https://localhost</code> and use this local instance as our search engine in Firefox!</p>
+
+<h1 id="extra-making-this-work-with-ublacklist">EXTRA: Making This Work With uBlacklist</h1>
+
+<p>uBlacklist is a Firefox addon that lets you add “blacklists,” or lists of sites that you don’t want showing up in your search results. It’s also available for Chrome, but using Chrome defeats the purpose of configuring SearXNG in the first place. Don’t use Chrome with this.</p>
+
+<p>The default implementation of uBlacklist supports SearXNG, but only through a list of publically available instances in its SERPINFO list. That means uBlacklist cannot see your private instance of SearXNG.</p>
+
+<p>To fix this, go to the extension’s Options page. Under “General”, click “SERPINFO”.</p>
+
+<p><img src="../assets/img/serpinfo.png" alt="image" /></p>
+
+<p>Then under “My SERPINFO”, add the following code:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>name: SearXNG
+homepage: https://github.com/ublacklist/builtin#readme
+
+pages:
+  - name: All
+    includeRegex: "/search(\\?|$)"
+    results:
+      - root: .category-general
+        url: a
+        props:
+          title: h3
+          $category: [const, "web"]
+      - root: .category-images
+        url: .result-url &gt; a
+        props:
+          title: .title
+          $category: [const, "images"]
+      - root: .category-videos
+        url: a
+        props:
+          title: h3
+          $category: [const, "videos"]
+      - root: .category-news
+        url: a
+        props:
+          title: h3
+          $category: [const, "news"]
+    commonProps:
+      $site: searx # backwards compatibility
+    matches:
+     - https://localhost/*
+</code></pre></div></div>
+
+<p>You should be able to use SearXNG with uBlacklist now. If you’re not using “localhost” as your domain name, you need to change the last line to match it.</p>
+
+</article>
+<br>
+
+  <span class="post-date">
+  Written on
+  
+  December
+  13th,
+  2025
+  by
+  
+    konomu
+  
+</span>
+
+
+<br>
+
+  <div class="related">
+  <h1 >You may also enjoy:</h1>
+  
+  <ul class="related-posts">
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+  </ul>
+</div>
+
+
+
+
+      </div>
+    </div>
+    <footer class="footer">
+  
+  
+  
+    <a href="https://www.youtube.com/@ナエ" target="_blank"><i class="fa fa-youtube" aria-hidden="true"></i></a>
+  
+
+  
+  
+    <a href="https://github.com/konomu" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
+  
+
+  
+  
+    <a href="https://ko-fi.com/konomu" target="_blank"><i class="fa fa-coffee" aria-hidden="true"></i></a>
+  
+
+  
+  
+    <a href="/feed.xml"><i class="fa fa-rss-square" aria-hidden="true"></i></a>
+  
+
+  <div class="footer-description">The content on this website is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License.</a><br>コノム | konomu&#39;s notebook by C.L. © 2025</a></div>
+</footer>
+
+    <script>
+      document.addEventListener('DOMContentLoaded', () => {
+        const checkbox = document.getElementById('sidebar-toggle');
+        const links = navigation.querySelectorAll('a');
+
+        links.forEach(link => {
+            link.addEventListener('click', (event) => {
+                checkbox.checked = false;
+            });
+        });
+      });
+    </script>
+  </body>
+</html>

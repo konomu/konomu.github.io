@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>コノム</title>
+		<description>konomu&amp;#39;s notebook</description>
+		<link></link>
+		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>How to Set Up a Completely Private Instance of SearXNG-Docker</title>
+				
+					<dc:creator>konomu</dc:creator>
+				
+				
+					<description>&lt;p&gt;A few months ago, I set up my own local SearXNG docker image and it’s honestly been one of the best decisions I’ve ever made for my machine. It’s a way to add a layer of privacy between you and all of the search engines you use. Not only can you avoid having a profile of you get built by companies who sell your data, but I find SearXNG also gives you a better user experience because it aggregates results from many different engines at once. It’s so much easier to find what you’re actually looking for when you use SearXNG.&lt;/p&gt;
+</description>
+				
+				<pubDate>Sat, 13 Dec 2025 00:00:00 -0800</pubDate>
+				<link>/searxng</link>
+				<guid isPermaLink="true">/searxng</guid>
+			</item>
+		
+			<item>
+				<title>Youtube Addiction</title>
+				
+					<dc:creator>konomu</dc:creator>
+				
+				
+					<description>&lt;p&gt;I have a problem with youtube. I watch so much of it and I rarely feel like what I’m watching is fulfilling. Sometimes I find myself in the middle of a video essay on a subject I don’t care about, or an educational video teaching something which I’m certain I won’t remember tomorrow. Why did I even click on this in the first place? What made me think that this would be a good use of my time?&lt;/p&gt;
+</description>
+				
+				<pubDate>Fri, 24 Oct 2025 00:00:00 -0700</pubDate>
+				<link>/youtube-addiction</link>
+				<guid isPermaLink="true">/youtube-addiction</guid>
+			</item>
+		
+			<item>
+				<title>珠算数字フォント | Abacus Number Font</title>
+				
+					<dc:creator>konomu</dc:creator>
+				
+				
+					<description>&lt;style&gt;
+    @font-face {
+      font-family: &quot;abacus5&quot;;
+      src: url(&quot;assets/files/abacus5.ttf&quot;) format(&quot;truetype&quot;);
+      font-weight: normal;
+      font-style: normal;
+      font-display: swap;
+    }
+&lt;/style&gt;
+</description>
+				
+				<pubDate>Sun, 14 Sep 2025 00:00:00 -0700</pubDate>
+				<link>/abacus-font</link>
+				<guid isPermaLink="true">/abacus-font</guid>
+			</item>
+		
+			<item>
+				<title>Glossary of Pronunciations of Botanical Terms</title>
+				
+					<dc:creator>konomu</dc:creator>
+				
+				
+					<description>&lt;style&gt;
+&lt;/style&gt;
+</description>
+				
+				<pubDate>Mon, 10 Mar 2025 00:00:00 -0700</pubDate>
+				<link>/latin-pronunciation-ac</link>
+				<guid isPermaLink="true">/latin-pronunciation-ac</guid>
+			</item>
+		
+			<item>
+				<title>Wa and Ga Addendum - Atypical Noun Sentences</title>
+				
+					<dc:creator>konomu</dc:creator>
+				
+				
+					<description>&lt;div style=&quot;justify-content: flex-start !important; margin-top: 1rem;&quot; class=&quot;arrow-container&quot;&gt;
+     &lt;a href=&quot;wa-ga-other.html&quot; class=&quot;nav-arrow&quot;&gt;← 7. Other Usages and More は Structures &lt;/a&gt;
+&lt;/div&gt;
+</description>
+				
+				<pubDate>Sun, 22 Dec 2024 00:00:00 -0800</pubDate>
+				<link>/wa-ga-addendum</link>
+				<guid isPermaLink="true">/wa-ga-addendum</guid>
+			</item>
+		
+			<item>
+				<title>Wa and Ga - Principle of Topic Presence</title>
+				
+					<dc:creator>hedera</dc:creator>
+				
+				
+					<description>&lt;p&gt;&lt;em&gt;This article is one in a series that comprehensively explains usage of は vs. が in Japanese. Most content is directly pulled from 『｢は｣ と ｢が｣』 by Hisashi Noda.&lt;/em&gt;&lt;/p&gt;
+</description>
+				
+				<pubDate>Sat, 24 Aug 2024 00:00:00 -0700</pubDate>
+				<link>/wa-ga-topic-presence</link>
+				<guid isPermaLink="true">/wa-ga-topic-presence</guid>
+			</item>
+		
+			<item>
+				<title>Wa and Ga - Principle of Topic Position</title>
+				
+					<dc:creator>konomu</dc:creator>
+				
+				
+					<description>&lt;p&gt;&lt;em&gt;This article is one in a series that comprehensively explains usage of は vs. が in Japanese. Most content is directly pulled from 『｢は｣ と ｢が｣』 by Hisashi Noda.&lt;/em&gt;&lt;/p&gt;
+</description>
+				
+				<pubDate>Sat, 24 Aug 2024 00:00:00 -0700</pubDate>
+				<link>/wa-ga-topic-position</link>
+				<guid isPermaLink="true">/wa-ga-topic-position</guid>
+			</item>
+		
+			<item>
+				<title>Wa and Ga - Principle of Subordination</title>
+				
+					<dc:creator>konomu</dc:creator>
+				
+				
+					<description>&lt;p&gt;&lt;em&gt;This article is one in a series that comprehensively explains usage of は vs. が in Japanese. Most content is directly pulled from 『｢は｣ と ｢が｣』 by Hisashi Noda.&lt;/em&gt;&lt;/p&gt;
+</description>
+				
+				<pubDate>Sat, 24 Aug 2024 00:00:00 -0700</pubDate>
+				<link>/wa-ga-subordination</link>
+				<guid isPermaLink="true">/wa-ga-subordination</guid>
+			</item>
+		
+			<item>
+				<title>Wa and Ga - Other Usages and More は Structures</title>
+				
+					<dc:creator>konomu</dc:creator>
+				
+				
+					<description>&lt;p&gt;&lt;em&gt;This article is one in a series that comprehensively explains usage of は vs. が in Japanese. Most content is directly pulled from 『｢は｣ と ｢が｣』 by Hisashi Noda.&lt;/em&gt;&lt;/p&gt;
+</description>
+				
+				<pubDate>Sat, 24 Aug 2024 00:00:00 -0700</pubDate>
+				<link>/wa-ga-other</link>
+				<guid isPermaLink="true">/wa-ga-other</guid>
+			</item>
+		
+			<item>
+				<title>Wa and Ga - The Flowchart</title>
+				
+					<dc:creator>konomu</dc:creator>
+				
+				
+					<description>&lt;p&gt;&lt;em&gt;This article is one in a series that comprehensively explains usage of は vs. が in Japanese. Most content is directly pulled from 『｢は｣ と ｢が｣』 by Hisashi Noda.&lt;/em&gt;&lt;/p&gt;
+</description>
+				
+				<pubDate>Sat, 24 Aug 2024 00:00:00 -0700</pubDate>
+				<link>/wa-ga-flowchart</link>
+				<guid isPermaLink="true">/wa-ga-flowchart</guid>
+			</item>
+		
+	</channel>
+</rss>

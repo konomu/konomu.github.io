@@ -5,6 +5,13 @@ on:
   push:
     branches:
       - main
+    paths-ignore:
+      - '.gitignore'
+      - 'LICENSE'
+      - 'README.md'
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
 
 concurrency: # prevent concurrent deploys doing strange things
   group: deploy-to-neocities
@@ -13,16 +20,26 @@ concurrency: # prevent concurrent deploys doing strange things
 jobs:
   deploy:
     runs-on: ubuntu-latest
-
     steps:
-    # The checkout step copies your repo into the action runner. Important!
-    - uses: actions/checkout@v4
+    - uses: actions/checkout@v5
+    - name: Mark workspace as safe directory
+      run: git config --global --add safe.directory /github/workspace
+    - name: Setup Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: '3.2'
+    - name: Install dependencies
+      run: |
+        gem install bundler
+        bundle install
+    - name: Build with Jekyll
+      run: bundle exec jekyll build
     # When the dist_dir is ready, deploy it to neocities
     # Here we deploy the folder named `public`
     - name: Deploy to neocities
-      uses: bcomnes/deploy-to-neocities@v3
+      uses: bcomnes/deploy-to-neocities@v3.0.4
       with:
-        api_key: ${{ secrets.NEOCITIES_API_TOKEN }}
+        api_key: ${{ secrets.NEOCITIES_API_KEY }}
         cleanup: false
         neocities_supporter: true
         preview_before_deploy: true # print a deployment plan prior to waiting for files to upload.

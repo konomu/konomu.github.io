@@ -30,3 +30,5 @@ author:              'C.L. © 2025'
 
 sass:
   sass_dir: _sass
+
+destination: public
