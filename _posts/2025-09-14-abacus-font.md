@@ -41,6 +41,6 @@ This number font is designed to look like the one used in abacus math exams in J
 
 <p style="font-size: 2em; line-height: 1.3em; text-align: center;">
    <a href="{{ site.github.url }}/assets/files/abacus5.ttf">
-      .ttf のダウンロードはこちら!<br>Download the .ttf here! (284.0 KiB)<br>
+      .ttf のダウンロードはこちら!<br>Download the .ttf here! (226.6 KiB)<br>
    </a>
 </p>
