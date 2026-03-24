@@ -2,10 +2,6 @@ This is where I keep my personal website. It's Jekyll-generated and uses modifie
 
 TODO:
 
-- Add font support for Japanese text.
-- Figure out the domain thing
-- maybe ditch disqus
-
 Possible articles:
 
 - pyaa
