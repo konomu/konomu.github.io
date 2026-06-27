@@ -1,7 +1,7 @@
 ---
 layout: docs
 title: "A Guide to Wa and Ga in Japanese"
-author: "hedera"
+author: "nae"
 categories: journal
 tags: [japanese]
 image: hatoga1.jpg

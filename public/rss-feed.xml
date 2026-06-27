@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 	<channel>
-		<title>ヘデラ</title>
-		<description>hedera&amp;#39;s notebook</description>
+		<title>ナエのノート</title>
+		<description>nae&amp;#39;s notebook</description>
 		<link></link>
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>How to Set Up a Completely Private Instance of SearXNG-Docker</title>
+				<title>(OUTDATED) How to Set Up a Personal Instance of SearXNG-Docker</title>
 				
-					<dc:creator>hedera</dc:creator>
+					<dc:creator>nae</dc:creator>
 				
 				
-					<description>&lt;p&gt;A few months ago, I set up my own local SearXNG docker image and it’s honestly been one of the best decisions I’ve ever made for my machine. It’s a way to add a layer of privacy between you and all of the search engines you use. Not only can you avoid having a profile of you get built by companies who sell your data, but I find SearXNG also gives you a better user experience because it aggregates results from many different engines at once. It’s so much easier to find what you’re actually looking for when you use SearXNG.&lt;/p&gt;
+					<description>&lt;h1 id=&quot;addendum-2026-05-19&quot;&gt;Addendum 2026-05-19&lt;/h1&gt;
+&lt;p&gt;The method I outline in this article is outdated as searxng-docker is now deprecated. Please follow this guide now: https://docs.searxng.org/admin/installation-docker.html#compose-instancing.&lt;/p&gt;
 </description>
 				
 				<pubDate>Sat, 13 Dec 2025 00:00:00 -0800</pubDate>
@@ -23,7 +24,7 @@
 			<item>
 				<title>Youtube Addiction</title>
 				
-					<dc:creator>hedera</dc:creator>
+					<dc:creator>nae</dc:creator>
 				
 				
 					<description>&lt;p&gt;I have a problem with youtube. I watch so much of it and I rarely feel like what I’m watching is fulfilling. Sometimes I find myself in the middle of a video essay on a subject I don’t care about, or an educational video teaching something which I’m certain I won’t remember tomorrow. Why did I even click on this in the first place? What made me think that this would be a good use of my time?&lt;/p&gt;
@@ -37,7 +38,7 @@
 			<item>
 				<title>珠算数字フォント | Abacus Number Font</title>
 				
-					<dc:creator>hedera</dc:creator>
+					<dc:creator>nae</dc:creator>
 				
 				
 					<description>&lt;style&gt;
@@ -59,7 +60,7 @@
 			<item>
 				<title>Glossary of Pronunciations of Botanical Terms</title>
 				
-					<dc:creator>hedera</dc:creator>
+					<dc:creator>nae</dc:creator>
 				
 				
 					<description>&lt;style&gt;
@@ -74,7 +75,7 @@
 			<item>
 				<title>Wa and Ga Addendum - Atypical Noun Sentences</title>
 				
-					<dc:creator>hedera</dc:creator>
+					<dc:creator>nae</dc:creator>
 				
 				
 					<description>&lt;div style=&quot;justify-content: flex-start !important; margin-top: 1rem;&quot; class=&quot;arrow-container&quot;&gt;
@@ -90,7 +91,7 @@
 			<item>
 				<title>Wa and Ga - Principle of Topic Presence</title>
 				
-					<dc:creator>hedera</dc:creator>
+					<dc:creator>nae</dc:creator>
 				
 				
 					<description>&lt;p&gt;&lt;em&gt;This article is one in a series that comprehensively explains usage of は vs. が in Japanese. Most content is directly pulled from 『｢は｣ と ｢が｣』 by Hisashi Noda.&lt;/em&gt;&lt;/p&gt;
@@ -104,7 +105,7 @@
 			<item>
 				<title>Wa and Ga - Principle of Topic Position</title>
 				
-					<dc:creator>hedera</dc:creator>
+					<dc:creator>nae</dc:creator>
 				
 				
 					<description>&lt;p&gt;&lt;em&gt;This article is one in a series that comprehensively explains usage of は vs. が in Japanese. Most content is directly pulled from 『｢は｣ と ｢が｣』 by Hisashi Noda.&lt;/em&gt;&lt;/p&gt;
@@ -118,7 +119,7 @@
 			<item>
 				<title>Wa and Ga - Principle of Subordination</title>
 				
-					<dc:creator>hedera</dc:creator>
+					<dc:creator>nae</dc:creator>
 				
 				
 					<description>&lt;p&gt;&lt;em&gt;This article is one in a series that comprehensively explains usage of は vs. が in Japanese. Most content is directly pulled from 『｢は｣ と ｢が｣』 by Hisashi Noda.&lt;/em&gt;&lt;/p&gt;
@@ -132,7 +133,7 @@
 			<item>
 				<title>Wa and Ga - Other Usages and More は Structures</title>
 				
-					<dc:creator>hedera</dc:creator>
+					<dc:creator>nae</dc:creator>
 				
 				
 					<description>&lt;p&gt;&lt;em&gt;This article is one in a series that comprehensively explains usage of は vs. が in Japanese. Most content is directly pulled from 『｢は｣ と ｢が｣』 by Hisashi Noda.&lt;/em&gt;&lt;/p&gt;
@@ -146,7 +147,7 @@
 			<item>
 				<title>Wa and Ga - The Flowchart</title>
 				
-					<dc:creator>hedera</dc:creator>
+					<dc:creator>nae</dc:creator>
 				
 				
 					<description>&lt;p&gt;&lt;em&gt;This article is one in a series that comprehensively explains usage of は vs. が in Japanese. Most content is directly pulled from 『｢は｣ と ｢が｣』 by Hisashi Noda.&lt;/em&gt;&lt;/p&gt;

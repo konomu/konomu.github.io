@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Glossary of Pronunciations of Botanical Terms"
-author: "hedera"
+author: "nae"
 categories: journal
 tags: [plants]
 image: 

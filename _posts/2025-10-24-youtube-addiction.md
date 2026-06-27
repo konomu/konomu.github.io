@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Youtube Addiction"
-author: "hedera"
+author: "nae"
 categories: journal
 tags: [youtube, addiction, personal]
 image: 

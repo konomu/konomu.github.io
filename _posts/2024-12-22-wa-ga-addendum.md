@@ -1,7 +1,7 @@
 ---
 layout: docs
 title: "Wa and Ga Addendum - Atypical Noun Sentences"
-author: "hedera"
+author: "nae"
 categories: journal
 tags: [japanese]
 image: tanaka.jpg

@@ -1,7 +1,7 @@
 ---
 layout: docs
 title: "Wa and Ga - The Flowchart"
-author: "hedera"
+author: "nae"
 categories: journal
 tags: [japanese]
 hidden: true

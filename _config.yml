@@ -20,8 +20,8 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           'ヘデラ'
-description:	       'hedera&#39;s notebook'
+title:		           'ナエのノート'
+description:	       'nae&#39;s notebook'
 author:              'C.L. © 2026'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines

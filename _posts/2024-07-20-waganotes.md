@@ -1,7 +1,7 @@
 ---
 layout: docs
 title: "notes"
-author: "hedera"
+author: "nae"
 categories: journal
 tags: [japanese]
 published: false

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "珠算数字フォント | Abacus Number Font"
-author: "hedera"
+author: "nae"
 categories: journal
 tags: [soroban, abacus, そろばん, font, 算盤]
 image: [sorobanfont.png]
